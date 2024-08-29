@@ -1,0 +1,1 @@
+/root/colcon_ws/build/slam_msgs/rosidl_generator_py/slam_msgs/msg/_key_frame_s.c

@@ -1,0 +1,1 @@
+WARNING: topic [/orb_slam3/camera_pose] does not appear to be published yet

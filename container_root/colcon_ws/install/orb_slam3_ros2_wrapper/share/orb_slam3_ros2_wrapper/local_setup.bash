@@ -1,0 +1,1 @@
+/root/colcon_ws/build/orb_slam3_ros2_wrapper/ament_cmake_environment_hooks/local_setup.bash

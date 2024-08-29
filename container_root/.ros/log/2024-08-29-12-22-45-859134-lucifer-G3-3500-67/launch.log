@@ -1,0 +1,4 @@
+1724948565.8604734 [INFO] [launch]: All log files can be found below /root/.ros/log/2024-08-29-12-22-45-859134-lucifer-G3-3500-67
+1724948565.8606272 [INFO] [launch]: Default logging verbosity is set to INFO
+1724948565.9346375 [INFO] [rgbd-1]: process started with pid [68]
+1724949609.6552658 [ERROR] [rgbd-1]: process has died [pid 68, exit code -6, cmd '/root/colcon_ws/install/orb_slam3_ros2_wrapper/lib/orb_slam3_ros2_wrapper/rgbd /home/orb/ORB_SLAM3/Vocabulary/ORBvoc.txt /root/colcon_ws/src/orb_slam3_ros2_wrapper/params/gazebo_rgbd.yaml --ros-args -r __ns:=/robot_0 --params-file /tmp/tmpn3_ncudt'].

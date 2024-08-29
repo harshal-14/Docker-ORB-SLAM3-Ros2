@@ -1,0 +1,4 @@
+/root/colcon_ws/build/slam_msgs/rosidl_adapter/slam_msgs:msg/MapGraph.idl
+/root/colcon_ws/build/slam_msgs/rosidl_adapter/slam_msgs:msg/MapData.idl
+/root/colcon_ws/build/slam_msgs/rosidl_adapter/slam_msgs:msg/KeyFrame.idl
+/root/colcon_ws/build/slam_msgs/rosidl_adapter/slam_msgs:srv/GetMap.idl

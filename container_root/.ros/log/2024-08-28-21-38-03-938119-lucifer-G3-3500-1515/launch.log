@@ -1,0 +1,7 @@
+1724895483.9388194 [INFO] [launch]: All log files can be found below /root/.ros/log/2024-08-28-21-38-03-938119-lucifer-G3-3500-1515
+1724895483.9389393 [INFO] [launch]: Default logging verbosity is set to INFO
+1724895484.0040672 [INFO] [rgbd-1]: process started with pid [1516]
+1724899081.5641847 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1724899086.6497195 [ERROR] [rgbd-1]: process[rgbd-1] failed to terminate '5' seconds after receiving 'SIGINT', escalating to 'SIGTERM'
+1724899086.6521347 [INFO] [rgbd-1]: sending signal 'SIGTERM' to process[rgbd-1]
+1724899086.7542224 [ERROR] [rgbd-1]: process has died [pid 1516, exit code -15, cmd '/root/colcon_ws/install/orb_slam3_ros2_wrapper/lib/orb_slam3_ros2_wrapper/rgbd /home/orb/ORB_SLAM3/Vocabulary/ORBvoc.txt /root/colcon_ws/src/orb_slam3_ros2_wrapper/params/gazebo_rgbd.yaml --ros-args -r __ns:=/robot_0 --params-file /tmp/tmpc9tlu9ov'].

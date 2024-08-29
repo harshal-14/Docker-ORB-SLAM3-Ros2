@@ -1,0 +1,291 @@
+[0.011s] Invoking command in '/root/colcon_ws/build/slam_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /root/colcon_ws/src/slam_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/root/colcon_ws/install/slam_msgs
+[0.097s] -- The C compiler identification is GNU 11.4.0
+[0.151s] -- The CXX compiler identification is GNU 11.4.0
+[0.160s] -- Detecting C compiler ABI info
+[0.223s] -- Detecting C compiler ABI info - done
+[0.231s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.231s] -- Detecting C compile features
+[0.232s] -- Detecting C compile features - done
+[0.235s] -- Detecting CXX compiler ABI info
+[0.306s] -- Detecting CXX compiler ABI info - done
+[0.314s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.314s] -- Detecting CXX compile features
+[0.315s] -- Detecting CXX compile features - done
+[0.320s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.464s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.527s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.562s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.617s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.623s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.634s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.650s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.671s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.726s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.730s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.822s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.852s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.898s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.910s] -- Looking for pthread.h
+[0.970s] -- Looking for pthread.h - found
+[0.971s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.034s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.035s] -- Found Threads: TRUE  
+[1.102s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[1.119s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[1.142s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[1.469s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.923s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.097s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.117s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[2.119s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.146s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[2.146s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.146s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.146s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.164s] -- Found PythonExtra: .so  
+[2.249s] -- Configuring done
+[2.288s] -- Generating done
+[2.291s] -- Build files have been written to: /root/colcon_ws/build/slam_msgs
+[2.303s] Invoked command in '/root/colcon_ws/build/slam_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /root/colcon_ws/src/slam_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/root/colcon_ws/install/slam_msgs
+[2.305s] Invoking command in '/root/colcon_ws/build/slam_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/slam_msgs -- -j8 -l8
+[2.341s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[2.351s] [  3%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[2.358s] [  3%] Built target ament_cmake_python_symlink_slam_msgs
+[2.579s] running egg_info
+[2.579s] creating slam_msgs.egg-info
+[2.580s] writing slam_msgs.egg-info/PKG-INFO
+[2.580s] writing dependency_links to slam_msgs.egg-info/dependency_links.txt
+[2.580s] writing top-level names to slam_msgs.egg-info/top_level.txt
+[2.580s] writing manifest file 'slam_msgs.egg-info/SOURCES.txt'
+[2.582s] reading manifest file 'slam_msgs.egg-info/SOURCES.txt'
+[2.583s] writing manifest file 'slam_msgs.egg-info/SOURCES.txt'
+[2.609s] [  3%] Built target ament_cmake_python_build_slam_msgs_egg
+[2.819s] [  3%] Built target slam_msgs__cpp
+[2.828s] [  5%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[2.829s] [  7%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[2.829s] [  9%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[2.851s] [ 10%] [32mBuilding C object CMakeFiles/slam_msgs__rosidl_generator_c.dir/rosidl_generator_c/slam_msgs/msg/detail/map_data__functions.c.o[0m
+[2.853s] [ 16%] [32mBuilding C object CMakeFiles/slam_msgs__rosidl_generator_c.dir/rosidl_generator_c/slam_msgs/srv/detail/get_map__functions.c.o[0m
+[2.853s] [ 16%] [32mBuilding C object CMakeFiles/slam_msgs__rosidl_generator_c.dir/rosidl_generator_c/slam_msgs/msg/detail/map_graph__functions.c.o[0m
+[2.854s] [ 16%] [32mBuilding C object CMakeFiles/slam_msgs__rosidl_generator_c.dir/rosidl_generator_c/slam_msgs/msg/detail/key_frame__functions.c.o[0m
+[2.942s] [ 18%] [32m[1mLinking C shared library libslam_msgs__rosidl_generator_c.so[0m
+[2.977s] [ 18%] Built target slam_msgs__rosidl_generator_c
+[2.992s] [ 20%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[2.992s] [ 21%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[2.992s] [ 23%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[3.328s] [ 25%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/slam_msgs/msg/map_graph__type_support.cpp.o[0m
+[3.334s] [ 27%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/slam_msgs/msg/map_data__type_support.cpp.o[0m
+[3.354s] [ 29%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/slam_msgs/msg/key_frame__type_support.cpp.o[0m
+[3.388s] [ 30%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/slam_msgs/msg/detail/map_graph__type_support.cpp.o[0m
+[3.393s] [ 32%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/slam_msgs/msg/map_graph__type_support.cpp.o[0m
+[3.433s] [ 34%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/slam_msgs/msg/detail/dds_fastrtps/map_graph__type_support.cpp.o[0m
+[3.445s] [ 36%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/slam_msgs/msg/map_data__type_support.cpp.o[0m
+[3.491s] [ 38%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/slam_msgs/msg/key_frame__type_support.cpp.o[0m
+[3.530s] [ 40%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/slam_msgs/srv/get_map__type_support.cpp.o[0m
+[3.612s] [ 41%] [32m[1mLinking CXX shared library libslam_msgs__rosidl_typesupport_c.so[0m
+[3.696s] [ 41%] Built target slam_msgs__rosidl_typesupport_c
+[3.720s] [ 43%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/slam_msgs/srv/get_map__type_support.cpp.o[0m
+[3.768s] [ 45%] [32mBuilding C object CMakeFiles/slam_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/slam_msgs/msg/detail/map_graph__type_support.c.o[0m
+[3.805s] [ 47%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/slam_msgs/msg/detail/dds_fastrtps/map_data__type_support.cpp.o[0m
+[3.805s] [ 49%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/slam_msgs/msg/detail/map_data__type_support.cpp.o[0m
+[3.819s] [ 50%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/slam_msgs/msg/detail/map_graph__type_support_c.cpp.o[0m
+[3.835s] [ 52%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/slam_msgs/msg/detail/dds_fastrtps/key_frame__type_support.cpp.o[0m
+[3.842s] [ 54%] [32mBuilding C object CMakeFiles/slam_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/slam_msgs/msg/detail/map_data__type_support.c.o[0m
+[3.904s] [ 56%] [32mBuilding C object CMakeFiles/slam_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/slam_msgs/msg/detail/key_frame__type_support.c.o[0m
+[3.957s] [ 58%] [32mBuilding C object CMakeFiles/slam_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/slam_msgs/srv/detail/get_map__type_support.c.o[0m
+[4.019s] [ 60%] [32m[1mLinking C shared library libslam_msgs__rosidl_typesupport_introspection_c.so[0m
+[4.071s] [ 60%] Built target slam_msgs__rosidl_typesupport_introspection_c
+[4.087s] [ 61%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/slam_msgs/srv/detail/dds_fastrtps/get_map__type_support.cpp.o[0m
+[4.172s] [ 63%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/slam_msgs/msg/detail/map_data__type_support_c.cpp.o[0m
+[4.209s] [ 65%] [32m[1mLinking CXX shared library libslam_msgs__rosidl_typesupport_cpp.so[0m
+[4.281s] [ 65%] Built target slam_msgs__rosidl_typesupport_cpp
+[4.294s] [ 67%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/slam_msgs/msg/detail/key_frame__type_support.cpp.o[0m
+[4.308s] [ 69%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/slam_msgs/srv/detail/get_map__type_support.cpp.o[0m
+[4.411s] [ 70%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/slam_msgs/msg/detail/key_frame__type_support_c.cpp.o[0m
+[4.599s] [ 72%] [32mBuilding CXX object CMakeFiles/slam_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/slam_msgs/srv/detail/get_map__type_support_c.cpp.o[0m
+[4.875s] [ 74%] [32m[1mLinking CXX shared library libslam_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[4.957s] [ 76%] [32m[1mLinking CXX shared library libslam_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[4.974s] [ 76%] Built target slam_msgs__rosidl_typesupport_fastrtps_cpp
+[5.046s] [ 76%] Built target slam_msgs__rosidl_typesupport_introspection_cpp
+[5.068s] [ 78%] [32m[1mLinking CXX shared library libslam_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[5.144s] [ 78%] Built target slam_msgs__rosidl_typesupport_fastrtps_c
+[5.163s] [ 78%] Built target slam_msgs
+[5.182s] [ 80%] [34m[1mGenerating Python code for ROS interfaces[0m
+[5.852s] [ 80%] Built target slam_msgs__py
+[5.870s] [ 87%] [32mBuilding C object CMakeFiles/slam_msgs__rosidl_generator_py.dir/rosidl_generator_py/slam_msgs/msg/_map_graph_s.c.o[0m
+[5.870s] [ 87%] [32mBuilding C object CMakeFiles/slam_msgs__rosidl_generator_py.dir/rosidl_generator_py/slam_msgs/msg/_key_frame_s.c.o[0m
+[5.870s] [ 87%] [32mBuilding C object CMakeFiles/slam_msgs__rosidl_generator_py.dir/rosidl_generator_py/slam_msgs/msg/_map_data_s.c.o[0m
+[5.870s] [ 87%] [32mBuilding C object CMakeFiles/slam_msgs__rosidl_generator_py.dir/rosidl_generator_py/slam_msgs/srv/_get_map_s.c.o[0m
+[6.005s] [ 89%] [32m[1mLinking C shared library rosidl_generator_py/slam_msgs/libslam_msgs__rosidl_generator_py.so[0m
+[6.045s] [ 89%] Built target slam_msgs__rosidl_generator_py
+[6.064s] [ 94%] [32mBuilding C object CMakeFiles/slam_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/slam_msgs/_slam_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[6.064s] [ 94%] [32mBuilding C object CMakeFiles/slam_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/slam_msgs/_slam_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[6.065s] [ 94%] [32mBuilding C object CMakeFiles/slam_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/slam_msgs/_slam_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[6.173s] [100%] [32m[1mLinking C shared library rosidl_generator_py/slam_msgs/slam_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[6.173s] [100%] [32m[1mLinking C shared library rosidl_generator_py/slam_msgs/slam_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[6.173s] [100%] [32m[1mLinking C shared library rosidl_generator_py/slam_msgs/slam_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[6.212s] [100%] Built target slam_msgs__rosidl_typesupport_introspection_c__pyext
+[6.212s] [100%] Built target slam_msgs__rosidl_typesupport_fastrtps_c__pyext
+[6.213s] [100%] Built target slam_msgs__rosidl_typesupport_c__pyext
+[6.223s] Invoked command in '/root/colcon_ws/build/slam_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/slam_msgs -- -j8 -l8
+[6.307s] Invoking command in '/root/colcon_ws/build/slam_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/slam_msgs
+[6.313s] -- Install configuration: ""
+[6.314s] -- Execute custom install script
+[6.314s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/ament_index/resource_index/rosidl_interfaces/slam_msgs
+[6.322s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__functions.h
+[6.328s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__struct.h
+[6.335s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__type_support.h
+[6.342s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__functions.h
+[6.350s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__struct.h
+[6.358s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__type_support.h
+[6.365s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__functions.h
+[6.372s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__struct.h
+[6.380s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__type_support.h
+[6.387s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/key_frame.h
+[6.394s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/map_data.h
+[6.401s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/map_graph.h
+[6.408s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/rosidl_generator_c__visibility_control.h
+[6.415s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__functions.h
+[6.423s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__struct.h
+[6.430s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__type_support.h
+[6.436s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/get_map.h
+[6.443s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/library_path.sh
+[6.451s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/library_path.dsv
+[6.459s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__rosidl_typesupport_fastrtps_c.h
+[6.467s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__rosidl_typesupport_fastrtps_c.h
+[6.474s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__rosidl_typesupport_fastrtps_c.h
+[6.481s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[6.488s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__rosidl_typesupport_fastrtps_c.h
+[6.497s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__builder.hpp
+[6.505s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__struct.hpp
+[6.512s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__traits.hpp
+[6.519s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__builder.hpp
+[6.526s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__struct.hpp
+[6.533s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__traits.hpp
+[6.542s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__builder.hpp
+[6.550s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__struct.hpp
+[6.557s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__traits.hpp
+[6.564s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/key_frame.hpp
+[6.571s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/map_data.hpp
+[6.577s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/map_graph.hpp
+[6.584s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__builder.hpp
+[6.592s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__struct.hpp
+[6.599s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__traits.hpp
+[6.606s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/get_map.hpp
+[6.613s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__rosidl_typesupport_fastrtps_cpp.hpp
+[6.621s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__rosidl_typesupport_fastrtps_cpp.hpp
+[6.629s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__rosidl_typesupport_fastrtps_cpp.hpp
+[6.636s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[6.643s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__rosidl_typesupport_fastrtps_cpp.hpp
+[6.651s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__rosidl_typesupport_introspection_c.h
+[6.660s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__rosidl_typesupport_introspection_c.h
+[6.667s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__rosidl_typesupport_introspection_c.h
+[6.674s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[6.680s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__rosidl_typesupport_introspection_c.h
+[6.688s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__rosidl_typesupport_introspection_cpp.hpp
+[6.695s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__rosidl_typesupport_introspection_cpp.hpp
+[6.703s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__rosidl_typesupport_introspection_cpp.hpp
+[6.712s] -- Symlinking: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__rosidl_typesupport_introspection_cpp.hpp
+[6.719s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/pythonpath.sh
+[6.726s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/pythonpath.dsv
+[6.734s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs-1.0.0-py3.10.egg-info/PKG-INFO
+[6.742s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs-1.0.0-py3.10.egg-info/SOURCES.txt
+[6.750s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs-1.0.0-py3.10.egg-info/dependency_links.txt
+[6.758s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs-1.0.0-py3.10.egg-info/top_level.txt
+[6.765s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/__init__.py
+[6.772s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/_slam_msgs_s.ep.rosidl_typesupport_c.c
+[6.780s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/_slam_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[6.788s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/_slam_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[6.794s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/libslam_msgs__rosidl_generator_py.so
+[6.801s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/__init__.py
+[6.808s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_key_frame.py
+[6.816s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_key_frame_s.c
+[6.823s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_map_data.py
+[6.830s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_map_data_s.c
+[6.837s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_map_graph.py
+[6.844s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_map_graph_s.c
+[6.853s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[6.861s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[6.868s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[6.875s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/srv/__init__.py
+[6.882s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/srv/_get_map.py
+[6.889s] -- Symlinking: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/srv/_get_map_s.c
+[6.896s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[6.896s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[6.896s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[6.898s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/MapGraph.idl
+[6.906s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/MapData.idl
+[6.913s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/KeyFrame.idl
+[6.920s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/srv/GetMap.idl
+[6.927s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/MapGraph.msg
+[6.934s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/MapData.msg
+[6.943s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/KeyFrame.msg
+[6.952s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/srv/GetMap.srv
+[6.959s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/srv/GetMap_Request.msg
+[6.966s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/srv/GetMap_Response.msg
+[6.974s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/ament_index/resource_index/package_run_dependencies/slam_msgs
+[6.981s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/ament_index/resource_index/parent_prefix_path/slam_msgs
+[6.990s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/ament_prefix_path.sh
+[6.997s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/ament_prefix_path.dsv
+[7.005s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/path.sh
+[7.013s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/path.dsv
+[7.021s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/local_setup.bash
+[7.028s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/local_setup.sh
+[7.035s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/local_setup.zsh
+[7.042s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/local_setup.dsv
+[7.050s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/package.dsv
+[7.058s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/ament_index/resource_index/packages/slam_msgs
+[7.066s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/rosidl_cmake-extras.cmake
+[7.074s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[7.080s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[7.087s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[7.096s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[7.103s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[7.110s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[7.118s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgsConfig.cmake
+[7.125s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgsConfig-version.cmake
+[7.132s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/package.xml
+[7.140s] -- Installing: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_generator_c.so
+[7.140s] -- Set runtime path of "/root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_generator_c.so" to ""
+[7.140s] -- Installing: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_fastrtps_c.so
+[7.140s] -- Set runtime path of "/root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[7.140s] -- Installing: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_fastrtps_cpp.so
+[7.140s] -- Set runtime path of "/root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[7.140s] -- Installing: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_introspection_c.so
+[7.141s] -- Set runtime path of "/root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_introspection_c.so" to ""
+[7.141s] -- Installing: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_c.so
+[7.141s] -- Set runtime path of "/root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_c.so" to ""
+[7.141s] -- Installing: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_introspection_cpp.so
+[7.141s] -- Set runtime path of "/root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[7.141s] -- Installing: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_cpp.so
+[7.141s] -- Set runtime path of "/root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_cpp.so" to ""
+[7.179s] Listing '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs'...
+[7.179s] Compiling '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/__init__.py'...
+[7.179s] Listing '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg'...
+[7.179s] Compiling '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/__init__.py'...
+[7.179s] Compiling '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_key_frame.py'...
+[7.179s] Compiling '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_map_data.py'...
+[7.179s] Compiling '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_map_graph.py'...
+[7.179s] Listing '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/srv'...
+[7.179s] Compiling '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/srv/__init__.py'...
+[7.179s] Compiling '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/srv/_get_map.py'...
+[7.184s] -- Installing: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_generator_py.so
+[7.184s] -- Set runtime path of "/root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_generator_py.so" to ""
+[7.184s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_generator_cExport.cmake
+[7.184s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_generator_cExport-noconfig.cmake
+[7.184s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[7.185s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[7.185s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_generator_cppExport.cmake
+[7.185s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[7.185s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[7.185s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_introspection_cExport.cmake
+[7.185s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[7.185s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_cExport.cmake
+[7.185s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[7.185s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[7.186s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[7.186s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_cppExport.cmake
+[7.186s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[7.186s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_generator_pyExport.cmake
+[7.186s] -- Installing: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_generator_pyExport-noconfig.cmake
+[7.188s] Invoked command in '/root/colcon_ws/build/slam_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/slam_msgs

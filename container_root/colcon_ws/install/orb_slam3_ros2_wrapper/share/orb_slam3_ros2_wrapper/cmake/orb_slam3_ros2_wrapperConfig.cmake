@@ -1,0 +1,1 @@
+/root/colcon_ws/build/orb_slam3_ros2_wrapper/ament_cmake_core/orb_slam3_ros2_wrapperConfig.cmake
