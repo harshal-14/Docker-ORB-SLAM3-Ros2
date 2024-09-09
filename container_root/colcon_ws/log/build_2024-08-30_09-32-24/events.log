@@ -1,0 +1,5 @@
+[0.000000] (-) TimerEvent: {}
+[0.000978] (-) JobUnselected: {'identifier': 'orb_slam3_ros2_wrapper'}
+[0.001158] (-) JobUnselected: {'identifier': 'slam_msgs'}
+[0.001234] (-) JobUnselected: {'identifier': 'trajectory_comparer'}
+[0.001298] (-) EventReactorShutdown: {}

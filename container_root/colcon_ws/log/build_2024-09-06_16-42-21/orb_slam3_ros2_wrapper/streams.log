@@ -1,0 +1,27 @@
+[0.019s] Invoking command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/orb_slam3_ros2_wrapper -- -j8 -l8
+[0.176s] [100%] Built target rgbd
+[0.193s] Invoked command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper' returned '0': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/orb_slam3_ros2_wrapper -- -j8 -l8
+[0.241s] Invoking command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/orb_slam3_ros2_wrapper
+[0.252s] -- Install configuration: ""
+[0.252s] -- Execute custom install script
+[0.254s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/lib/orb_slam3_ros2_wrapper/rgbd
+[0.254s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/launch/rgbd.launch.py
+[0.255s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/launch/unirobot.launch.py
+[0.255s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/params/gazebo_rgbd.yaml
+[0.255s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/params/rgbd-ros-params.yaml
+[0.256s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/ament_index/resource_index/package_run_dependencies/orb_slam3_ros2_wrapper
+[0.256s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/ament_index/resource_index/parent_prefix_path/orb_slam3_ros2_wrapper
+[0.257s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/environment/ament_prefix_path.sh
+[0.257s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/environment/ament_prefix_path.dsv
+[0.258s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/environment/path.sh
+[0.258s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/environment/path.dsv
+[0.258s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/local_setup.bash
+[0.259s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/local_setup.sh
+[0.259s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/local_setup.zsh
+[0.259s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/local_setup.dsv
+[0.260s] -- Symlinking: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.dsv
+[0.273s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/ament_index/resource_index/packages/orb_slam3_ros2_wrapper
+[0.273s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/cmake/orb_slam3_ros2_wrapperConfig.cmake
+[0.273s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/cmake/orb_slam3_ros2_wrapperConfig-version.cmake
+[0.274s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.xml
+[0.277s] Invoked command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper' returned '0': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/orb_slam3_ros2_wrapper

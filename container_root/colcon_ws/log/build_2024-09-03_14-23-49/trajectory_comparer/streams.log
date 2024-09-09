@@ -1,0 +1,21 @@
+[0.535s] Invoking command in '/root/colcon_ws/build/trajectory_comparer': PYTHONPATH=/root/colcon_ws/build/trajectory_comparer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/colcon_ws/build/trajectory_comparer/build --no-deps symlink_data --force
+[0.741s] running develop
+[0.742s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.742s]   warnings.warn(
+[0.857s] running egg_info
+[0.857s] writing trajectory_comparer.egg-info/PKG-INFO
+[0.858s] writing dependency_links to trajectory_comparer.egg-info/dependency_links.txt
+[0.858s] writing entry points to trajectory_comparer.egg-info/entry_points.txt
+[0.858s] writing requirements to trajectory_comparer.egg-info/requires.txt
+[0.858s] writing top-level names to trajectory_comparer.egg-info/top_level.txt
+[0.860s] reading manifest file 'trajectory_comparer.egg-info/SOURCES.txt'
+[0.860s] writing manifest file 'trajectory_comparer.egg-info/SOURCES.txt'
+[0.861s] running build_ext
+[0.861s] Creating /root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages/trajectory-comparer.egg-link (link to .)
+[0.862s] Installing simple_trajectory_comparer script to /root/colcon_ws/install/trajectory_comparer/lib/trajectory_comparer
+[0.862s] 
+[0.862s] Installed /root/colcon_ws/build/trajectory_comparer
+[0.862s] running symlink_data
+[0.863s] symbolically linking /root/colcon_ws/build/trajectory_comparer/resource/trajectory_comparer -> /root/colcon_ws/install/trajectory_comparer/share/ament_index/resource_index/packages
+[0.863s] symbolically linking /root/colcon_ws/build/trajectory_comparer/package.xml -> /root/colcon_ws/install/trajectory_comparer/share/trajectory_comparer
+[0.883s] Invoked command in '/root/colcon_ws/build/trajectory_comparer' returned '0': PYTHONPATH=/root/colcon_ws/build/trajectory_comparer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/colcon_ws/build/trajectory_comparer/build --no-deps symlink_data --force

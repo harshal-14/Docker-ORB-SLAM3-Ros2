@@ -1,0 +1,264 @@
+[0.136s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build', '--symlink-install']
+[0.136s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=True, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=8, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, mixin_files=None, mixin=None, verb_parser=<colcon_mixin.mixin.mixin_argument.MixinArgumentDecorator object at 0x7e3cfe4187c0>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7e3cfe5d1c90>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7e3cfe5d1c90>>, mixin_verb=('build',))
+[0.287s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.287s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.287s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.288s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.288s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[0.288s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.288s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/root/colcon_ws'
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[0.300s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[0.300s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[0.300s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[0.300s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[0.300s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[0.300s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[0.300s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[0.300s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[0.300s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ignore', 'ignore_ament_install']
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore'
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore_ament_install'
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_pkg']
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_pkg'
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_meta']
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_meta'
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ros']
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ros'
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['cmake', 'python']
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cmake'
+[0.301s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python'
+[0.302s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['python_setup_py']
+[0.302s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python_setup_py'
+[0.302s] Level 1:colcon.colcon_core.package_identification:_identify(src/orb_slam3_ros2_wrapper) by extensions ['ignore', 'ignore_ament_install']
+[0.302s] Level 1:colcon.colcon_core.package_identification:_identify(src/orb_slam3_ros2_wrapper) by extension 'ignore'
+[0.302s] Level 1:colcon.colcon_core.package_identification:_identify(src/orb_slam3_ros2_wrapper) by extension 'ignore_ament_install'
+[0.302s] Level 1:colcon.colcon_core.package_identification:_identify(src/orb_slam3_ros2_wrapper) by extensions ['colcon_pkg']
+[0.302s] Level 1:colcon.colcon_core.package_identification:_identify(src/orb_slam3_ros2_wrapper) by extension 'colcon_pkg'
+[0.302s] Level 1:colcon.colcon_core.package_identification:_identify(src/orb_slam3_ros2_wrapper) by extensions ['colcon_meta']
+[0.302s] Level 1:colcon.colcon_core.package_identification:_identify(src/orb_slam3_ros2_wrapper) by extension 'colcon_meta'
+[0.302s] Level 1:colcon.colcon_core.package_identification:_identify(src/orb_slam3_ros2_wrapper) by extensions ['ros']
+[0.302s] Level 1:colcon.colcon_core.package_identification:_identify(src/orb_slam3_ros2_wrapper) by extension 'ros'
+[0.306s] DEBUG:colcon.colcon_core.package_identification:Package 'src/orb_slam3_ros2_wrapper' with type 'ros.ament_cmake' and name 'orb_slam3_ros2_wrapper'
+[0.306s] Level 1:colcon.colcon_core.package_identification:_identify(src/slam_msgs) by extensions ['ignore', 'ignore_ament_install']
+[0.306s] Level 1:colcon.colcon_core.package_identification:_identify(src/slam_msgs) by extension 'ignore'
+[0.306s] Level 1:colcon.colcon_core.package_identification:_identify(src/slam_msgs) by extension 'ignore_ament_install'
+[0.306s] Level 1:colcon.colcon_core.package_identification:_identify(src/slam_msgs) by extensions ['colcon_pkg']
+[0.306s] Level 1:colcon.colcon_core.package_identification:_identify(src/slam_msgs) by extension 'colcon_pkg'
+[0.306s] Level 1:colcon.colcon_core.package_identification:_identify(src/slam_msgs) by extensions ['colcon_meta']
+[0.306s] Level 1:colcon.colcon_core.package_identification:_identify(src/slam_msgs) by extension 'colcon_meta'
+[0.306s] Level 1:colcon.colcon_core.package_identification:_identify(src/slam_msgs) by extensions ['ros']
+[0.306s] Level 1:colcon.colcon_core.package_identification:_identify(src/slam_msgs) by extension 'ros'
+[0.307s] DEBUG:colcon.colcon_core.package_identification:Package 'src/slam_msgs' with type 'ros.ament_cmake' and name 'slam_msgs'
+[0.307s] Level 1:colcon.colcon_core.package_identification:_identify(src/trajectory_comparer) by extensions ['ignore', 'ignore_ament_install']
+[0.307s] Level 1:colcon.colcon_core.package_identification:_identify(src/trajectory_comparer) by extension 'ignore'
+[0.307s] Level 1:colcon.colcon_core.package_identification:_identify(src/trajectory_comparer) by extension 'ignore_ament_install'
+[0.307s] Level 1:colcon.colcon_core.package_identification:_identify(src/trajectory_comparer) by extensions ['colcon_pkg']
+[0.307s] Level 1:colcon.colcon_core.package_identification:_identify(src/trajectory_comparer) by extension 'colcon_pkg'
+[0.307s] Level 1:colcon.colcon_core.package_identification:_identify(src/trajectory_comparer) by extensions ['colcon_meta']
+[0.308s] Level 1:colcon.colcon_core.package_identification:_identify(src/trajectory_comparer) by extension 'colcon_meta'
+[0.308s] Level 1:colcon.colcon_core.package_identification:_identify(src/trajectory_comparer) by extensions ['ros']
+[0.308s] Level 1:colcon.colcon_core.package_identification:_identify(src/trajectory_comparer) by extension 'ros'
+[0.310s] DEBUG:colcon.colcon_core.package_identification:Package 'src/trajectory_comparer' with type 'ros.ament_python' and name 'trajectory_comparer'
+[0.310s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[0.310s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[0.310s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[0.310s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[0.310s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[0.333s] Level 5:colcon.colcon_core.verb:set package 'slam_msgs' build argument 'cmake_args' from command line to 'None'
+[0.333s] Level 5:colcon.colcon_core.verb:set package 'slam_msgs' build argument 'cmake_target' from command line to 'None'
+[0.333s] Level 5:colcon.colcon_core.verb:set package 'slam_msgs' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.333s] Level 5:colcon.colcon_core.verb:set package 'slam_msgs' build argument 'cmake_clean_cache' from command line to 'False'
+[0.333s] Level 5:colcon.colcon_core.verb:set package 'slam_msgs' build argument 'cmake_clean_first' from command line to 'False'
+[0.333s] Level 5:colcon.colcon_core.verb:set package 'slam_msgs' build argument 'cmake_force_configure' from command line to 'False'
+[0.333s] Level 5:colcon.colcon_core.verb:set package 'slam_msgs' build argument 'ament_cmake_args' from command line to 'None'
+[0.333s] Level 5:colcon.colcon_core.verb:set package 'slam_msgs' build argument 'catkin_cmake_args' from command line to 'None'
+[0.333s] Level 5:colcon.colcon_core.verb:set package 'slam_msgs' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.333s] DEBUG:colcon.colcon_core.verb:Building package 'slam_msgs' with the following arguments: {'ament_cmake_args': None, 'build_base': '/root/colcon_ws/build/slam_msgs', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/root/colcon_ws/install/slam_msgs', 'merge_install': False, 'path': '/root/colcon_ws/src/slam_msgs', 'symlink_install': True, 'test_result_base': None}
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'trajectory_comparer' build argument 'cmake_args' from command line to 'None'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'trajectory_comparer' build argument 'cmake_target' from command line to 'None'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'trajectory_comparer' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'trajectory_comparer' build argument 'cmake_clean_cache' from command line to 'False'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'trajectory_comparer' build argument 'cmake_clean_first' from command line to 'False'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'trajectory_comparer' build argument 'cmake_force_configure' from command line to 'False'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'trajectory_comparer' build argument 'ament_cmake_args' from command line to 'None'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'trajectory_comparer' build argument 'catkin_cmake_args' from command line to 'None'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'trajectory_comparer' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.334s] DEBUG:colcon.colcon_core.verb:Building package 'trajectory_comparer' with the following arguments: {'ament_cmake_args': None, 'build_base': '/root/colcon_ws/build/trajectory_comparer', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/root/colcon_ws/install/trajectory_comparer', 'merge_install': False, 'path': '/root/colcon_ws/src/trajectory_comparer', 'symlink_install': True, 'test_result_base': None}
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'orb_slam3_ros2_wrapper' build argument 'cmake_args' from command line to 'None'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'orb_slam3_ros2_wrapper' build argument 'cmake_target' from command line to 'None'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'orb_slam3_ros2_wrapper' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'orb_slam3_ros2_wrapper' build argument 'cmake_clean_cache' from command line to 'False'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'orb_slam3_ros2_wrapper' build argument 'cmake_clean_first' from command line to 'False'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'orb_slam3_ros2_wrapper' build argument 'cmake_force_configure' from command line to 'False'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'orb_slam3_ros2_wrapper' build argument 'ament_cmake_args' from command line to 'None'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'orb_slam3_ros2_wrapper' build argument 'catkin_cmake_args' from command line to 'None'
+[0.334s] Level 5:colcon.colcon_core.verb:set package 'orb_slam3_ros2_wrapper' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.334s] DEBUG:colcon.colcon_core.verb:Building package 'orb_slam3_ros2_wrapper' with the following arguments: {'ament_cmake_args': None, 'build_base': '/root/colcon_ws/build/orb_slam3_ros2_wrapper', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/root/colcon_ws/install/orb_slam3_ros2_wrapper', 'merge_install': False, 'path': '/root/colcon_ws/src/orb_slam3_ros2_wrapper', 'symlink_install': True, 'test_result_base': None}
+[0.335s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[0.336s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[0.336s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/root/colcon_ws/src/slam_msgs' with build type 'ament_cmake'
+[0.336s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/root/colcon_ws/src/slam_msgs'
+[0.339s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[0.339s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.340s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.346s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/root/colcon_ws/src/trajectory_comparer' with build type 'ament_python'
+[0.346s] Level 1:colcon.colcon_core.shell:create_environment_hook('trajectory_comparer', 'ament_prefix_path')
+[0.346s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/trajectory_comparer/share/trajectory_comparer/hook/ament_prefix_path.ps1'
+[0.347s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/root/colcon_ws/install/trajectory_comparer/share/trajectory_comparer/hook/ament_prefix_path.dsv'
+[0.348s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/trajectory_comparer/share/trajectory_comparer/hook/ament_prefix_path.sh'
+[0.349s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.349s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.356s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/root/colcon_ws/build/slam_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/slam_msgs -- -j8 -l8
+[0.638s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/root/colcon_ws/src/trajectory_comparer'
+[0.638s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.638s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.736s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/root/colcon_ws/build/slam_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/slam_msgs -- -j8 -l8
+[0.877s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/root/colcon_ws/build/slam_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/slam_msgs
+[0.968s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(slam_msgs)
+[0.969s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/root/colcon_ws/build/slam_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/slam_msgs
+[0.974s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/slam_msgs' for CMake module files
+[0.975s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/slam_msgs' for CMake config files
+[0.976s] Level 1:colcon.colcon_core.shell:create_environment_hook('slam_msgs', 'cmake_prefix_path')
+[0.977s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/slam_msgs/share/slam_msgs/hook/cmake_prefix_path.ps1'
+[0.977s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/root/colcon_ws/install/slam_msgs/share/slam_msgs/hook/cmake_prefix_path.dsv'
+[0.978s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/slam_msgs/share/slam_msgs/hook/cmake_prefix_path.sh'
+[0.979s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/slam_msgs/lib'
+[0.979s] Level 1:colcon.colcon_core.shell:create_environment_hook('slam_msgs', 'ld_library_path_lib')
+[0.979s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/slam_msgs/share/slam_msgs/hook/ld_library_path_lib.ps1'
+[0.980s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/root/colcon_ws/install/slam_msgs/share/slam_msgs/hook/ld_library_path_lib.dsv'
+[0.980s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/slam_msgs/share/slam_msgs/hook/ld_library_path_lib.sh'
+[0.981s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/slam_msgs/bin'
+[0.981s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/slam_msgs/lib/pkgconfig/slam_msgs.pc'
+[0.981s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/slam_msgs/lib/python3.10/site-packages'
+[0.981s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/slam_msgs/bin'
+[0.982s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/slam_msgs/share/slam_msgs/package.ps1'
+[0.983s] INFO:colcon.colcon_core.shell:Creating package descriptor '/root/colcon_ws/install/slam_msgs/share/slam_msgs/package.dsv'
+[0.984s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/slam_msgs/share/slam_msgs/package.sh'
+[0.985s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/slam_msgs/share/slam_msgs/package.bash'
+[0.986s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/slam_msgs/share/slam_msgs/package.zsh'
+[0.987s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/root/colcon_ws/install/slam_msgs/share/colcon-core/packages/slam_msgs)
+[1.058s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/root/colcon_ws/build/trajectory_comparer': PYTHONPATH=/root/colcon_ws/build/trajectory_comparer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/colcon_ws/build/trajectory_comparer/build --no-deps symlink_data
+[1.076s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(slam_msgs)
+[1.076s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/slam_msgs' for CMake module files
+[1.077s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/slam_msgs' for CMake config files
+[1.078s] Level 1:colcon.colcon_core.shell:create_environment_hook('slam_msgs', 'cmake_prefix_path')
+[1.078s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/slam_msgs/share/slam_msgs/hook/cmake_prefix_path.ps1'
+[1.079s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/root/colcon_ws/install/slam_msgs/share/slam_msgs/hook/cmake_prefix_path.dsv'
+[1.079s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/slam_msgs/share/slam_msgs/hook/cmake_prefix_path.sh'
+[1.080s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/slam_msgs/lib'
+[1.080s] Level 1:colcon.colcon_core.shell:create_environment_hook('slam_msgs', 'ld_library_path_lib')
+[1.080s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/slam_msgs/share/slam_msgs/hook/ld_library_path_lib.ps1'
+[1.080s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/root/colcon_ws/install/slam_msgs/share/slam_msgs/hook/ld_library_path_lib.dsv'
+[1.080s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/slam_msgs/share/slam_msgs/hook/ld_library_path_lib.sh'
+[1.081s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/slam_msgs/bin'
+[1.081s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/slam_msgs/lib/pkgconfig/slam_msgs.pc'
+[1.081s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/slam_msgs/lib/python3.10/site-packages'
+[1.081s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/slam_msgs/bin'
+[1.082s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/slam_msgs/share/slam_msgs/package.ps1'
+[1.082s] INFO:colcon.colcon_core.shell:Creating package descriptor '/root/colcon_ws/install/slam_msgs/share/slam_msgs/package.dsv'
+[1.083s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/slam_msgs/share/slam_msgs/package.sh'
+[1.083s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/slam_msgs/share/slam_msgs/package.bash'
+[1.084s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/slam_msgs/share/slam_msgs/package.zsh'
+[1.084s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/root/colcon_ws/install/slam_msgs/share/colcon-core/packages/slam_msgs)
+[1.084s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/root/colcon_ws/src/orb_slam3_ros2_wrapper' with build type 'ament_cmake'
+[1.084s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/root/colcon_ws/src/orb_slam3_ros2_wrapper'
+[1.085s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[1.085s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[1.100s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/orb_slam3_ros2_wrapper -- -j8 -l8
+[1.203s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper' returned '0': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/orb_slam3_ros2_wrapper -- -j8 -l8
+[1.232s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/orb_slam3_ros2_wrapper
+[1.252s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(orb_slam3_ros2_wrapper)
+[1.252s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/orb_slam3_ros2_wrapper' for CMake module files
+[1.253s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper' returned '0': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/orb_slam3_ros2_wrapper
+[1.253s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/orb_slam3_ros2_wrapper' for CMake config files
+[1.254s] Level 1:colcon.colcon_core.shell:create_environment_hook('orb_slam3_ros2_wrapper', 'cmake_prefix_path')
+[1.254s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/hook/cmake_prefix_path.ps1'
+[1.254s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/hook/cmake_prefix_path.dsv'
+[1.255s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/hook/cmake_prefix_path.sh'
+[1.255s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/orb_slam3_ros2_wrapper/lib'
+[1.255s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/orb_slam3_ros2_wrapper/bin'
+[1.256s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/orb_slam3_ros2_wrapper/lib/pkgconfig/orb_slam3_ros2_wrapper.pc'
+[1.256s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/orb_slam3_ros2_wrapper/lib/python3.10/site-packages'
+[1.256s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/orb_slam3_ros2_wrapper/bin'
+[1.257s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.ps1'
+[1.257s] INFO:colcon.colcon_core.shell:Creating package descriptor '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.dsv'
+[1.258s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.sh'
+[1.258s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.bash'
+[1.258s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.zsh'
+[1.259s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/colcon-core/packages/orb_slam3_ros2_wrapper)
+[1.287s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(orb_slam3_ros2_wrapper)
+[1.287s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/orb_slam3_ros2_wrapper' for CMake module files
+[1.288s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/orb_slam3_ros2_wrapper' for CMake config files
+[1.289s] Level 1:colcon.colcon_core.shell:create_environment_hook('orb_slam3_ros2_wrapper', 'cmake_prefix_path')
+[1.289s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/hook/cmake_prefix_path.ps1'
+[1.290s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/hook/cmake_prefix_path.dsv'
+[1.290s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/hook/cmake_prefix_path.sh'
+[1.291s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/orb_slam3_ros2_wrapper/lib'
+[1.291s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/orb_slam3_ros2_wrapper/bin'
+[1.291s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/orb_slam3_ros2_wrapper/lib/pkgconfig/orb_slam3_ros2_wrapper.pc'
+[1.292s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/orb_slam3_ros2_wrapper/lib/python3.10/site-packages'
+[1.292s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/orb_slam3_ros2_wrapper/bin'
+[1.292s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.ps1'
+[1.293s] INFO:colcon.colcon_core.shell:Creating package descriptor '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.dsv'
+[1.294s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.sh'
+[1.294s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.bash'
+[1.295s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.zsh'
+[1.295s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/root/colcon_ws/install/orb_slam3_ros2_wrapper/share/colcon-core/packages/orb_slam3_ros2_wrapper)
+[1.511s] Level 1:colcon.colcon_core.shell:create_environment_hook('trajectory_comparer', 'pythonpath_develop')
+[1.511s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/build/trajectory_comparer/share/trajectory_comparer/hook/pythonpath_develop.ps1'
+[1.512s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/root/colcon_ws/build/trajectory_comparer' returned '0': PYTHONPATH=/root/colcon_ws/build/trajectory_comparer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/colcon_ws/build/trajectory_comparer/build --no-deps symlink_data
+[1.512s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/root/colcon_ws/build/trajectory_comparer/share/trajectory_comparer/hook/pythonpath_develop.dsv'
+[1.512s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/build/trajectory_comparer/share/trajectory_comparer/hook/pythonpath_develop.sh'
+[1.513s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/trajectory_comparer' for CMake module files
+[1.513s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/trajectory_comparer' for CMake config files
+[1.514s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/trajectory_comparer/lib'
+[1.514s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/trajectory_comparer/bin'
+[1.514s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/trajectory_comparer/lib/pkgconfig/trajectory_comparer.pc'
+[1.514s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages'
+[1.514s] Level 1:colcon.colcon_core.shell:create_environment_hook('trajectory_comparer', 'pythonpath')
+[1.514s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/trajectory_comparer/share/trajectory_comparer/hook/pythonpath.ps1'
+[1.515s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/root/colcon_ws/install/trajectory_comparer/share/trajectory_comparer/hook/pythonpath.dsv'
+[1.515s] INFO:colcon.colcon_core.shell:Creating environment hook '/root/colcon_ws/install/trajectory_comparer/share/trajectory_comparer/hook/pythonpath.sh'
+[1.516s] Level 1:colcon.colcon_core.environment:checking '/root/colcon_ws/install/trajectory_comparer/bin'
+[1.516s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(trajectory_comparer)
+[1.516s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/trajectory_comparer/share/trajectory_comparer/package.ps1'
+[1.517s] INFO:colcon.colcon_core.shell:Creating package descriptor '/root/colcon_ws/install/trajectory_comparer/share/trajectory_comparer/package.dsv'
+[1.517s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/trajectory_comparer/share/trajectory_comparer/package.sh'
+[1.517s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/trajectory_comparer/share/trajectory_comparer/package.bash'
+[1.518s] INFO:colcon.colcon_core.shell:Creating package script '/root/colcon_ws/install/trajectory_comparer/share/trajectory_comparer/package.zsh'
+[1.518s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/root/colcon_ws/install/trajectory_comparer/share/colcon-core/packages/trajectory_comparer)
+[1.518s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[1.519s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[1.519s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[1.519s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[1.529s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.notify_send': Could not find 'notify-send'
+[1.529s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[1.529s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[1.529s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[1.536s] DEBUG:colcon.colcon_notification.desktop_notification.notify2:Failed to initialize notify2: org.freedesktop.DBus.Error.Spawn.ExecFailed: /usr/bin/dbus-launch terminated abnormally without any error message
+[1.536s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[1.536s] INFO:colcon.colcon_core.shell:Creating prefix script '/root/colcon_ws/install/local_setup.ps1'
+[1.539s] INFO:colcon.colcon_core.shell:Creating prefix util module '/root/colcon_ws/install/_local_setup_util_ps1.py'
+[1.541s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/root/colcon_ws/install/setup.ps1'
+[1.543s] INFO:colcon.colcon_core.shell:Creating prefix script '/root/colcon_ws/install/local_setup.sh'
+[1.543s] INFO:colcon.colcon_core.shell:Creating prefix util module '/root/colcon_ws/install/_local_setup_util_sh.py'
+[1.544s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/root/colcon_ws/install/setup.sh'
+[1.545s] INFO:colcon.colcon_core.shell:Creating prefix script '/root/colcon_ws/install/local_setup.bash'
+[1.546s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/root/colcon_ws/install/setup.bash'
+[1.548s] INFO:colcon.colcon_core.shell:Creating prefix script '/root/colcon_ws/install/local_setup.zsh'
+[1.548s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/root/colcon_ws/install/setup.zsh'

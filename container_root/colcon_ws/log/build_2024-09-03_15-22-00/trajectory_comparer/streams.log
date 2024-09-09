@@ -1,0 +1,34 @@
+[0.502s] Invoking command in '/root/colcon_ws/build/trajectory_comparer': PYTHONPATH=/root/colcon_ws/build/trajectory_comparer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /root/colcon_ws/build/trajectory_comparer/build
+[0.694s] running develop
+[0.696s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.696s]   warnings.warn(
+[0.805s] Removing /root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages/trajectory-comparer.egg-link (link to .)
+[0.823s] Invoked command in '/root/colcon_ws/build/trajectory_comparer' returned '0': PYTHONPATH=/root/colcon_ws/build/trajectory_comparer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /root/colcon_ws/build/trajectory_comparer/build
+[0.825s] Invoking command in '/root/colcon_ws/src/trajectory_comparer': PYTHONPATH=/root/colcon_ws/build/trajectory_comparer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/trajectory_comparer build --build-base /root/colcon_ws/build/trajectory_comparer/build install --record /root/colcon_ws/build/trajectory_comparer/install.log --single-version-externally-managed install_data --force
+[0.999s] running egg_info
+[0.999s] writing ../../build/trajectory_comparer/trajectory_comparer.egg-info/PKG-INFO
+[0.999s] writing dependency_links to ../../build/trajectory_comparer/trajectory_comparer.egg-info/dependency_links.txt
+[1.000s] writing entry points to ../../build/trajectory_comparer/trajectory_comparer.egg-info/entry_points.txt
+[1.000s] writing requirements to ../../build/trajectory_comparer/trajectory_comparer.egg-info/requires.txt
+[1.000s] writing top-level names to ../../build/trajectory_comparer/trajectory_comparer.egg-info/top_level.txt
+[1.001s] reading manifest file '../../build/trajectory_comparer/trajectory_comparer.egg-info/SOURCES.txt'
+[1.003s] writing manifest file '../../build/trajectory_comparer/trajectory_comparer.egg-info/SOURCES.txt'
+[1.003s] running build
+[1.003s] running build_py
+[1.003s] copying trajectory_comparer/simple_trajectory_comparer.py -> /root/colcon_ws/build/trajectory_comparer/build/lib/trajectory_comparer
+[1.003s] running install
+[1.003s] running install_lib
+[1.004s] creating /root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages/trajectory_comparer
+[1.004s] copying /root/colcon_ws/build/trajectory_comparer/build/lib/trajectory_comparer/__init__.py -> /root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages/trajectory_comparer
+[1.004s] copying /root/colcon_ws/build/trajectory_comparer/build/lib/trajectory_comparer/simple_trajectory_comparer.py -> /root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages/trajectory_comparer
+[1.004s] byte-compiling /root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages/trajectory_comparer/__init__.py to __init__.cpython-310.pyc
+[1.004s] byte-compiling /root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages/trajectory_comparer/simple_trajectory_comparer.py to simple_trajectory_comparer.cpython-310.pyc
+[1.005s] running install_data
+[1.005s] copying resource/trajectory_comparer -> /root/colcon_ws/install/trajectory_comparer/share/ament_index/resource_index/packages
+[1.006s] copying package.xml -> /root/colcon_ws/install/trajectory_comparer/share/trajectory_comparer
+[1.006s] running install_egg_info
+[1.007s] Copying ../../build/trajectory_comparer/trajectory_comparer.egg-info to /root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages/trajectory_comparer-0.0.0-py3.10.egg-info
+[1.008s] running install_scripts
+[1.023s] Installing simple_trajectory_comparer script to /root/colcon_ws/install/trajectory_comparer/lib/trajectory_comparer
+[1.024s] writing list of installed files to '/root/colcon_ws/build/trajectory_comparer/install.log'
+[1.043s] Invoked command in '/root/colcon_ws/src/trajectory_comparer' returned '0': PYTHONPATH=/root/colcon_ws/build/trajectory_comparer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/trajectory_comparer build --build-base /root/colcon_ws/build/trajectory_comparer/build install --record /root/colcon_ws/build/trajectory_comparer/install.log --single-version-externally-managed install_data --force

@@ -1529,6 +1529,10 @@ CMakeFiles/rgbd.dir/src/rgbd/rgbd.cpp.o: \
  /usr/local/include/opencv4/opencv2/core/core_c.h \
  /usr/local/include/opencv4/opencv2/core/types_c.h \
  /opt/ros/humble/include/cv_bridge/cv_bridge/cv_bridge_export.h \
+ /opt/ros/humble/include/nav_msgs/nav_msgs/msg/path.hpp \
+ /opt/ros/humble/include/nav_msgs/nav_msgs/msg/detail/path__struct.hpp \
+ /opt/ros/humble/include/nav_msgs/nav_msgs/msg/detail/path__builder.hpp \
+ /opt/ros/humble/include/nav_msgs/nav_msgs/msg/detail/path__traits.hpp \
  /home/orb/ORB_SLAM3/include/System.h \
  /home/orb/ORB_SLAM3/include/Tracking.h \
  /home/orb/ORB_SLAM3/include/Viewer.h \

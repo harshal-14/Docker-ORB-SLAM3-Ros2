@@ -1,0 +1,7 @@
+[INFO] [1725654528.775429252] [slam_accuracy_comparer]: Received camera trajectory with 13 poses
+[INFO] [1725654528.777130499] [slam_accuracy_comparer]: Last camera pose: Position: (2.5565, 0.5572, -1.7500), Orientation: (0.0079, 0.0078, -0.1910, 0.9815)
+[INFO] [1725654528.783098859] [slam_accuracy_comparer]: Robot pose 1: Position: (3.5518, 0.1870, -1.7771), Orientation: (0.0073, 0.0074, -0.1927, 0.9812)
+[INFO] [1725654528.790130753] [slam_accuracy_comparer]: ATE RMSE: nan
+[INFO] [1725654528.791309011] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725654528.792398719] [slam_accuracy_comparer]: Total distance traveled: 0.0000
+[INFO] [1725654528.793857247] [slam_accuracy_comparer]: Accuracy: 0.00%

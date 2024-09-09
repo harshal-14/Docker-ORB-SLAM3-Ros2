@@ -1,0 +1,4 @@
+Invoking command in '/root/colcon_ws/build/trajectory_comparison': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/trajectory_comparison -- -j8 -l8
+Invoked command in '/root/colcon_ws/build/trajectory_comparison' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/trajectory_comparison -- -j8 -l8
+Invoking command in '/root/colcon_ws/build/trajectory_comparison': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/trajectory_comparison
+Invoked command in '/root/colcon_ws/build/trajectory_comparison' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/trajectory_comparison

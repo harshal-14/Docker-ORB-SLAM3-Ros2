@@ -1,0 +1,2 @@
+[WARN] [1725391537.164923084] [simple_trajectory_comparer]: Could not transform odometry pose: Lookup would require extrapolation into the past.  Requested time 176.183000 but the earliest data is at time 257.350000, when looking up transform from frame [robot_0/odom] to frame [robot_0/base_footprint]
+[WARN] [1725391537.167960451] [simple_trajectory_comparer]: Could not transform odometry pose: Could not find a connection between 'robot_0/base_footprint' and 'robot_0/odom' because they are not part of the same tree.Tf has two or more unconnected trees.

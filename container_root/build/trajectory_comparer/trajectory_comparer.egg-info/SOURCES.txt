@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../../build/trajectory_comparer/trajectory_comparer.egg-info/PKG-INFO
+../../../build/trajectory_comparer/trajectory_comparer.egg-info/SOURCES.txt
+../../../build/trajectory_comparer/trajectory_comparer.egg-info/dependency_links.txt
+../../../build/trajectory_comparer/trajectory_comparer.egg-info/entry_points.txt
+../../../build/trajectory_comparer/trajectory_comparer.egg-info/requires.txt
+../../../build/trajectory_comparer/trajectory_comparer.egg-info/top_level.txt
+../../../build/trajectory_comparer/trajectory_comparer.egg-info/zip-safe
+resource/trajectory_comparer
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+trajectory_comparer/__init__.py
+trajectory_comparer/simple_trajectory_comparer.py

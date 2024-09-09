@@ -6,6 +6,7 @@
 #include "rgbd-slam-node.hpp"
 
 #include <opencv2/core/core.hpp>
+#include <nav_msgs/msg/path.hpp>
 
 namespace ORB_SLAM3_Wrapper
 {
@@ -31,6 +32,9 @@ namespace ORB_SLAM3_Wrapper
         // ROS Publishers
         mapDataPub_ = this->create_publisher<slam_msgs::msg::MapData>("map_data", 10);
         mapPointsPub_ = this->create_publisher<sensor_msgs::msg::PointCloud2>("map_points", 10);
+
+        // New publisher
+        trajectoryPub_ = this->create_publisher<nav_msgs::msg::Path>("camera_trajectory", 10);
         // Services
         getMapDataService_ = this->create_service<slam_msgs::srv::GetMap>("orb_slam3_get_map_data", std::bind(&RgbdSlamNode::getMapServer, this,
                                                                                                               std::placeholders::_1, std::placeholders::_2, std::placeholders::_3));
@@ -63,6 +67,9 @@ namespace ORB_SLAM3_Wrapper
 
         this->declare_parameter("no_odometry_mode", rclcpp::ParameterValue(false));
         this->get_parameter("no_odometry_mode", no_odometry_mode_);
+
+        this->declare_parameter("publish_tf", rclcpp::ParameterValue(true));
+        this->get_parameter("publish_tf", publish_tf_);
 
         this->declare_parameter("map_data_publish_frequency", rclcpp::ParameterValue(1000));
         this->get_parameter("map_data_publish_frequency", map_data_publish_frequency_);
@@ -108,12 +115,13 @@ namespace ORB_SLAM3_Wrapper
 
     void RgbdSlamNode::OdomCallback(const nav_msgs::msg::Odometry::SharedPtr msgOdom)
     {
-        if(!no_odometry_mode_)
+        if (!no_odometry_mode_ && publish_tf_)
         {
             RCLCPP_DEBUG_STREAM(this->get_logger(), "OdomCallback");
             interface_->getMapToOdomTF(msgOdom, tfMapOdom_);
         }
-        else RCLCPP_WARN_THROTTLE(this->get_logger(), *this->get_clock(), 4000, "Odometry msg recorded but no odometry mode is true, set to false to use this odometry");
+        else
+            RCLCPP_WARN_THROTTLE(this->get_logger(), *this->get_clock(), 4000, "Odometry msg recorded but no odometry mode is true, set to false to use this odometry");
     }
 
     void RgbdSlamNode::RGBDCallback(const sensor_msgs::msg::Image::SharedPtr msgRGB, const sensor_msgs::msg::Image::SharedPtr msgD)
@@ -122,11 +130,18 @@ namespace ORB_SLAM3_Wrapper
         if (interface_->trackRGBD(msgRGB, msgD, Tcw))
         {
             isTracked_ = true;
-            if(no_odometry_mode_) interface_->getDirectMapToRobotTF(msgRGB->header, tfMapOdom_);
-            tfBroadcaster_->sendTransform(tfMapOdom_);
+            if (publish_tf_)
+            {
+                if (no_odometry_mode_)
+                    interface_->getDirectMapToRobotTF(msgRGB->header, tfMapOdom_);
+                tfBroadcaster_->sendTransform(tfMapOdom_);
+            }
             ++frequency_tracker_count_;
             // publishMapPointCloud();
             // std::thread(&RgbdSlamNode::publishMapPointCloud, this).detach();
+
+            // Publish Camera Trajectory
+            publishCameraTrajectory();
         }
     }
 
@@ -145,7 +160,7 @@ namespace ORB_SLAM3_Wrapper
 
             interface_->getCurrentMapPoints(mapPCL);
 
-            if(mapPCL.data.size() == 0)
+            if (mapPCL.data.size() == 0)
                 return;
 
             auto t2 = std::chrono::high_resolution_clock::now();
@@ -157,7 +172,6 @@ namespace ORB_SLAM3_Wrapper
             auto time_publish_map_points = std::chrono::duration_cast<std::chrono::duration<double>>(t3 - t2).count();
             RCLCPP_DEBUG_STREAM(this->get_logger(), "Time to publish map points: " << time_publish_map_points << " seconds");
             RCLCPP_DEBUG_STREAM(this->get_logger(), "=======================");
-
 
             // Calculate the time taken for each line
 
@@ -193,5 +207,19 @@ namespace ORB_SLAM3_Wrapper
         slam_msgs::msg::MapData mapDataMsg;
         interface_->mapDataToMsg(mapDataMsg, false, request->tracked_points, request->kf_id_for_landmarks);
         response->data = mapDataMsg;
+    }
+
+    void RgbdSlamNode::publishCameraTrajectory()
+    {
+        if (isTracked_)
+        {
+            nav_msgs::msg::Path trajectory;
+            trajectory.header.frame_id = global_frame_;
+            trajectory.header.stamp = this->now();
+
+            interface_->getCameraTrajectory(trajectory);
+
+            trajectoryPub_->publish(trajectory);
+        }
     }
 }

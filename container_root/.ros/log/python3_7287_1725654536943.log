@@ -1,0 +1,25 @@
+[WARN] [1725654537.638954584] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654537.651177975] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654537.751465141] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654537.851966831] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654537.952357932] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654538.052442554] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654538.154767186] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654538.252181823] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654538.352593985] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654538.452458653] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654538.551371198] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654538.652425330] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654538.751294194] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654538.851916942] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654538.952466010] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654539.052274884] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654539.152666877] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725654539.254271384] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[INFO] [1725654539.385856541] [slam_accuracy_comparer]: Received camera trajectory with 30 poses
+[INFO] [1725654539.386914160] [slam_accuracy_comparer]: Last camera pose: Position: (4.6230, -0.2908, -1.7889), Orientation: (0.0098, 0.0037, -0.1909, 0.9816)
+[INFO] [1725654539.391115034] [slam_accuracy_comparer]: Robot pose 1: Position: (6.1249, -0.8933, -1.8149), Orientation: (0.0098, 0.0028, -0.1913, 0.9815)
+[INFO] [1725654539.397408865] [slam_accuracy_comparer]: ATE RMSE: nan
+[INFO] [1725654539.399179568] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725654539.400866926] [slam_accuracy_comparer]: Total distance traveled: 0.0000
+[INFO] [1725654539.402258784] [slam_accuracy_comparer]: Accuracy: 0.00%

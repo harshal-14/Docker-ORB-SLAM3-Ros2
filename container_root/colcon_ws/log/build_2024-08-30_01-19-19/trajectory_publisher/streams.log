@@ -1,0 +1,24 @@
+[0.839s] Invoking command in '/root/colcon_ws/src/trajectory_publisher': PYTHONPATH=/root/colcon_ws/build/trajectory_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/colcon_ws/install/trajectory_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/trajectory_publisher build --build-base /root/colcon_ws/build/trajectory_publisher/build install --record /root/colcon_ws/build/trajectory_publisher/install.log --single-version-externally-managed install_data
+[1.152s] running egg_info
+[1.155s] writing ../../build/trajectory_publisher/trajectory_publisher.egg-info/PKG-INFO
+[1.157s] writing dependency_links to ../../build/trajectory_publisher/trajectory_publisher.egg-info/dependency_links.txt
+[1.157s] writing entry points to ../../build/trajectory_publisher/trajectory_publisher.egg-info/entry_points.txt
+[1.157s] writing requirements to ../../build/trajectory_publisher/trajectory_publisher.egg-info/requires.txt
+[1.157s] writing top-level names to ../../build/trajectory_publisher/trajectory_publisher.egg-info/top_level.txt
+[1.161s] reading manifest file '../../build/trajectory_publisher/trajectory_publisher.egg-info/SOURCES.txt'
+[1.163s] writing manifest file '../../build/trajectory_publisher/trajectory_publisher.egg-info/SOURCES.txt'
+[1.163s] running build
+[1.164s] running build_py
+[1.164s] copying trajectory_publisher/trajectory_node.py -> /root/colcon_ws/build/trajectory_publisher/build/lib/trajectory_publisher
+[1.164s] running install
+[1.164s] running install_lib
+[1.166s] copying /root/colcon_ws/build/trajectory_publisher/build/lib/trajectory_publisher/trajectory_node.py -> /root/colcon_ws/install/trajectory_publisher/lib/python3.10/site-packages/trajectory_publisher
+[1.167s] byte-compiling /root/colcon_ws/install/trajectory_publisher/lib/python3.10/site-packages/trajectory_publisher/trajectory_node.py to trajectory_node.cpython-310.pyc
+[1.169s] running install_data
+[1.169s] running install_egg_info
+[1.173s] removing '/root/colcon_ws/install/trajectory_publisher/lib/python3.10/site-packages/trajectory_publisher-0.0.0-py3.10.egg-info' (and everything under it)
+[1.176s] Copying ../../build/trajectory_publisher/trajectory_publisher.egg-info to /root/colcon_ws/install/trajectory_publisher/lib/python3.10/site-packages/trajectory_publisher-0.0.0-py3.10.egg-info
+[1.176s] running install_scripts
+[1.232s] Installing trajectory_node script to /root/colcon_ws/install/trajectory_publisher/lib/trajectory_publisher
+[1.233s] writing list of installed files to '/root/colcon_ws/build/trajectory_publisher/install.log'
+[1.333s] Invoked command in '/root/colcon_ws/src/trajectory_publisher' returned '0': PYTHONPATH=/root/colcon_ws/build/trajectory_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/colcon_ws/install/trajectory_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/trajectory_publisher build --build-base /root/colcon_ws/build/trajectory_publisher/build install --record /root/colcon_ws/build/trajectory_publisher/install.log --single-version-externally-managed install_data

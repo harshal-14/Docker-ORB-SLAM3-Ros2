@@ -1,0 +1,170 @@
+[0.020s] Invoking command in '/root/colcon_ws/build/slam_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/slam_msgs -- -j8 -l8
+[0.074s] [  1%] Built target slam_msgs__cpp
+[0.077s] [ 12%] Built target slam_msgs__rosidl_generator_c
+[0.091s] [ 12%] Built target ament_cmake_python_symlink_slam_msgs
+[0.113s] [ 23%] Built target slam_msgs__rosidl_typesupport_c
+[0.113s] [ 43%] Built target slam_msgs__rosidl_typesupport_fastrtps_cpp
+[0.113s] [ 45%] Built target slam_msgs__rosidl_typesupport_introspection_cpp
+[0.115s] [ 56%] Built target slam_msgs__rosidl_typesupport_cpp
+[0.115s] [ 67%] Built target slam_msgs__rosidl_typesupport_introspection_c
+[0.116s] [ 78%] Built target slam_msgs__rosidl_typesupport_fastrtps_c
+[0.139s] [ 78%] Built target slam_msgs
+[0.160s] [ 80%] Built target slam_msgs__py
+[0.183s] [ 89%] Built target slam_msgs__rosidl_generator_py
+[0.206s] [ 92%] Built target slam_msgs__rosidl_typesupport_introspection_c__pyext
+[0.213s] [100%] Built target slam_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.213s] [100%] Built target slam_msgs__rosidl_typesupport_c__pyext
+[0.345s] running egg_info
+[0.346s] writing slam_msgs.egg-info/PKG-INFO
+[0.346s] writing dependency_links to slam_msgs.egg-info/dependency_links.txt
+[0.346s] writing top-level names to slam_msgs.egg-info/top_level.txt
+[0.349s] reading manifest file 'slam_msgs.egg-info/SOURCES.txt'
+[0.350s] writing manifest file 'slam_msgs.egg-info/SOURCES.txt'
+[0.379s] [100%] Built target ament_cmake_python_build_slam_msgs_egg
+[0.392s] Invoked command in '/root/colcon_ws/build/slam_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/slam_msgs -- -j8 -l8
+[0.505s] Invoking command in '/root/colcon_ws/build/slam_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/slam_msgs
+[0.517s] -- Install configuration: ""
+[0.518s] -- Execute custom install script
+[0.519s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/ament_index/resource_index/rosidl_interfaces/slam_msgs
+[0.520s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__functions.h
+[0.520s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__struct.h
+[0.520s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__type_support.h
+[0.520s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__functions.h
+[0.521s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__struct.h
+[0.521s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__type_support.h
+[0.521s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__functions.h
+[0.521s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__struct.h
+[0.521s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__type_support.h
+[0.521s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/key_frame.h
+[0.522s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/map_data.h
+[0.522s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/map_graph.h
+[0.522s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/rosidl_generator_c__visibility_control.h
+[0.522s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__functions.h
+[0.523s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__struct.h
+[0.523s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__type_support.h
+[0.523s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/get_map.h
+[0.523s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/library_path.sh
+[0.524s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/library_path.dsv
+[0.525s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__rosidl_typesupport_fastrtps_c.h
+[0.525s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__rosidl_typesupport_fastrtps_c.h
+[0.525s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__rosidl_typesupport_fastrtps_c.h
+[0.525s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.525s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__rosidl_typesupport_fastrtps_c.h
+[0.526s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__builder.hpp
+[0.526s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__struct.hpp
+[0.527s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__traits.hpp
+[0.527s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__builder.hpp
+[0.527s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__struct.hpp
+[0.527s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__traits.hpp
+[0.528s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__builder.hpp
+[0.528s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__struct.hpp
+[0.528s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__traits.hpp
+[0.528s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/key_frame.hpp
+[0.529s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/map_data.hpp
+[0.529s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/map_graph.hpp
+[0.530s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__builder.hpp
+[0.530s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__struct.hpp
+[0.530s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__traits.hpp
+[0.530s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/get_map.hpp
+[0.531s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__rosidl_typesupport_fastrtps_cpp.hpp
+[0.532s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__rosidl_typesupport_fastrtps_cpp.hpp
+[0.532s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__rosidl_typesupport_fastrtps_cpp.hpp
+[0.532s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.533s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__rosidl_typesupport_fastrtps_cpp.hpp
+[0.533s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__rosidl_typesupport_introspection_c.h
+[0.533s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__rosidl_typesupport_introspection_c.h
+[0.534s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__rosidl_typesupport_introspection_c.h
+[0.534s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.534s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__rosidl_typesupport_introspection_c.h
+[0.534s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__rosidl_typesupport_introspection_cpp.hpp
+[0.535s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__rosidl_typesupport_introspection_cpp.hpp
+[0.535s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__rosidl_typesupport_introspection_cpp.hpp
+[0.535s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__rosidl_typesupport_introspection_cpp.hpp
+[0.535s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/pythonpath.sh
+[0.535s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/pythonpath.dsv
+[0.536s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs-1.0.0-py3.10.egg-info/PKG-INFO
+[0.536s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs-1.0.0-py3.10.egg-info/SOURCES.txt
+[0.536s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs-1.0.0-py3.10.egg-info/dependency_links.txt
+[0.536s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs-1.0.0-py3.10.egg-info/top_level.txt
+[0.537s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/__init__.py
+[0.538s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/_slam_msgs_s.ep.rosidl_typesupport_c.c
+[0.538s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/_slam_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.538s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/_slam_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[0.538s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/libslam_msgs__rosidl_generator_py.so
+[0.538s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/__init__.py
+[0.539s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_key_frame.py
+[0.539s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_key_frame_s.c
+[0.539s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_map_data.py
+[0.539s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_map_data_s.c
+[0.539s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_map_graph.py
+[0.539s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_map_graph_s.c
+[0.540s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.540s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.540s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.540s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/srv/__init__.py
+[0.540s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/srv/_get_map.py
+[0.540s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/srv/_get_map_s.c
+[0.540s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.541s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.542s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.542s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/MapGraph.idl
+[0.542s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/MapData.idl
+[0.542s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/KeyFrame.idl
+[0.543s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/srv/GetMap.idl
+[0.543s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/MapGraph.msg
+[0.543s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/MapData.msg
+[0.543s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/KeyFrame.msg
+[0.544s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/srv/GetMap.srv
+[0.544s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/srv/GetMap_Request.msg
+[0.544s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/srv/GetMap_Response.msg
+[0.544s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/ament_index/resource_index/package_run_dependencies/slam_msgs
+[0.544s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/ament_index/resource_index/parent_prefix_path/slam_msgs
+[0.544s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/ament_prefix_path.sh
+[0.545s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/ament_prefix_path.dsv
+[0.545s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/path.sh
+[0.545s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/path.dsv
+[0.546s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/local_setup.bash
+[0.546s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/local_setup.sh
+[0.546s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/local_setup.zsh
+[0.546s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/local_setup.dsv
+[0.546s] -- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/package.dsv
+[0.561s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/ament_index/resource_index/packages/slam_msgs
+[0.561s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/rosidl_cmake-extras.cmake
+[0.561s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.561s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.561s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[0.562s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[0.562s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.562s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.562s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgsConfig.cmake
+[0.562s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgsConfig-version.cmake
+[0.563s] -- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/package.xml
+[0.563s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_generator_c.so
+[0.564s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_fastrtps_c.so
+[0.565s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_fastrtps_cpp.so
+[0.565s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_introspection_c.so
+[0.566s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_c.so
+[0.566s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_introspection_cpp.so
+[0.566s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_cpp.so
+[0.603s] Listing '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs'...
+[0.603s] Listing '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg'...
+[0.603s] Listing '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/srv'...
+[0.607s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_generator_py.so
+[0.608s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_generator_cExport.cmake
+[0.608s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_generator_cExport-noconfig.cmake
+[0.608s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[0.608s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.609s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_generator_cppExport.cmake
+[0.610s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.610s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.610s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_introspection_cExport.cmake
+[0.610s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.610s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_cExport.cmake
+[0.611s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[0.611s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[0.611s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.611s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_cppExport.cmake
+[0.611s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[0.612s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_generator_pyExport.cmake
+[0.612s] -- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_generator_pyExport-noconfig.cmake
+[0.615s] Invoked command in '/root/colcon_ws/build/slam_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/slam_msgs

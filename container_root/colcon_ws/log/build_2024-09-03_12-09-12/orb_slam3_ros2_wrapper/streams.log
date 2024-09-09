@@ -1,0 +1,884 @@
+[0.011s] Invoking command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/orb_slam3_ros2_wrapper -- -j8 -l8
+[0.127s] [ 20%] [32mBuilding CXX object CMakeFiles/rgbd.dir/src/rgbd/rgbd.cpp.o[0m
+[0.128s] [ 40%] [32mBuilding CXX object CMakeFiles/rgbd.dir/src/rgbd/rgbd-slam-node.cpp.o[0m
+[6.302s] In file included from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:30[m[K,
+[6.302s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.302s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.302s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.302s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.302s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.302s] [01m[K/home/orb/ORB_SLAM3/include/ImuTypes.h:[m[K In member function ‘[01m[Kvoid ORB_SLAM3::IMU::Preintegrated::printMeasurements() const[m[K’:
+[6.302s] [01m[K/home/orb/ORB_SLAM3/include/ImuTypes.h:204:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<ORB_SLAM3::IMU::Preintegrated::integrable>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+[6.303s]   204 |         for(int i=0; [01;35m[Ki<mvMeasurements.size()[m[K; i++){
+[6.303s]       |                      [01;35m[K~^~~~~~~~~~~~~~~~~~~~~~[m[K
+[6.329s] In file included from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:30[m[K,
+[6.329s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.329s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.329s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.329s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.329s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.329s] [01m[K/home/orb/ORB_SLAM3/include/ImuTypes.h:[m[K In member function ‘[01m[Kvoid ORB_SLAM3::IMU::Preintegrated::printMeasurements() const[m[K’:
+[6.329s] [01m[K/home/orb/ORB_SLAM3/include/ImuTypes.h:204:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<ORB_SLAM3::IMU::Preintegrated::integrable>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+[6.330s]   204 |         for(int i=0; [01;35m[Ki<mvMeasurements.size()[m[K; i++){
+[6.330s]       |                      [01;35m[K~^~~~~~~~~~~~~~~~~~~~~~[m[K
+[6.455s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37[m[K,
+[6.456s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.456s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.456s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.456s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.456s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.456s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.456s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.456s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:[m[K At global scope:
+[6.457s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:74:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[6.457s]    62 | igen::Map<Matrix<double, D, D>, Matrix<double,D,D>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+[6.457s]       |                                                             [01;35m[K^~~~~~~~~~[m[K
+[6.457s] 
+[6.457s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[6.457s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[6.457s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.457s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.457s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[6.458s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[6.458s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[6.465s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[6.465s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.466s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.466s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.466s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.466s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.466s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.466s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.466s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:82:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[6.466s]    59 | Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+[6.466s]       |                                                             [01;35m[K^~~~~~~~~~[m[K
+[6.466s] 
+[6.467s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[6.467s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[6.467s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.467s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.467s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[6.467s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[6.467s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[6.468s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[6.468s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.468s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.468s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.468s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.468s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.468s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.468s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.469s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:82:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[6.469s]    60 | Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+[6.469s]       |                                                             [01;35m[K^~~~~~~~~~[m[K
+[6.469s] 
+[6.469s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[6.469s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[6.469s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.469s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.469s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[6.470s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[6.470s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[6.482s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37[m[K,
+[6.482s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.482s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.483s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.483s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.483s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.483s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.483s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.483s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:[m[K At global scope:
+[6.483s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:74:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[6.483s]    62 |     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+[6.483s]       |                                                                          [01;35m[K^~~~~~~~~~[m[K
+[6.484s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[6.484s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[6.484s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.484s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.484s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[6.484s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[6.484s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[6.493s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[6.493s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.493s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.493s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.493s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.493s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.493s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.493s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.494s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:82:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[6.494s]    59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+[6.494s]       |                                                                                  [01;35m[K^~~~~~~~~~[m[K
+[6.494s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[6.494s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[6.494s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.494s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.494s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[6.494s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[6.494s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[6.495s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[6.495s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.495s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.495s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.495s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.495s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.495s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.495s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.495s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:82:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[6.495s]    60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+[6.496s]       |                                                                                  [01;35m[K^~~~~~~~~~[m[K
+[6.496s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[6.496s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[6.496s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.496s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.496s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[6.496s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[6.496s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[6.522s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:41[m[K,
+[6.522s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.522s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.522s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.522s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.522s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.522s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.522s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.522s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/se3quat.h:43:38:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+[6.523s]    43 |       EIGEN_MAKE_ALIGNED_OPERATOR_NEW[01;35m[K;[m[K
+[6.523s]       |                                      [01;35m[K^[m[K
+[6.523s]       |                                      [31m[K-[m[K
+[6.548s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:41[m[K,
+[6.548s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.548s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.548s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.548s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.548s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.549s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.549s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.549s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/se3quat.h:43:38:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+[6.549s]    43 |       EIGEN_MAKE_ALIGNED_OPERATOR_NEW[01;35m[K;[m[K
+[6.549s]       |                                      [01;35m[K^[m[K
+[6.549s]       |                                      [31m[K-[m[K
+[6.840s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37[m[K,
+[6.840s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.840s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.841s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.841s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.841s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.841s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.841s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.841s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<3, Eigen::Matrix<double, 3, 1> >[m[K’:
+[6.841s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_sba.h:40:35:[m[K   required from here
+[6.841s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[6.841s]    62 |  Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+[6.841s]       |                                                       [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[6.841s] 
+[6.842s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[6.842s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[6.842s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.842s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.842s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[6.842s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[6.842s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[6.881s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37[m[K,
+[6.881s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.882s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.882s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.882s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.882s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.882s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.882s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.882s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<3, Eigen::Matrix<double, 3, 1> >[m[K’:
+[6.882s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_sba.h:40:35:[m[K   required from here
+[6.882s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[6.882s]    62 |     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+[6.882s]       |                                                                  [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[6.883s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[6.883s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[6.883s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.883s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.883s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[6.883s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[6.883s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[6.887s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37[m[K,
+[6.887s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.887s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.887s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.887s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.887s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.887s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.887s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.887s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<6, g2o::SE3Quat>[m[K’:
+[6.887s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:59:33:[m[K   required from here
+[6.887s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[6.887s]    62 |  Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+[6.887s]       |                                                       [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[6.887s] 
+[6.888s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[6.888s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[6.888s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.888s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.888s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[6.888s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[6.888s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[6.928s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37[m[K,
+[6.928s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.929s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.929s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.929s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.929s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.929s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.929s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.929s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<6, g2o::SE3Quat>[m[K’:
+[6.929s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:59:33:[m[K   required from here
+[6.929s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[6.929s]    62 |     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+[6.929s]       |                                                                  [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[6.929s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[6.929s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[6.929s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.929s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.930s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[6.930s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[6.930s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[6.940s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[6.940s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.941s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.941s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.941s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.941s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.941s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.941s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.941s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<6, g2o::SE3Quat, g2o::VertexSE3Expmap, g2o::VertexSE3Expmap>[m[K’:
+[6.941s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:83:24:[m[K   required from here
+[6.941s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[6.941s]    59 | ::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+[6.941s]       |                                                       [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[6.941s] 
+[6.941s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[6.941s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[6.941s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.942s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.942s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[6.942s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[6.942s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[6.942s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[6.942s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.942s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.942s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.942s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.942s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.942s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.942s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.942s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[6.942s]    60 | ::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+[6.942s]       |                                                       [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[6.943s] 
+[6.943s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[6.943s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[6.943s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.943s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[6.943s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[6.943s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[6.943s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[6.977s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[6.977s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.977s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.977s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.977s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.977s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.977s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.977s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.978s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<6, g2o::SE3Quat, g2o::VertexSE3Expmap, g2o::VertexSE3Expmap>[m[K’:
+[6.978s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:83:24:[m[K   required from here
+[6.978s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[6.978s]    59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+[6.978s]       |                                                                          [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[6.978s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[6.978s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[6.978s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.978s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.979s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[6.979s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[6.979s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[6.979s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[6.979s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[6.979s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[6.979s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[6.979s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[6.979s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[6.979s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.980s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.980s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[6.980s]    60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+[6.980s]       |                                                                          [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[6.980s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[6.980s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[6.980s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[6.980s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[6.980s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[6.980s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[6.981s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.041s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.041s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.041s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.041s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.041s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.042s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.042s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.042s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.042s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>[m[K’:
+[7.042s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:114:35:[m[K   required from here
+[7.042s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.042s]    59 | ::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+[7.042s]       |                                                       [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.042s] 
+[7.043s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.043s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.043s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.043s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.043s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.043s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.043s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.058s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.058s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.059s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.059s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.059s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.059s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.059s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.059s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.059s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.059s]    60 | ::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+[7.059s]       |                                                       [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.060s] 
+[7.060s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.060s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.060s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.060s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.060s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.060s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.060s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.065s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.065s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.065s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.065s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.065s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.065s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.065s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.065s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.065s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>[m[K’:
+[7.066s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:114:35:[m[K   required from here
+[7.066s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.066s]    59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+[7.066s]       |                                                                          [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.066s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.066s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.066s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.066s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.066s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.066s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.066s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.081s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.081s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.081s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.081s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.081s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.082s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.082s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.082s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.082s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.082s]    60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+[7.082s]       |                                                                          [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.082s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.082s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.082s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.083s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.083s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.083s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.083s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.131s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.131s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.132s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.132s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.132s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.132s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.132s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.132s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.132s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<3, Eigen::Matrix<double, 3, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>[m[K’:
+[7.132s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:146:41:[m[K   required from here
+[7.132s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.133s]    59 | ::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+[7.133s]       |                                                       [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.133s] 
+[7.133s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.133s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.133s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.133s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.133s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.133s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.134s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.134s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.134s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.134s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.134s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.134s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.134s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.134s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.134s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.135s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.135s]    60 | ::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+[7.135s]       |                                                       [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.135s] 
+[7.135s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.135s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.135s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.135s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.135s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.135s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.136s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.162s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.162s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.162s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.162s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.162s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.162s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.163s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.163s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.163s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<3, Eigen::Matrix<double, 3, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>[m[K’:
+[7.163s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:146:41:[m[K   required from here
+[7.163s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.163s]    59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+[7.163s]       |                                                                          [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.163s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.163s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.164s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.164s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.164s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.164s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.164s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.164s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.164s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.164s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.164s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.165s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.165s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.165s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.165s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.165s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.165s]    60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+[7.165s]       |                                                                          [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.165s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.165s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.166s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.166s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.166s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.166s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.166s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.391s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37[m[K,
+[7.391s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.391s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.391s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.391s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.391s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.392s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.392s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.392s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<7, g2o::Sim3>[m[K’:
+[7.392s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:48:35:[m[K   required from here
+[7.392s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.392s]    62 |  Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+[7.392s]       |                                                       [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.392s] 
+[7.393s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.393s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.393s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.393s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.393s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.393s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.393s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.430s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.430s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.430s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.430s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.430s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.430s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.430s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.430s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.430s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<7, g2o::Sim3, g2o::VertexSim3Expmap, g2o::VertexSim3Expmap>[m[K’:
+[7.431s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:99:27:[m[K   required from here
+[7.431s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.431s]    59 | ::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+[7.431s]       |                                                       [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.431s] 
+[7.431s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.431s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.431s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.431s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.431s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.432s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.432s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.432s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.432s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.432s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.432s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.432s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.432s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.432s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.432s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.433s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.433s]    60 | ::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+[7.433s]       |                                                       [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.433s] 
+[7.433s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.433s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.433s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.433s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.433s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.434s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.434s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.455s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37[m[K,
+[7.455s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.455s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.456s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.456s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.456s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.456s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.456s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.456s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<7, g2o::Sim3>[m[K’:
+[7.456s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:48:35:[m[K   required from here
+[7.456s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.456s]    62 |     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+[7.457s]       |                                                                  [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.457s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.457s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.457s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.457s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.457s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.457s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.457s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.484s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.484s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.484s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.484s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.484s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.484s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.485s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.485s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.485s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSim3Expmap>[m[K’:
+[7.485s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:130:36:[m[K   required from here
+[7.485s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.485s]    59 | ::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+[7.485s]       |                                                       [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.485s] 
+[7.485s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.485s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.485s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.486s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.486s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.486s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.486s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.495s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.496s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.496s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.496s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.496s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.496s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.496s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.496s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.497s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<7, g2o::Sim3, g2o::VertexSim3Expmap, g2o::VertexSim3Expmap>[m[K’:
+[7.497s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:99:27:[m[K   required from here
+[7.497s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.497s]    59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+[7.497s]       |                                                                          [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.497s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.497s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.497s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.497s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.498s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.498s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.498s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.498s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.498s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.498s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.498s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.498s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.498s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.499s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.499s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.499s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.499s]    60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+[7.499s]       |                                                                          [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.499s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.499s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.500s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.500s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.500s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.500s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.500s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.503s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.503s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.503s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.503s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.503s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.503s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.503s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.503s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.504s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.504s]    60 | ::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+[7.504s]       |                                                       [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.504s] 
+[7.504s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.504s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.504s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.504s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[7.504s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.504s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.505s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.559s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.559s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.559s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.559s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.559s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.560s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.560s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.560s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.560s] /home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSim3Expmap>[m[K’:
+[7.560s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:130:36:[m[K   required from here
+[7.560s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.560s]    59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+[7.560s]       |                                                                          [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.560s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.561s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.561s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.561s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.561s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.561s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.561s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[7.579s] In file included from [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38[m[K,
+[7.579s]                  from [01m[K/home/orb/ORB_SLAM3/include/Converter.h:26[m[K,
+[7.579s]                  from [01m[K/home/orb/ORB_SLAM3/include/Frame.h:33[m[K,
+[7.579s]                  from [01m[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28[m[K,
+[7.579s]                  from [01m[K/home/orb/ORB_SLAM3/include/MapPoint.h:23[m[K,
+[7.579s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26[m[K,
+[7.580s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.580s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.580s] [01m[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[7.580s]    60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::[01;35m[KFlags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+[7.580s]       |                                                                          [01;35m[K~~~~~~^~~~~~~~~~~~[m[K
+[7.580s] In file included from [01m[K/usr/include/eigen3/Eigen/Core:161[m[K,
+[7.580s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10[m[K,
+[7.580s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35[m[K,
+[7.580s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[7.581s] [01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:[m[K [01;36m[Knote: [m[Kdeclared here
+[7.581s]   167 | EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+[7.581s]       |                                     [01;36m[K^~~~~~~~~~[m[K
+[8.816s] In file included from [01m[K/home/orb/ORB_SLAM3/include/Atlas.h:26[m[K,
+[8.816s]                  from [01m[K/home/orb/ORB_SLAM3/include/FrameDrawer.h:25[m[K,
+[8.816s]                  from [01m[K/home/orb/ORB_SLAM3/include/Viewer.h:23[m[K,
+[8.816s]                  from [01m[K/home/orb/ORB_SLAM3/include/Tracking.h:26[m[K,
+[8.816s]                  from [01m[K/home/orb/ORB_SLAM3/include/System.h:31[m[K,
+[8.816s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/orb_slam3_interface.hpp:28[m[K,
+[8.816s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:36[m[K,
+[8.817s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[8.817s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:[m[K In member function ‘[01m[Kvirtual bool ORB_SLAM3::Pinhole::matchAndtriangulate(const cv::KeyPoint&, const cv::KeyPoint&, ORB_SLAM3::GeometricCamera*, Sophus::SE3f&, Sophus::SE3f&, float, float, Eigen::Vector3f&)[m[K’:
+[8.817s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:83:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kkp1[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.817s]    83 |         bool matchAndtriangulate([01;35m[Kconst cv::KeyPoint& kp1[m[K, const cv::KeyPoint& kp2, GeometricCamera* pOther,
+[8.817s]       |                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[8.817s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:83:79:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kkp2[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.817s]    83 | Andtriangulate(const cv::KeyPoint& kp1, [01;35m[Kconst cv::KeyPoint& kp2[m[K, GeometricCamera* pOther,
+[8.818s]       |                                         [01;35m[K~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[8.818s] 
+[8.818s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:83:101:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KpOther[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.818s]    83 | st cv::KeyPoint& kp1, const cv::KeyPoint& kp2, [01;35m[KGeometricCamera* pOther[m[K,
+[8.818s]       |                                                [01;35m[K~~~~~~~~~~~~~~~~~^~~~~~[m[K
+[8.818s] 
+[8.818s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:84:48:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KTcw1[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.818s]    84 |                                  [01;35m[KSophus::SE3f& Tcw1[m[K, Sophus::SE3f& Tcw2,
+[8.819s]       |                                  [01;35m[K~~~~~~~~~~~~~~^~~~[m[K
+[8.819s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:84:68:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KTcw2[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.819s]    84 |                                 Sophus::SE3f& Tcw1, [01;35m[KSophus::SE3f& Tcw2[m[K,
+[8.819s]       |                                                     [01;35m[K~~~~~~~~~~~~~~^~~~[m[K
+[8.819s] 
+[8.819s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:85:46:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KsigmaLevel1[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.819s]    85 |                                  [01;35m[Kconst float sigmaLevel1[m[K, const float sigmaLevel2,
+[8.819s]       |                                  [01;35m[K~~~~~~~~~~~~^~~~~~~~~~~[m[K
+[8.819s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:85:71:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KsigmaLevel2[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.819s]    85 |                        const float sigmaLevel1, [01;35m[Kconst float sigmaLevel2[m[K,
+[8.820s]       |                                                 [01;35m[K~~~~~~~~~~~~^~~~~~~~~~~[m[K
+[8.820s] 
+[8.820s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:86:51:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kx3Dtriangulated[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.820s]    86 |                                  [01;35m[KEigen::Vector3f& x3Dtriangulated[m[K) { return false;}
+[8.820s]       |                                  [01;35m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[8.820s] In file included from [01m[K/home/orb/ORB_SLAM3/include/Atlas.h:27[m[K,
+[8.820s]                  from [01m[K/home/orb/ORB_SLAM3/include/FrameDrawer.h:25[m[K,
+[8.820s]                  from [01m[K/home/orb/ORB_SLAM3/include/Viewer.h:23[m[K,
+[8.820s]                  from [01m[K/home/orb/ORB_SLAM3/include/Tracking.h:26[m[K,
+[8.820s]                  from [01m[K/home/orb/ORB_SLAM3/include/System.h:31[m[K,
+[8.821s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/orb_slam3_interface.hpp:28[m[K,
+[8.821s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:36[m[K,
+[8.821s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[8.821s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:[m[K In constructor ‘[01m[KORB_SLAM3::KannalaBrandt8::KannalaBrandt8(std::vector<float>)[m[K’:
+[8.821s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:102:21:[m[K [01;35m[Kwarning: [m[K‘[01m[KORB_SLAM3::KannalaBrandt8::precision[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+[8.821s]   102 |         const float [01;35m[Kprecision[m[K;
+[8.821s]       |                     [01;35m[K^~~~~~~~~[m[K
+[8.821s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:88:26:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kstd::vector<int> ORB_SLAM3::KannalaBrandt8::mvLappingArea[m[K’ [[01;35m[K-Wreorder[m[K]
+[8.821s]    88 |         std::vector<int> [01;35m[KmvLappingArea[m[K;
+[8.822s]       |                          [01;35m[K^~~~~~~~~~~~~[m[K
+[8.822s] In file included from [01m[K/home/orb/ORB_SLAM3/include/Atlas.h:27[m[K,
+[8.822s]                  from [01m[K/home/orb/ORB_SLAM3/include/FrameDrawer.h:25[m[K,
+[8.822s]                  from [01m[K/home/orb/ORB_SLAM3/include/Viewer.h:23[m[K,
+[8.822s]                  from [01m[K/home/orb/ORB_SLAM3/include/Tracking.h:26[m[K,
+[8.822s]                  from [01m[K/home/orb/ORB_SLAM3/include/System.h:31[m[K,
+[8.822s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/orb_slam3_interface.hpp:28[m[K,
+[8.823s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:36[m[K,
+[8.823s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[8.823s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:47:9:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+[8.823s]    47 |         [01;35m[KKannalaBrandt8[m[K(const std::vector<float> _vParameters) : GeometricCamera(_vParameters), precision(1e-6), mvLappingArea(2,0) ,tvr(nullptr) {
+[8.823s]       |         [01;35m[K^~~~~~~~~~~~~~[m[K
+[8.823s] In file included from [01m[K/home/orb/ORB_SLAM3/include/Atlas.h:27[m[K,
+[8.823s]                  from [01m[K/home/orb/ORB_SLAM3/include/FrameDrawer.h:25[m[K,
+[8.823s]                  from [01m[K/home/orb/ORB_SLAM3/include/Viewer.h:23[m[K,
+[8.824s]                  from [01m[K/home/orb/ORB_SLAM3/include/Tracking.h:26[m[K,
+[8.824s]                  from [01m[K/home/orb/ORB_SLAM3/include/System.h:31[m[K,
+[8.824s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/orb_slam3_interface.hpp:28[m[K,
+[8.824s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:36[m[K,
+[8.824s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6[m[K:
+[8.824s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:[m[K In constructor ‘[01m[KORB_SLAM3::KannalaBrandt8::KannalaBrandt8(std::vector<float>, float)[m[K’:
+[8.824s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:102:21:[m[K [01;35m[Kwarning: [m[K‘[01m[KORB_SLAM3::KannalaBrandt8::precision[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+[8.824s]   102 |         const float [01;35m[Kprecision[m[K;
+[8.824s]       |                     [01;35m[K^~~~~~~~~[m[K
+[8.824s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:88:26:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kstd::vector<int> ORB_SLAM3::KannalaBrandt8::mvLappingArea[m[K’ [[01;35m[K-Wreorder[m[K]
+[8.824s]    88 |         std::vector<int> [01;35m[KmvLappingArea[m[K;
+[8.825s]       |                          [01;35m[K^~~~~~~~~~~~~[m[K
+[8.825s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:53:9:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+[8.825s]    53 |         [01;35m[KKannalaBrandt8[m[K(const std::vector<float> _vParameters, const float _precision) : GeometricCamera(_vParameters),
+[8.825s]       |         [01;35m[K^~~~~~~~~~~~~~[m[K
+[8.825s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:[m[K In constructor ‘[01m[KORB_SLAM3::KannalaBrandt8::KannalaBrandt8(ORB_SLAM3::KannalaBrandt8*)[m[K’:
+[8.825s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:102:21:[m[K [01;35m[Kwarning: [m[K‘[01m[KORB_SLAM3::KannalaBrandt8::precision[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+[8.825s]   102 |         const float [01;35m[Kprecision[m[K;
+[8.825s]       |                     [01;35m[K^~~~~~~~~[m[K
+[8.825s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:88:26:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kstd::vector<int> ORB_SLAM3::KannalaBrandt8::mvLappingArea[m[K’ [[01;35m[K-Wreorder[m[K]
+[8.825s]    88 |         std::vector<int> [01;35m[KmvLappingArea[m[K;
+[8.826s]       |                          [01;35m[K^~~~~~~~~~~~~[m[K
+[8.826s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:59:9:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+[8.826s]    59 |         [01;35m[KKannalaBrandt8[m[K(KannalaBrandt8* pKannala) : GeometricCamera(pKannala->mvParameters), precision(pKannala->precision), mvLappingArea(2,0) ,tvr(nullptr) {
+[8.826s]       |         [01;35m[K^~~~~~~~~~~~~~[m[K
+[8.900s] In file included from [01m[K/home/orb/ORB_SLAM3/include/Atlas.h:26[m[K,
+[8.900s]                  from [01m[K/home/orb/ORB_SLAM3/include/FrameDrawer.h:25[m[K,
+[8.900s]                  from [01m[K/home/orb/ORB_SLAM3/include/Viewer.h:23[m[K,
+[8.901s]                  from [01m[K/home/orb/ORB_SLAM3/include/Tracking.h:26[m[K,
+[8.901s]                  from [01m[K/home/orb/ORB_SLAM3/include/System.h:31[m[K,
+[8.901s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/orb_slam3_interface.hpp:28[m[K,
+[8.901s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:36[m[K,
+[8.901s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[8.901s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:[m[K In member function ‘[01m[Kvirtual bool ORB_SLAM3::Pinhole::matchAndtriangulate(const cv::KeyPoint&, const cv::KeyPoint&, ORB_SLAM3::GeometricCamera*, Sophus::SE3f&, Sophus::SE3f&, float, float, Eigen::Vector3f&)[m[K’:
+[8.901s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:83:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kkp1[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.901s]    83 |         bool matchAndtriangulate([01;35m[Kconst cv::KeyPoint& kp1[m[K, const cv::KeyPoint& kp2, GeometricCamera* pOther,
+[8.901s]       |                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[8.901s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:83:79:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kkp2[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.902s]    83 |         bool matchAndtriangulate(const cv::KeyPoint& kp1, [01;35m[Kconst cv::KeyPoint& kp2[m[K, GeometricCamera* pOther,
+[8.902s]       |                                                           [01;35m[K~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[8.902s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:83:101:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KpOther[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.902s]    83 |         bool matchAndtriangulate(const cv::KeyPoint& kp1, const cv::KeyPoint& kp2, [01;35m[KGeometricCamera* pOther[m[K,
+[8.902s]       |                                                                                    [01;35m[K~~~~~~~~~~~~~~~~~^~~~~~[m[K
+[8.902s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:84:48:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KTcw1[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.903s]    84 |                                  [01;35m[KSophus::SE3f& Tcw1[m[K, Sophus::SE3f& Tcw2,
+[8.903s]       |                                  [01;35m[K~~~~~~~~~~~~~~^~~~[m[K
+[8.903s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:84:68:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KTcw2[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.903s]    84 |                                  Sophus::SE3f& Tcw1, [01;35m[KSophus::SE3f& Tcw2[m[K,
+[8.903s]       |                                                      [01;35m[K~~~~~~~~~~~~~~^~~~[m[K
+[8.903s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:85:46:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KsigmaLevel1[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.903s]    85 |                                  [01;35m[Kconst float sigmaLevel1[m[K, const float sigmaLevel2,
+[8.903s]       |                                  [01;35m[K~~~~~~~~~~~~^~~~~~~~~~~[m[K
+[8.903s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:85:71:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KsigmaLevel2[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.903s]    85 |                                  const float sigmaLevel1, [01;35m[Kconst float sigmaLevel2[m[K,
+[8.904s]       |                                                           [01;35m[K~~~~~~~~~~~~^~~~~~~~~~~[m[K
+[8.904s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:86:51:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kx3Dtriangulated[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[8.904s]    86 |                                  [01;35m[KEigen::Vector3f& x3Dtriangulated[m[K) { return false;}
+[8.904s]       |                                  [01;35m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[8.904s] In file included from [01m[K/home/orb/ORB_SLAM3/include/Atlas.h:27[m[K,
+[8.904s]                  from [01m[K/home/orb/ORB_SLAM3/include/FrameDrawer.h:25[m[K,
+[8.904s]                  from [01m[K/home/orb/ORB_SLAM3/include/Viewer.h:23[m[K,
+[8.904s]                  from [01m[K/home/orb/ORB_SLAM3/include/Tracking.h:26[m[K,
+[8.904s]                  from [01m[K/home/orb/ORB_SLAM3/include/System.h:31[m[K,
+[8.904s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/orb_slam3_interface.hpp:28[m[K,
+[8.904s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:36[m[K,
+[8.905s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[8.905s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:[m[K In constructor ‘[01m[KORB_SLAM3::KannalaBrandt8::KannalaBrandt8(std::vector<float>)[m[K’:
+[8.905s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:102:21:[m[K [01;35m[Kwarning: [m[K‘[01m[KORB_SLAM3::KannalaBrandt8::precision[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+[8.905s]   102 |         const float [01;35m[Kprecision[m[K;
+[8.905s]       |                     [01;35m[K^~~~~~~~~[m[K
+[8.905s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:88:26:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kstd::vector<int> ORB_SLAM3::KannalaBrandt8::mvLappingArea[m[K’ [[01;35m[K-Wreorder[m[K]
+[8.905s]    88 |         std::vector<int> [01;35m[KmvLappingArea[m[K;
+[8.905s]       |                          [01;35m[K^~~~~~~~~~~~~[m[K
+[8.905s] In file included from [01m[K/home/orb/ORB_SLAM3/include/Atlas.h:27[m[K,
+[8.905s]                  from [01m[K/home/orb/ORB_SLAM3/include/FrameDrawer.h:25[m[K,
+[8.905s]                  from [01m[K/home/orb/ORB_SLAM3/include/Viewer.h:23[m[K,
+[8.906s]                  from [01m[K/home/orb/ORB_SLAM3/include/Tracking.h:26[m[K,
+[8.906s]                  from [01m[K/home/orb/ORB_SLAM3/include/System.h:31[m[K,
+[8.906s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/orb_slam3_interface.hpp:28[m[K,
+[8.906s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:36[m[K,
+[8.906s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[8.906s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:47:9:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+[8.906s]    47 |         [01;35m[KKannalaBrandt8[m[K(const std::vector<float> _vParameters) : GeometricCamera(_vParameters), precision(1e-6), mvLappingArea(2,0) ,tvr(nullptr) {
+[8.906s]       |         [01;35m[K^~~~~~~~~~~~~~[m[K
+[8.906s] In file included from [01m[K/home/orb/ORB_SLAM3/include/Atlas.h:27[m[K,
+[8.906s]                  from [01m[K/home/orb/ORB_SLAM3/include/FrameDrawer.h:25[m[K,
+[8.906s]                  from [01m[K/home/orb/ORB_SLAM3/include/Viewer.h:23[m[K,
+[8.907s]                  from [01m[K/home/orb/ORB_SLAM3/include/Tracking.h:26[m[K,
+[8.907s]                  from [01m[K/home/orb/ORB_SLAM3/include/System.h:31[m[K,
+[8.907s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/orb_slam3_interface.hpp:28[m[K,
+[8.907s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:36[m[K,
+[8.907s]                  from [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd.cpp:7[m[K:
+[8.907s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:[m[K In constructor ‘[01m[KORB_SLAM3::KannalaBrandt8::KannalaBrandt8(std::vector<float>, float)[m[K’:
+[8.907s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:102:21:[m[K [01;35m[Kwarning: [m[K‘[01m[KORB_SLAM3::KannalaBrandt8::precision[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+[8.907s]   102 |         const float [01;35m[Kprecision[m[K;
+[8.907s]       |                     [01;35m[K^~~~~~~~~[m[K
+[8.907s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:88:26:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kstd::vector<int> ORB_SLAM3::KannalaBrandt8::mvLappingArea[m[K’ [[01;35m[K-Wreorder[m[K]
+[8.908s]    88 |         std::vector<int> [01;35m[KmvLappingArea[m[K;
+[8.908s]       |                          [01;35m[K^~~~~~~~~~~~~[m[K
+[8.908s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:53:9:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+[8.908s]    53 |         [01;35m[KKannalaBrandt8[m[K(const std::vector<float> _vParameters, const float _precision) : GeometricCamera(_vParameters),
+[8.908s]       |         [01;35m[K^~~~~~~~~~~~~~[m[K
+[8.908s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:[m[K In constructor ‘[01m[KORB_SLAM3::KannalaBrandt8::KannalaBrandt8(ORB_SLAM3::KannalaBrandt8*)[m[K’:
+[8.908s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:102:21:[m[K [01;35m[Kwarning: [m[K‘[01m[KORB_SLAM3::KannalaBrandt8::precision[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+[8.908s]   102 |         const float [01;35m[Kprecision[m[K;
+[8.908s]       |                     [01;35m[K^~~~~~~~~[m[K
+[8.908s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:88:26:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kstd::vector<int> ORB_SLAM3::KannalaBrandt8::mvLappingArea[m[K’ [[01;35m[K-Wreorder[m[K]
+[8.908s]    88 |         std::vector<int> [01;35m[KmvLappingArea[m[K;
+[8.909s]       |                          [01;35m[K^~~~~~~~~~~~~[m[K
+[8.909s] [01m[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:59:9:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+[8.909s]    59 |         [01;35m[KKannalaBrandt8[m[K(KannalaBrandt8* pKannala) : GeometricCamera(pKannala->mvParameters), precision(pKannala->precision), mvLappingArea(2,0) ,tvr(nullptr) {
+[8.909s]       |         [01;35m[K^~~~~~~~~~~~~~[m[K
+[9.404s] [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:[m[K In member function ‘[01m[Kvoid ORB_SLAM3_Wrapper::RgbdSlamNode::getMapServer(std::shared_ptr<rmw_request_id_s>, std::shared_ptr<slam_msgs::srv::GetMap_Request_<std::allocator<void> > >, std::shared_ptr<slam_msgs::srv::GetMap_Response_<std::allocator<void> > >)[m[K’:
+[9.404s] [01m[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:197:71:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest_header[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[9.404s]   197 | gbdSlamNode::getMapServer([01;35m[Kstd::shared_ptr<rmw_request_id_t> request_header[m[K,
+[9.405s]       |                           [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[9.405s] 
+[32.947s] [ 60%] [32m[1mLinking CXX executable rgbd[0m
+[35.727s] /usr/bin/ld: warning: libopencv_imgcodecs.so.4.5d, needed by /opt/ros/humble/lib/libcv_bridge.so, may conflict with libopencv_imgcodecs.so.4.4
+[36.960s] [100%] Built target rgbd
+[36.970s] Invoked command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper' returned '0': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/orb_slam3_ros2_wrapper -- -j8 -l8
+[36.997s] Invoking command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/orb_slam3_ros2_wrapper
+[37.004s] -- Install configuration: ""
+[37.004s] -- Execute custom install script
+[37.005s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/lib/orb_slam3_ros2_wrapper/rgbd
+[37.006s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/launch/rgbd.launch.py
+[37.006s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/launch/unirobot.launch.py
+[37.007s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/params/gazebo_rgbd.yaml
+[37.007s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/params/rgbd-ros-params.yaml
+[37.008s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/ament_index/resource_index/package_run_dependencies/orb_slam3_ros2_wrapper
+[37.008s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/ament_index/resource_index/parent_prefix_path/orb_slam3_ros2_wrapper
+[37.009s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/environment/ament_prefix_path.sh
+[37.009s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/environment/ament_prefix_path.dsv
+[37.009s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/environment/path.sh
+[37.010s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/environment/path.dsv
+[37.010s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/local_setup.bash
+[37.010s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/local_setup.sh
+[37.010s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/local_setup.zsh
+[37.011s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/local_setup.dsv
+[37.011s] -- Symlinking: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.dsv
+[37.019s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/ament_index/resource_index/packages/orb_slam3_ros2_wrapper
+[37.019s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/cmake/orb_slam3_ros2_wrapperConfig.cmake
+[37.019s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/cmake/orb_slam3_ros2_wrapperConfig-version.cmake
+[37.020s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.xml
+[37.022s] Invoked command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper' returned '0': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/orb_slam3_ros2_wrapper

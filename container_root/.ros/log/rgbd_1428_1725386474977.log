@@ -1,0 +1,77 @@
+[INFO] [1725386487.988934740] [robot_0.ORB_SLAM3_RGBD_ROS2]: CONSTRUCTOR END!
+[WARN] [1725386487.991021886] [robot_0.ORB_SLAM3_RGBD_ROS2]: Odometry msg recorded but no odometry mode is true, set to false to use this odometry
+[INFO] [1725386488.193118466] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 19.5942 frames / sec
+[INFO] [1725386488.195144424] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386489.193049571] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 26.0155 frames / sec
+[INFO] [1725386489.193252470] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[WARN] [1725386489.377568905] []: Messages of type 0 arrived out of order (will print only once)
+[INFO] [1725386490.193061167] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 22.0015 frames / sec
+[INFO] [1725386490.193280730] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386491.193055022] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 3.00021 frames / sec
+[INFO] [1725386491.193209898] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[WARN] [1725386492.000104584] [robot_0.ORB_SLAM3_RGBD_ROS2]: Odometry msg recorded but no odometry mode is true, set to false to use this odometry
+[WARN] [1725386492.113333288] []: Messages of type 1 arrived out of order (will print only once)
+[INFO] [1725386492.193121713] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.99996 frames / sec
+[INFO] [1725386492.193323229] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386493.193104140] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 9.00092 frames / sec
+[INFO] [1725386493.193299444] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386494.193109044] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 10.0006 frames / sec
+[INFO] [1725386494.193340745] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386495.193154675] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 12.0006 frames / sec
+[INFO] [1725386495.193401604] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[WARN] [1725386496.033456641] [robot_0.ORB_SLAM3_RGBD_ROS2]: Odometry msg recorded but no odometry mode is true, set to false to use this odometry
+[INFO] [1725386496.193162295] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00061 frames / sec
+[INFO] [1725386496.193384416] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386497.193185114] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 8.00042 frames / sec
+[INFO] [1725386497.193326290] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386498.193125186] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 8.00125 frames / sec
+[INFO] [1725386498.193391540] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386499.193164596] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 12.0002 frames / sec
+[INFO] [1725386499.193435862] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[WARN] [1725386500.114964290] [robot_0.ORB_SLAM3_RGBD_ROS2]: Odometry msg recorded but no odometry mode is true, set to false to use this odometry
+[INFO] [1725386500.193177601] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 14.0009 frames / sec
+[INFO] [1725386500.193785356] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386501.193182732] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 14.0045 frames / sec
+[INFO] [1725386501.193434375] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386502.193144306] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 8.00071 frames / sec
+[INFO] [1725386502.193426503] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386503.193157584] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00015 frames / sec
+[INFO] [1725386503.193322657] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[WARN] [1725386504.121871887] [robot_0.ORB_SLAM3_RGBD_ROS2]: Odometry msg recorded but no odometry mode is true, set to false to use this odometry
+[INFO] [1725386504.193229406] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 13 frames / sec
+[INFO] [1725386504.193424306] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386505.193363062] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 2.99981 frames / sec
+[INFO] [1725386505.194458682] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386506.193803865] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 8.00355 frames / sec
+[INFO] [1725386506.194103207] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386507.193253644] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 8.00546 frames / sec
+[INFO] [1725386507.193501380] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386508.193306023] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 11.0002 frames / sec
+[INFO] [1725386508.193801088] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[WARN] [1725386508.215565285] [robot_0.ORB_SLAM3_RGBD_ROS2]: Odometry msg recorded but no odometry mode is true, set to false to use this odometry
+[INFO] [1725386509.193271933] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00075 frames / sec
+[INFO] [1725386509.193440421] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386510.193281943] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 12.0007 frames / sec
+[INFO] [1725386510.193818473] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386511.193233694] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 10.0028 frames / sec
+[INFO] [1725386511.193596498] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386512.193457712] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.99908 frames / sec
+[INFO] [1725386512.193745158] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[WARN] [1725386512.291959801] [robot_0.ORB_SLAM3_RGBD_ROS2]: Odometry msg recorded but no odometry mode is true, set to false to use this odometry
+[INFO] [1725386513.193303965] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.0009 frames / sec
+[INFO] [1725386513.193478317] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386514.193322009] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00021 frames / sec
+[INFO] [1725386514.193557895] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386515.193369810] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00009 frames / sec
+[INFO] [1725386515.193597131] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386516.193333891] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 13.0017 frames / sec
+[INFO] [1725386516.193506184] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[WARN] [1725386516.413018128] [robot_0.ORB_SLAM3_RGBD_ROS2]: Odometry msg recorded but no odometry mode is true, set to false to use this odometry
+[INFO] [1725386517.193349637] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 11.0005 frames / sec
+[INFO] [1725386517.193502997] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386518.193490775] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 3.99979 frames / sec
+[INFO] [1725386518.193707174] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386519.193345666] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 11.0032 frames / sec
+[INFO] [1725386519.193526427] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725386520.193550359] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 2.99961 frames / sec
+[INFO]

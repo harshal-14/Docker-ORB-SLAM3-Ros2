@@ -35,6 +35,8 @@
 #include "orb_slam3_ros2_wrapper/type_conversion.hpp"
 #include "orb_slam3_ros2_wrapper/orb_slam3_interface.hpp"
 
+#include <nav_msgs/msg/odometry.hpp>
+
 namespace ORB_SLAM3_Wrapper
 {
     class RgbdSlamNode : public rclcpp::Node
@@ -62,6 +64,7 @@ namespace ORB_SLAM3_Wrapper
         void publishMapData();
 
         void publishMapPointCloud();
+        void publishCameraTrajectory();
 
         /**
          * @brief Callback function for GetMap service.
@@ -85,6 +88,8 @@ namespace ORB_SLAM3_Wrapper
         rclcpp::Subscription<nav_msgs::msg::Odometry>::SharedPtr odomSub_;
         rclcpp::Publisher<slam_msgs::msg::MapData>::SharedPtr mapDataPub_;
         rclcpp::Publisher<sensor_msgs::msg::PointCloud2>::SharedPtr mapPointsPub_;
+        // Added this to publish the trajectory
+        rclcpp::Publisher<nav_msgs::msg::Path>::SharedPtr trajectoryPub_;
         // TF
         std::shared_ptr<tf2_ros::TransformBroadcaster> tfBroadcaster_;
         std::shared_ptr<tf2_ros::TransformListener> tfListener_;
@@ -104,6 +109,7 @@ namespace ORB_SLAM3_Wrapper
         bool rosViz_;
         bool isTracked_ = false;
         bool no_odometry_mode_;
+        bool publish_tf_;
         double frequency_tracker_count_ = 0;
         int map_data_publish_frequency_;
         int landmark_publish_frequency_;

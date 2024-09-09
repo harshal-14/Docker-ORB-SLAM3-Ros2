@@ -1,0 +1,4 @@
+Invoking command in '/root/colcon_ws/build/slam_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/colcon_ws/install/trajectory_publisher:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/slam_msgs -- -j8 -l8
+Invoked command in '/root/colcon_ws/build/slam_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/colcon_ws/install/trajectory_publisher:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/slam_msgs -- -j8 -l8
+Invoking command in '/root/colcon_ws/build/slam_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/colcon_ws/install/trajectory_publisher:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/slam_msgs
+Invoked command in '/root/colcon_ws/build/slam_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/colcon_ws/install/trajectory_publisher:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/slam_msgs

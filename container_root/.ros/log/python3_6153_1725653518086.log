@@ -1,0 +1,1098 @@
+[WARN] [1725653519.286590367] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725653520.297353315] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725653521.307452374] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725653522.317367321] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725653523.327894480] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725653524.344749089] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725653525.355486860] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725653526.366987157] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725653527.381572988] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725653528.400419149] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725653529.418427405] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[INFO] [1725653529.424945018] [slam_accuracy_comparer]: Received camera trajectory with 9 poses
+[INFO] [1725653529.425558910] [slam_accuracy_comparer]: Last camera pose: Position: (0.9778, 1.0223, -0.6363), Orientation: (-0.0038, -0.0078, -0.0005, 1.0000)
+[WARN] [1725653530.441389882] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[INFO] [1725653530.449648093] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653530.450232598] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[WARN] [1725653531.469330090] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[INFO] [1725653531.480900885] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653531.481694458] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653531.484405039] [slam_accuracy_comparer]: Robot pose 1: Position: (1.0061, 0.9977, -0.0528), Orientation: (0.0004, 0.0012, 0.0001, 1.0000)
+[INFO] [1725653531.485703044] [slam_accuracy_comparer]: ATE RMSE: 0.6034
+[INFO] [1725653531.486195579] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653531.499627268] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653531.500145616] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653531.500742902] [slam_accuracy_comparer]: ATE RMSE: 0.6034
+[INFO] [1725653531.501299542] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653531.519378638] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653531.520027787] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653531.520733685] [slam_accuracy_comparer]: ATE RMSE: 0.6034
+[INFO] [1725653531.521319426] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653531.543871156] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653531.544471408] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653531.545224390] [slam_accuracy_comparer]: ATE RMSE: 0.6034
+[INFO] [1725653531.545792103] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653531.547677287] [slam_accuracy_comparer]: Robot pose 2: Position: (1.0154, 0.9994, -0.2354), Orientation: (0.0006, 0.0035, -0.0001, 1.0000)
+[INFO] [1725653531.549082496] [slam_accuracy_comparer]: ATE RMSE: 0.6436
+[INFO] [1725653531.549734556] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653531.572026232] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653531.572592218] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653531.573421387] [slam_accuracy_comparer]: ATE RMSE: 0.6436
+[INFO] [1725653531.573943912] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653531.597952847] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653531.598654021] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653531.599471200] [slam_accuracy_comparer]: ATE RMSE: 0.6436
+[INFO] [1725653531.600454216] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653531.648794421] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653531.650297253] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653531.652037591] [slam_accuracy_comparer]: ATE RMSE: 0.6436
+[INFO] [1725653531.653362917] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653531.657816591] [slam_accuracy_comparer]: Robot pose 3: Position: (1.0143, 0.9921, -0.6080), Orientation: (0.0002, 0.0033, 0.0003, 1.0000)
+[INFO] [1725653531.659096377] [slam_accuracy_comparer]: ATE RMSE: 0.3642
+[INFO] [1725653531.659771309] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653531.721232699] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653531.722580573] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653531.723936083] [slam_accuracy_comparer]: ATE RMSE: 0.3642
+[INFO] [1725653531.725192143] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653531.793906430] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653531.795041601] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653531.796632147] [slam_accuracy_comparer]: ATE RMSE: 0.3642
+[INFO] [1725653531.797767493] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653531.800536204] [slam_accuracy_comparer]: Robot pose 4: Position: (1.0117, 0.9920, -0.8491), Orientation: (-0.0003, 0.0031, 0.0004, 1.0000)
+[INFO] [1725653531.803732834] [slam_accuracy_comparer]: ATE RMSE: 0.6904
+[INFO] [1725653531.804991329] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653531.883692094] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653531.884893179] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653531.886189345] [slam_accuracy_comparer]: ATE RMSE: 0.6904
+[INFO] [1725653531.887197217] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653531.891454963] [slam_accuracy_comparer]: Robot pose 5: Position: (1.0056, 0.9902, -1.1720), Orientation: (-0.0003, 0.0005, 0.0005, 1.0000)
+[INFO] [1725653531.892611774] [slam_accuracy_comparer]: ATE RMSE: 1.8045
+[INFO] [1725653531.893410390] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653531.964369834] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653531.965592503] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653531.966915004] [slam_accuracy_comparer]: ATE RMSE: 1.8045
+[INFO] [1725653531.967898280] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653531.973339877] [slam_accuracy_comparer]: Robot pose 6: Position: (1.0056, 0.9902, -1.1720), Orientation: (-0.0003, 0.0005, 0.0005, 1.0000)
+[INFO] [1725653531.975114191] [slam_accuracy_comparer]: ATE RMSE: 2.2957
+[INFO] [1725653531.975935515] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.059003929] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653532.059901014] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653532.061477879] [slam_accuracy_comparer]: ATE RMSE: 2.2957
+[INFO] [1725653532.062649495] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.066480969] [slam_accuracy_comparer]: Robot pose 7: Position: (1.0091, 0.9969, -1.3753), Orientation: (0.0034, 0.0059, 0.0001, 1.0000)
+[INFO] [1725653532.069499828] [slam_accuracy_comparer]: ATE RMSE: 2.3404
+[INFO] [1725653532.070961298] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.153467272] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653532.154901919] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653532.157446963] [slam_accuracy_comparer]: ATE RMSE: 2.3404
+[INFO] [1725653532.160031856] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.164465880] [slam_accuracy_comparer]: Robot pose 8: Position: (1.0091, 0.9969, -1.3753), Orientation: (0.0034, 0.0059, 0.0001, 1.0000)
+[INFO] [1725653532.165632773] [slam_accuracy_comparer]: ATE RMSE: 2.2670
+[INFO] [1725653532.166696441] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.273460676] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653532.274493514] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653532.275550113] [slam_accuracy_comparer]: ATE RMSE: 2.2670
+[INFO] [1725653532.276949886] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.282375958] [slam_accuracy_comparer]: Robot pose 9: Position: (1.0068, 0.9991, -1.6357), Orientation: (0.0032, 0.0062, 0.0001, 1.0000)
+[INFO] [1725653532.284665297] [slam_accuracy_comparer]: ATE RMSE: 2.4603
+[INFO] [1725653532.285655324] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.373632880] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653532.374978853] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653532.376165613] [slam_accuracy_comparer]: ATE RMSE: 2.4603
+[INFO] [1725653532.376745151] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.380100051] [slam_accuracy_comparer]: Robot pose 10: Position: (1.0068, 0.9991, -1.6357), Orientation: (0.0032, 0.0062, 0.0001, 1.0000)
+[INFO] [1725653532.381499399] [slam_accuracy_comparer]: ATE RMSE: 2.4565
+[INFO] [1725653532.382916398] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.447304772] [slam_accuracy_comparer]: Robot pose 11: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653532.449178905] [slam_accuracy_comparer]: ATE RMSE: 2.5803
+[INFO] [1725653532.450255143] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.561837977] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653532.562834569] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653532.564227654] [slam_accuracy_comparer]: ATE RMSE: 2.5803
+[INFO] [1725653532.565307610] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.573284535] [slam_accuracy_comparer]: Robot pose 12: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653532.575006681] [slam_accuracy_comparer]: ATE RMSE: 2.6870
+[INFO] [1725653532.575957035] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.649822597] [slam_accuracy_comparer]: Robot pose 13: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653532.651711390] [slam_accuracy_comparer]: ATE RMSE: 2.8885
+[INFO] [1725653532.652889180] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.822298751] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653532.824304199] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653532.826083400] [slam_accuracy_comparer]: ATE RMSE: 2.8885
+[INFO] [1725653532.827324227] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.831480847] [slam_accuracy_comparer]: Robot pose 14: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653532.832972144] [slam_accuracy_comparer]: ATE RMSE: 2.9825
+[INFO] [1725653532.833792782] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.848264990] [slam_accuracy_comparer]: Robot pose 15: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653532.850375529] [slam_accuracy_comparer]: ATE RMSE: 2.8681
+[INFO] [1725653532.852078705] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653532.989983964] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653532.991394086] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653532.993306177] [slam_accuracy_comparer]: ATE RMSE: 2.8681
+[INFO] [1725653532.994190946] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653533.000479809] [slam_accuracy_comparer]: Robot pose 16: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653533.002551482] [slam_accuracy_comparer]: ATE RMSE: 2.7243
+[INFO] [1725653533.003731795] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653533.048026563] [slam_accuracy_comparer]: Robot pose 17: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653533.052889626] [slam_accuracy_comparer]: ATE RMSE: 2.6757
+[INFO] [1725653533.053979291] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653533.195962350] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653533.197430488] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653533.199861005] [slam_accuracy_comparer]: ATE RMSE: 2.6757
+[INFO] [1725653533.200929537] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653533.205553895] [slam_accuracy_comparer]: Robot pose 18: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653533.207403215] [slam_accuracy_comparer]: ATE RMSE: 2.6670
+[INFO] [1725653533.208679363] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653533.250331728] [slam_accuracy_comparer]: Robot pose 19: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653533.252070767] [slam_accuracy_comparer]: ATE RMSE: 2.5177
+[INFO] [1725653533.253157122] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653533.458698072] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653533.460549919] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653533.462625721] [slam_accuracy_comparer]: ATE RMSE: 2.5177
+[INFO] [1725653533.463800912] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653533.469441653] [slam_accuracy_comparer]: Robot pose 20: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653533.470939863] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653533.471762907] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653533.641478265] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653533.642972449] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653533.645100180] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653533.645923539] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653533.650779584] [slam_accuracy_comparer]: Robot pose 21: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653533.652910605] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653533.654107620] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653533.850506380] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653533.851828558] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653533.853734473] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653533.854812980] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653533.860482396] [slam_accuracy_comparer]: Robot pose 22: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653533.861816160] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653533.862730298] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653534.061263317] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653534.062490111] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653534.065239098] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653534.066913565] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653534.071725935] [slam_accuracy_comparer]: Robot pose 23: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653534.073647035] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653534.074521810] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653534.222003925] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653534.223475947] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653534.225216235] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653534.226121083] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653534.233429782] [slam_accuracy_comparer]: Robot pose 24: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653534.235372687] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653534.236951590] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653534.250620764] [slam_accuracy_comparer]: Robot pose 25: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653534.254432561] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653534.256003317] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653534.422356160] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653534.423103234] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653534.424103972] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653534.424774975] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653534.429977697] [slam_accuracy_comparer]: Robot pose 26: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653534.431250852] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653534.432622943] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653534.449732639] [slam_accuracy_comparer]: Robot pose 27: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653534.451100375] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653534.451930651] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653534.591999902] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653534.592864195] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653534.594207733] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653534.595319936] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653534.602866167] [slam_accuracy_comparer]: Robot pose 28: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653534.604811090] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653534.605724278] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653534.811317213] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653534.812166039] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653534.813390069] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653534.814283008] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653534.818542155] [slam_accuracy_comparer]: Robot pose 29: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653534.820913668] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653534.821888477] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653534.855769782] [slam_accuracy_comparer]: Robot pose 30: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653534.857209828] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653534.858050472] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653535.026183681] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653535.027485761] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653535.029193932] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653535.030473193] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653535.035009696] [slam_accuracy_comparer]: Robot pose 31: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653535.036335667] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653535.037274327] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653535.228931159] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653535.230287850] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653535.232565521] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653535.233915205] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653535.240460298] [slam_accuracy_comparer]: Robot pose 32: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653535.241712357] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653535.242917743] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653535.251704173] [slam_accuracy_comparer]: Robot pose 33: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653535.253761332] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653535.255522769] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653535.464465452] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653535.465696739] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653535.467580678] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653535.469204920] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653535.473468723] [slam_accuracy_comparer]: Robot pose 34: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653535.475152073] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653535.476158237] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653535.689579309] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653535.691130672] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653535.693594487] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653535.694562558] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653535.701913021] [slam_accuracy_comparer]: Robot pose 35: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653535.704339298] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653535.706262233] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653535.889347816] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653535.890821134] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653535.893199458] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653535.894527521] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653535.903176141] [slam_accuracy_comparer]: Robot pose 36: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653535.906335798] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653535.907466710] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653536.117668340] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653536.118657051] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653536.120071228] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653536.120969242] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653536.126246395] [slam_accuracy_comparer]: Robot pose 37: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653536.127931529] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653536.129237381] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653536.304018118] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653536.306461010] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653536.308539700] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653536.309668337] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653536.315373355] [slam_accuracy_comparer]: Robot pose 38: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653536.317488590] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653536.318952589] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653536.496943569] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653536.498491980] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653536.500913057] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653536.509806530] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653536.518681466] [slam_accuracy_comparer]: Robot pose 39: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653536.520475901] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653536.521856094] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653536.694980550] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653536.695657077] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653536.696686536] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653536.697287575] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653536.701361473] [slam_accuracy_comparer]: Robot pose 40: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653536.703276755] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653536.704423810] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653536.752101460] [slam_accuracy_comparer]: Robot pose 41: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653536.754323312] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653536.755876896] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653536.859247285] [slam_accuracy_comparer]: Robot pose 42: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653536.863351051] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653536.865070374] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653537.072360513] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653537.073171042] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653537.074318457] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653537.075198014] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653537.082064100] [slam_accuracy_comparer]: Robot pose 43: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653537.083949809] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653537.084857405] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653537.356649732] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653537.357636122] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653537.359062555] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653537.360049439] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653537.365537070] [slam_accuracy_comparer]: Robot pose 44: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653537.367193778] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653537.368431795] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653537.572095218] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653537.574183260] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653537.575750447] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653537.577040886] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653537.584426165] [slam_accuracy_comparer]: Robot pose 45: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653537.586580402] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653537.587760541] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653537.817419473] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653537.819281948] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653537.820427986] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653537.821404787] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653537.828069416] [slam_accuracy_comparer]: Robot pose 46: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653537.829456115] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653537.830168470] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653538.046146214] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653538.047651639] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653538.049481449] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653538.050597829] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653538.056666422] [slam_accuracy_comparer]: Robot pose 47: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653538.058282348] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653538.059329111] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653538.277788464] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653538.278445046] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653538.279870294] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653538.281774614] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653538.290479921] [slam_accuracy_comparer]: Robot pose 48: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653538.293372174] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653538.294439471] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653538.520096682] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653538.521750822] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653538.524401001] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653538.525274084] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653538.531386693] [slam_accuracy_comparer]: Robot pose 49: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653538.533384615] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653538.534832004] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653538.751902971] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653538.752586396] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653538.753750272] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653538.754478246] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653538.760331801] [slam_accuracy_comparer]: Robot pose 50: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653538.761632010] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653538.762383524] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653538.958286655] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653538.959288680] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653538.960379617] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653538.961416859] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653538.966885518] [slam_accuracy_comparer]: Robot pose 51: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653538.968488031] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653538.970060039] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653539.201839515] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653539.204379254] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653539.206516709] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653539.207597305] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653539.214239661] [slam_accuracy_comparer]: Robot pose 52: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653539.216070234] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653539.217538200] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653539.454740115] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653539.455769846] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653539.457252583] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653539.458207156] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653539.465671141] [slam_accuracy_comparer]: Robot pose 53: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653539.468116151] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653539.469077512] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653539.713978305] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653539.715370012] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653539.717174042] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653539.718348422] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653539.726199882] [slam_accuracy_comparer]: Robot pose 54: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653539.728244645] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653539.729391797] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653539.971563860] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653539.973463575] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653539.975023680] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653539.975747331] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653539.982990896] [slam_accuracy_comparer]: Robot pose 55: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653539.984911837] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653539.986138937] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653540.238037908] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653540.239269245] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653540.241027033] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653540.242106290] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653540.249068263] [slam_accuracy_comparer]: Robot pose 56: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653540.251257025] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653540.253150107] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653540.527969037] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653540.528854506] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653540.529959998] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653540.530937359] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653540.539012829] [slam_accuracy_comparer]: Robot pose 57: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653540.540719820] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653540.542104873] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653540.853769500] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653540.855772332] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653540.858137514] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653540.859560748] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653540.867868744] [slam_accuracy_comparer]: Robot pose 58: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653540.870201656] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653540.871385881] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653541.137411266] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653541.138226678] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653541.139909733] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653541.140695072] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653541.146895044] [slam_accuracy_comparer]: Robot pose 59: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653541.148895979] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653541.150089761] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653541.453084406] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653541.454628675] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653541.456666665] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653541.457790835] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653541.464491167] [slam_accuracy_comparer]: Robot pose 60: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653541.465540349] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653541.466455436] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653541.730395434] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653541.731903485] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653541.733576245] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653541.734433138] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653541.742387167] [slam_accuracy_comparer]: Robot pose 61: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653541.744367923] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653541.745481621] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653542.029253940] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653542.030306050] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653542.032167026] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653542.032908583] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653542.040386434] [slam_accuracy_comparer]: Robot pose 62: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653542.042851879] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653542.044053820] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653542.343752235] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653542.344968065] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653542.346219626] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653542.346994480] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653542.353898773] [slam_accuracy_comparer]: Robot pose 63: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653542.356562882] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653542.357295324] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653542.640479762] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653542.641466371] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653542.643320812] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653542.644598567] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653542.653700237] [slam_accuracy_comparer]: Robot pose 64: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653542.656198976] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653542.658784862] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653542.957408863] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653542.958287676] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653542.959790738] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653542.960985319] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653542.969447797] [slam_accuracy_comparer]: Robot pose 65: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653542.970757267] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653542.971714847] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653543.267429450] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653543.268577759] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653543.270192113] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653543.271019406] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653543.278324792] [slam_accuracy_comparer]: Robot pose 66: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653543.280597392] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653543.281472896] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653543.598188743] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653543.599919397] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653543.602365319] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653543.603585837] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653543.612293459] [slam_accuracy_comparer]: Robot pose 67: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653543.615399583] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653543.617540574] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653543.953397757] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653543.954660363] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653543.956672125] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653543.957977251] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653543.966710989] [slam_accuracy_comparer]: Robot pose 68: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653543.968459243] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653543.969309521] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653544.296582102] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653544.297464548] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653544.300012478] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653544.302740794] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653544.310332520] [slam_accuracy_comparer]: Robot pose 69: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653544.312640145] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653544.314009806] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653544.635275994] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653544.637522432] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653544.640007585] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653544.640862138] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653544.648116441] [slam_accuracy_comparer]: Robot pose 70: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653544.650076859] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653544.651890918] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653545.008349526] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653545.010108388] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653545.011521651] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653545.012679642] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653545.022454503] [slam_accuracy_comparer]: Robot pose 71: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653545.024235735] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653545.025114839] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653545.358112065] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653545.359088903] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653545.360173804] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653545.361201362] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653545.370916860] [slam_accuracy_comparer]: Robot pose 72: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653545.372732423] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653545.373725027] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653545.716329257] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653545.717500685] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653545.719146265] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653545.720445684] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653545.728564772] [slam_accuracy_comparer]: Robot pose 73: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653545.729919758] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653545.730740152] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653546.084822240] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653546.086025127] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653546.087393323] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653546.088417102] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653546.095969925] [slam_accuracy_comparer]: Robot pose 74: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653546.097973813] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653546.098946708] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653546.441088898] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653546.442515611] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653546.443965507] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653546.444879883] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653546.453012999] [slam_accuracy_comparer]: Robot pose 75: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653546.455972445] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653546.457449849] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653546.811850758] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653546.812938830] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653546.815148689] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653546.817517628] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653546.828646968] [slam_accuracy_comparer]: Robot pose 76: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653546.831289034] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653546.833279638] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653547.186680749] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653547.188891086] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653547.191349712] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653547.192567137] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653547.201687756] [slam_accuracy_comparer]: Robot pose 77: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653547.204167400] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653547.205120230] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653547.556621827] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653547.557870101] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653547.559394549] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653547.560147395] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653547.569257895] [slam_accuracy_comparer]: Robot pose 78: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653547.570907335] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653547.572137607] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653547.940086493] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653547.940817731] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653547.942196613] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653547.943523333] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653547.952115237] [slam_accuracy_comparer]: Robot pose 79: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653547.953562130] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653547.954401655] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653548.311725823] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653548.312697049] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653548.314194777] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653548.315381400] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653548.324397385] [slam_accuracy_comparer]: Robot pose 80: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653548.326188163] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653548.326931177] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653548.672336906] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653548.673496846] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653548.675079795] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653548.675917005] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653548.685949650] [slam_accuracy_comparer]: Robot pose 81: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653548.687755378] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653548.688879359] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653549.051961271] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653549.053046069] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653549.054813644] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653549.056327488] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653549.063050195] [slam_accuracy_comparer]: Robot pose 82: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653549.064780939] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653549.066038841] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653549.439471494] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653549.440858380] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653549.442211591] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653549.443028178] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653549.452533762] [slam_accuracy_comparer]: Robot pose 83: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653549.455268779] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653549.456683484] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653549.828529082] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653549.830572447] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653549.833242864] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653549.834469105] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653549.845392653] [slam_accuracy_comparer]: Robot pose 84: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653549.847659486] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653549.848898727] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653550.267964525] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653550.269324735] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653550.271274514] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653550.272212764] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653550.281771523] [slam_accuracy_comparer]: Robot pose 85: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653550.283012197] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653550.284490473] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653550.692885655] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653550.694135827] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653550.695175156] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653550.695907913] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653550.706452891] [slam_accuracy_comparer]: Robot pose 86: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653550.708375084] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653550.709095601] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653551.114350446] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653551.115417150] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653551.116785022] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653551.117732294] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653551.127223362] [slam_accuracy_comparer]: Robot pose 87: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653551.129665473] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653551.131015660] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653551.534112324] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653551.535667935] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653551.537698198] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653551.538811975] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653551.548752365] [slam_accuracy_comparer]: Robot pose 88: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653551.550953805] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653551.551847487] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653551.984208755] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653551.985564002] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653551.987373994] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653551.988387453] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653552.001324006] [slam_accuracy_comparer]: Robot pose 89: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653552.003560164] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653552.005134920] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653552.477600560] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653552.478516884] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653552.479977531] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653552.480794410] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653552.490931241] [slam_accuracy_comparer]: Robot pose 90: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653552.492537878] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653552.493213191] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653552.949596049] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653552.951543897] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653552.955756252] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653552.957018721] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653552.965322316] [slam_accuracy_comparer]: Robot pose 91: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653552.967164640] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653552.968440783] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653553.493146206] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653553.494273322] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653553.495790725] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653553.496426057] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653553.505902748] [slam_accuracy_comparer]: Robot pose 92: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653553.507959181] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653553.509452813] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653553.961940848] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653553.962887223] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653553.964093462] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653553.965066646] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653553.974561377] [slam_accuracy_comparer]: Robot pose 93: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653553.976424221] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653553.977431954] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653554.405893623] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653554.407197408] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653554.408945929] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653554.409807342] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653554.419952287] [slam_accuracy_comparer]: Robot pose 94: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653554.421362077] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653554.422417425] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653554.918040416] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653554.919235174] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653554.921153649] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653554.922359345] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653555.933105072] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653556.376527712] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653556.377871092] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653556.380213262] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653556.381249943] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653557.390713656] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653557.864136036] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653557.864962057] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653557.866127718] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653557.867127991] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653558.875588676] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653559.318317098] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653559.320019467] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653559.321487102] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653559.322270929] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653560.326645461] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653560.815968651] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653560.817205819] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653560.820045370] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653560.821261532] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653561.832257581] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653562.314619909] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653562.316134908] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653562.317132622] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653562.317837714] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653563.326008284] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653563.822981803] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653563.824156293] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653563.826077986] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653563.827169740] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653564.838619698] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653565.309365096] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653565.310725673] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653565.312931781] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653565.314354175] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653566.319139887] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653566.801300035] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653566.802408122] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653566.804800036] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653566.805739148] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653567.809874817] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653568.277406700] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653568.278353148] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653568.279472153] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653568.280238664] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653569.288637373] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653569.673354284] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653569.674154881] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653569.675591569] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653569.676385346] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653570.684399422] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653571.189339927] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653571.190460773] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653571.191709889] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653571.192553756] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653571.202967988] [slam_accuracy_comparer]: Robot pose 95: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653571.204710168] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653571.205562201] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653571.697152907] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653571.697962868] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653571.699661972] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653571.701079699] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653571.710768521] [slam_accuracy_comparer]: Robot pose 96: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653571.711968157] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653571.712794018] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653572.224100211] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653572.225040436] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653572.226165568] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653572.226897765] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653572.236167397] [slam_accuracy_comparer]: Robot pose 97: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653572.237786417] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653572.238670495] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653572.752932372] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653572.753953902] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653572.755850275] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653572.756748122] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653572.765719291] [slam_accuracy_comparer]: Robot pose 98: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653572.767865646] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653572.769140174] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653573.275593279] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653573.276704196] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653573.277952031] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653573.278796581] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653574.283619521] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653574.807624372] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653574.808538993] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653574.809951987] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653574.811258560] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653575.817453867] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653576.346165978] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653576.347164868] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653576.349111739] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653576.350347935] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653577.355817884] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653577.895839643] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653577.896823743] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653577.898222190] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653577.899360918] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653578.904510261] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653579.428845913] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653579.430041581] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653579.432120489] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653579.433144390] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653580.443671811] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653580.964431828] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653580.965295534] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653580.967199937] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653580.968488948] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653581.974897979] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653582.515071342] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653582.516216314] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653582.518660502] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653582.520600231] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653582.529891873] [slam_accuracy_comparer]: Robot pose 99: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653582.531155851] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653582.531978414] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653583.012720767] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653583.014082239] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653583.015238702] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653583.016162789] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653583.024051186] [slam_accuracy_comparer]: Robot pose 100: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653583.025992571] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653583.026695092] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653583.534816408] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653583.536145603] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653583.538245194] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653583.539402459] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653583.547117911] [slam_accuracy_comparer]: Robot pose 101: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653583.549114205] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653583.550462527] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653584.058450664] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653584.059502165] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653584.060647398] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653584.061948601] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653585.067499021] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653585.578430874] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653585.579523726] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653585.581198276] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653585.582031060] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653585.591025385] [slam_accuracy_comparer]: Robot pose 102: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653585.592624939] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653585.593530641] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653586.145884340] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653586.147584399] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653586.149351444] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653586.150653681] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653586.160718908] [slam_accuracy_comparer]: Robot pose 103: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653586.162879606] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653586.163535613] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653586.687866596] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653586.689176104] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653586.691724725] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653586.693009003] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653586.703013174] [slam_accuracy_comparer]: Robot pose 104: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653586.704415106] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653586.705569331] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653587.257834333] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653587.258907641] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653587.260031550] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653587.260803431] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653587.271566443] [slam_accuracy_comparer]: Robot pose 105: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653587.274015815] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653587.275759957] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653587.832512652] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653587.833892675] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653587.835797343] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653587.836885898] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653587.845726516] [slam_accuracy_comparer]: Robot pose 106: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653587.847575408] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653587.848976121] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653588.423527213] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653588.424569166] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653588.425958571] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653588.426846138] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653588.436519042] [slam_accuracy_comparer]: Robot pose 107: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653588.439301876] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653588.440491503] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653589.076644211] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653589.077497737] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653589.078469507] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653589.079034483] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653589.090832427] [slam_accuracy_comparer]: Robot pose 108: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653589.092550983] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653589.093655909] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653589.674819246] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653589.676125650] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653589.677558858] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653589.678429300] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653589.691182452] [slam_accuracy_comparer]: Robot pose 109: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653589.693240191] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653589.694557199] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653590.306939143] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653590.308357581] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653590.309732977] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653590.310589072] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653590.322907092] [slam_accuracy_comparer]: Robot pose 110: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653590.324493744] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653590.325308382] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653590.922448814] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653590.924085184] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653590.925477545] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653590.926516427] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653590.936301536] [slam_accuracy_comparer]: Robot pose 111: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653590.937730469] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653590.938476126] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653591.538828374] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653591.540599004] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653591.542282858] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653591.543328626] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653592.556969011] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653593.128980302] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653593.131069115] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653593.133483445] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653593.134347174] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653593.144073194] [slam_accuracy_comparer]: Robot pose 112: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653593.148683478] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653593.149739245] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653593.721065953] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653593.721879311] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653593.723188859] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653593.724090514] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653593.732660549] [slam_accuracy_comparer]: Robot pose 113: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653593.734703737] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653593.736046094] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653594.274032511] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653594.275675326] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653594.277069495] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653594.278034212] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653594.288103528] [slam_accuracy_comparer]: Robot pose 114: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653594.290785159] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653594.291911643] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653594.926456676] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653594.927064789] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653594.928194784] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653594.929018432] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653594.938449706] [slam_accuracy_comparer]: Robot pose 115: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653594.940969763] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653594.941994532] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653595.566078092] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653595.567320144] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653595.569102341] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653595.570766995] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653596.585849471] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653597.282511117] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653597.284478690] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653597.286983388] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653597.288171754] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653598.297991599] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653598.918690918] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653598.919844773] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653598.921329732] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653598.922210024] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653599.927440428] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653600.605307612] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653600.606549868] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653600.607845503] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653600.608718206] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653601.618144939] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653602.224250942] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653602.225872241] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653602.228173015] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653602.229163618] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653602.240108308] [slam_accuracy_comparer]: Robot pose 116: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0344, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653602.241795100] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653602.242855236] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653602.857669096] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653602.858682686] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653602.860063606] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653602.861206115] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653602.870910374] [slam_accuracy_comparer]: Robot pose 117: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653602.872615385] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653602.873422538] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653603.512655239] [slam_accuracy_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725653603.515706354] [slam_accuracy_comparer]: Last camera pose: Position: (0.9740, 1.0304, -0.6545), Orientation: (-0.0051, -0.0091, -0.0007, 0.9999)
+[INFO] [1725653603.517575543] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653603.521264699] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653603.532435983] [slam_accuracy_comparer]: Robot pose 118: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653603.534593089] [slam_accuracy_comparer]: ATE RMSE: 2.4597
+[INFO] [1725653603.536346288] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653604.200434959] [slam_accuracy_comparer]: Received camera trajectory with 11 poses
+[INFO] [1725653604.201711863] [slam_accuracy_comparer]: Last camera pose: Position: (0.9767, 1.0206, -0.6531), Orientation: (-0.0036, -0.0092, -0.0005, 1.0000)
+[INFO] [1725653604.203847998] [slam_accuracy_comparer]: ATE RMSE: 2.2896
+[INFO] [1725653604.205240633] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653604.215171901] [slam_accuracy_comparer]: Robot pose 119: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653604.217370315] [slam_accuracy_comparer]: ATE RMSE: 2.2896
+[INFO] [1725653604.218721369] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653604.908269030] [slam_accuracy_comparer]: Received camera trajectory with 11 poses
+[INFO] [1725653604.909420328] [slam_accuracy_comparer]: Last camera pose: Position: (0.9767, 1.0206, -0.6531), Orientation: (-0.0036, -0.0092, -0.0005, 1.0000)
+[INFO] [1725653604.910827706] [slam_accuracy_comparer]: ATE RMSE: 2.2896
+[INFO] [1725653604.912491062] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653604.922143225] [slam_accuracy_comparer]: Robot pose 120: Position: (1.2593, 0.7889, -4.3986), Orientation: (-0.0345, -0.1367, 0.0076, 0.9900)
+[INFO] [1725653604.924505165] [slam_accuracy_comparer]: ATE RMSE: 2.2896
+[INFO] [1725653604.926064643] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653605.655142195] [slam_accuracy_comparer]: Received camera trajectory with 11 poses
+[INFO] [1725653605.656380452] [slam_accuracy_comparer]: Last camera pose: Position: (0.9767, 1.0206, -0.6531), Orientation: (-0.0036, -0.0092, -0.0005, 1.0000)
+[INFO] [1725653605.657533851] [slam_accuracy_comparer]: ATE RMSE: 2.2896
+[INFO] [1725653605.658263413] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653606.663758747] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653607.480181483] [slam_accuracy_comparer]: Received camera trajectory with 13 poses
+[INFO] [1725653607.480995337] [slam_accuracy_comparer]: Last camera pose: Position: (0.9747, 1.0263, -0.6583), Orientation: (-0.0038, -0.0092, -0.0008, 0.9999)
+[INFO] [1725653607.483155056] [slam_accuracy_comparer]: ATE RMSE: 2.1177
+[INFO] [1725653607.484315072] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653608.487686319] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653609.455945978] [slam_accuracy_comparer]: Received camera trajectory with 15 poses
+[INFO] [1725653609.456514532] [slam_accuracy_comparer]: Last camera pose: Position: (0.9766, 1.0264, -0.6281), Orientation: (-0.0042, -0.0089, -0.0007, 1.0000)
+[INFO] [1725653609.457812760] [slam_accuracy_comparer]: ATE RMSE: 1.9932
+[INFO] [1725653609.458535372] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653610.471737396] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653611.446840949] [slam_accuracy_comparer]: Received camera trajectory with 16 poses
+[INFO] [1725653611.447682063] [slam_accuracy_comparer]: Last camera pose: Position: (0.9783, 1.0289, -0.5951), Orientation: (-0.0041, -0.0078, -0.0009, 1.0000)
+[INFO] [1725653611.449473712] [slam_accuracy_comparer]: ATE RMSE: 2.0007
+[INFO] [1725653611.451367555] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653611.461334970] [slam_accuracy_comparer]: Robot pose 121: Position: (1.6293, 0.6523, -4.7385), Orientation: (-0.0099, -0.1613, -0.1206, 0.9795)
+[INFO] [1725653611.462807710] [slam_accuracy_comparer]: ATE RMSE: 2.0490
+[INFO] [1725653611.463744900] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653612.761434891] [slam_accuracy_comparer]: Received camera trajectory with 18 poses
+[INFO] [1725653612.762004761] [slam_accuracy_comparer]: Last camera pose: Position: (0.9867, 1.0209, -0.5412), Orientation: (-0.0030, -0.0048, -0.0007, 1.0000)
+[INFO] [1725653612.763336148] [slam_accuracy_comparer]: ATE RMSE: 2.1949
+[INFO] [1725653612.764354561] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653612.774194105] [slam_accuracy_comparer]: Robot pose 122: Position: (1.6293, 0.6523, -4.7385), Orientation: (-0.0099, -0.1613, -0.1206, 0.9795)
+[INFO] [1725653612.775596125] [slam_accuracy_comparer]: ATE RMSE: 2.2068
+[INFO] [1725653612.776212907] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653614.201143568] [slam_accuracy_comparer]: Received camera trajectory with 20 poses
+[INFO] [1725653614.202660595] [slam_accuracy_comparer]: Last camera pose: Position: (1.0165, 1.0010, -0.3902), Orientation: (0.0005, 0.0045, -0.0002, 1.0000)
+[INFO] [1725653614.204694294] [slam_accuracy_comparer]: ATE RMSE: 2.7707
+[INFO] [1725653614.205765766] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653615.214873929] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653616.927516875] [slam_accuracy_comparer]: Received camera trajectory with 25 poses
+[INFO] [1725653616.928896323] [slam_accuracy_comparer]: Last camera pose: Position: (1.0190, 1.0033, -0.3816), Orientation: (0.0012, 0.0055, -0.0004, 1.0000)
+[INFO] [1725653616.932823860] [slam_accuracy_comparer]: ATE RMSE: 3.1553
+[INFO] [1725653616.934002024] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653617.948163951] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653620.116822051] [slam_accuracy_comparer]: Received camera trajectory with 30 poses
+[INFO] [1725653620.117901293] [slam_accuracy_comparer]: Last camera pose: Position: (1.0204, 0.9984, -0.3872), Orientation: (0.0019, 0.0054, -0.0002, 1.0000)
+[INFO] [1725653620.120531375] [slam_accuracy_comparer]: ATE RMSE: 3.3336
+[INFO] [1725653620.122293410] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653621.138260712] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653623.799149290] [slam_accuracy_comparer]: Received camera trajectory with 35 poses
+[INFO] [1725653623.800621637] [slam_accuracy_comparer]: Last camera pose: Position: (1.0217, 1.0015, -0.3814), Orientation: (0.0005, 0.0061, -0.0002, 1.0000)
+[INFO] [1725653623.803523355] [slam_accuracy_comparer]: ATE RMSE: 3.5785
+[INFO] [1725653623.804519963] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653624.813918021] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653628.196591521] [slam_accuracy_comparer]: Received camera trajectory with 42 poses
+[INFO] [1725653628.197438552] [slam_accuracy_comparer]: Last camera pose: Position: (1.0191, 1.0017, -0.3783), Orientation: (0.0003, 0.0063, -0.0001, 1.0000)
+[INFO] [1725653628.200157095] [slam_accuracy_comparer]: ATE RMSE: 3.9162
+[INFO] [1725653628.201142542] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653629.213717596] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653633.015374750] [slam_accuracy_comparer]: Received camera trajectory with 48 poses
+[INFO] [1725653633.016712042] [slam_accuracy_comparer]: Last camera pose: Position: (1.0205, 1.0007, -0.3805), Orientation: (0.0006, 0.0061, -0.0002, 1.0000)
+[INFO] [1725653633.020765254] [slam_accuracy_comparer]: ATE RMSE: 4.3560
+[INFO] [1725653633.022195270] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653634.034734634] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653638.745404704] [slam_accuracy_comparer]: Received camera trajectory with 57 poses
+[INFO] [1725653638.746703116] [slam_accuracy_comparer]: Last camera pose: Position: (1.0219, 1.0016, -0.3834), Orientation: (0.0006, 0.0059, -0.0003, 1.0000)
+[INFO] [1725653638.749621253] [slam_accuracy_comparer]: ATE RMSE: 5.1236
+[INFO] [1725653638.750739472] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653638.760840763] [slam_accuracy_comparer]: Robot pose 123: Position: (7.2170, 1.4571, -1.8769), Orientation: (-0.0019, 0.0068, 0.3311, 0.9436)
+[INFO] [1725653638.763794640] [slam_accuracy_comparer]: ATE RMSE: 5.1586
+[INFO] [1725653638.765384937] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653644.319744832] [slam_accuracy_comparer]: Received camera trajectory with 63 poses
+[INFO] [1725653644.320917826] [slam_accuracy_comparer]: Last camera pose: Position: (1.0219, 1.0016, -0.3834), Orientation: (0.0006, 0.0059, -0.0003, 1.0000)
+[INFO] [1725653644.324701622] [slam_accuracy_comparer]: ATE RMSE: 5.7199
+[INFO] [1725653644.325755475] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653644.336738455] [slam_accuracy_comparer]: Robot pose 124: Position: (8.8210, 2.7299, -1.9031), Orientation: (-0.0017, 0.0057, 0.3317, 0.9434)
+[INFO] [1725653644.339239720] [slam_accuracy_comparer]: ATE RMSE: 5.7649
+[INFO] [1725653644.339948617] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653650.934274046] [slam_accuracy_comparer]: Received camera trajectory with 74 poses
+[INFO] [1725653650.935637742] [slam_accuracy_comparer]: Last camera pose: Position: (1.0219, 1.0016, -0.3834), Orientation: (0.0006, 0.0059, -0.0003, 1.0000)
+[INFO] [1725653650.940040600] [slam_accuracy_comparer]: ATE RMSE: 6.7397
+[INFO] [1725653650.941557885] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653651.952230335] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653660.384194288] [slam_accuracy_comparer]: Received camera trajectory with 91 poses
+[INFO] [1725653660.384943516] [slam_accuracy_comparer]: Last camera pose: Position: (11.1489, 8.7699, -1.9613), Orientation: (-0.0028, 0.0060, 0.8294, 0.5586)
+[INFO] [1725653660.387758375] [slam_accuracy_comparer]: ATE RMSE: 7.8955
+[INFO] [1725653660.388767448] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653661.396212783] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653671.653121012] [slam_accuracy_comparer]: Received camera trajectory with 104 poses
+[INFO] [1725653671.654635735] [slam_accuracy_comparer]: Last camera pose: Position: (11.0981, 8.7537, -1.9618), Orientation: (-0.0020, 0.0068, 0.8251, 0.5649)
+[INFO] [1725653671.659485742] [slam_accuracy_comparer]: ATE RMSE: 8.7196
+[INFO] [1725653671.660841061] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653671.671434329] [slam_accuracy_comparer]: Robot pose 125: Position: (10.4994, 9.7985, -1.9591), Orientation: (-0.0026, 0.0095, 0.8934, 0.4491)
+[INFO] [1725653671.676045617] [slam_accuracy_comparer]: ATE RMSE: 8.6327
+[INFO] [1725653671.676807778] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653683.794985721] [slam_accuracy_comparer]: Received camera trajectory with 117 poses
+[INFO] [1725653683.795813752] [slam_accuracy_comparer]: Last camera pose: Position: (5.8475, 12.6740, -1.9080), Orientation: (0.0185, -0.0594, 0.9746, 0.2150)
+[INFO] [1725653683.800334649] [slam_accuracy_comparer]: ATE RMSE: 9.2232
+[INFO] [1725653683.801321041] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653684.815228951] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653699.760045651] [slam_accuracy_comparer]: Received camera trajectory with 135 poses
+[INFO] [1725653699.761117463] [slam_accuracy_comparer]: Last camera pose: Position: (5.8266, 12.6891, -1.9072), Orientation: (0.0184, -0.0581, 0.9748, 0.2144)
+[INFO] [1725653699.765117456] [slam_accuracy_comparer]: ATE RMSE: 9.5908
+[INFO] [1725653699.766287833] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653700.789981615] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653716.441807587] [slam_accuracy_comparer]: Received camera trajectory with 138 poses
+[INFO] [1725653716.442777091] [slam_accuracy_comparer]: Last camera pose: Position: (5.8269, 12.6889, -1.9070), Orientation: (0.0185, -0.0584, 0.9749, 0.2142)
+[INFO] [1725653716.447978066] [slam_accuracy_comparer]: ATE RMSE: 9.6324
+[INFO] [1725653716.448758587] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653716.462070485] [slam_accuracy_comparer]: Robot pose 126: Position: (2.0323, 12.3909, -1.9806), Orientation: (0.0005, 0.0073, 0.9517, 0.3068)
+[INFO] [1725653716.467574236] [slam_accuracy_comparer]: ATE RMSE: 9.5908
+[INFO] [1725653716.468654155] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[INFO] [1725653733.843712787] [slam_accuracy_comparer]: Received camera trajectory with 138 poses
+[INFO] [1725653733.845302582] [slam_accuracy_comparer]: Last camera pose: Position: (5.8269, 12.6889, -1.9070), Orientation: (0.0185, -0.0584, 0.9749, 0.2142)
+[INFO] [1725653733.852349791] [slam_accuracy_comparer]: ATE RMSE: 9.5908
+[INFO] [1725653733.853844477] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653734.873151724] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653753.975588160] [slam_accuracy_comparer]: Received camera trajectory with 138 poses
+[INFO] [1725653753.976719810] [slam_accuracy_comparer]: Last camera pose: Position: (5.8269, 12.6889, -1.9070), Orientation: (0.0185, -0.0584, 0.9749, 0.2142)
+[INFO] [1725653753.981905232] [slam_accuracy_comparer]: ATE RMSE: 9.5908
+[INFO] [1725653753.983304440] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653754.999293350] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653774.622572716] [slam_accuracy_comparer]: Received camera trajectory with 138 poses
+[INFO] [1725653774.623755174] [slam_accuracy_comparer]: Last camera pose: Position: (5.8269, 12.6889, -1.9070), Orientation: (0.0185, -0.0584, 0.9749, 0.2142)
+[INFO] [1725653774.629130662] [slam_accuracy_comparer]: ATE RMSE: 9.5908
+[INFO] [1725653774.630411400] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653775.640915557] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653795.121847585] [slam_accuracy_comparer]: Received camera trajectory with 138 poses
+[INFO] [1725653795.123774158] [slam_accuracy_comparer]: Last camera pose: Position: (5.8269, 12.6889, -1.9070), Orientation: (0.0185, -0.0584, 0.9749, 0.2142)
+[INFO] [1725653795.127816406] [slam_accuracy_comparer]: ATE RMSE: 9.5908
+[INFO] [1725653795.128830164] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653796.144046584] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653816.015006115] [slam_accuracy_comparer]: Received camera trajectory with 138 poses
+[INFO] [1725653816.015867040] [slam_accuracy_comparer]: Last camera pose: Position: (5.8269, 12.6889, -1.9070), Orientation: (0.0185, -0.0584, 0.9749, 0.2142)
+[INFO] [1725653816.020477685] [slam_accuracy_comparer]: ATE RMSE: 9.5908
+[INFO] [1725653816.022159786] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653817.031315177] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653837.505352602] [slam_accuracy_comparer]: Received camera trajectory with 138 poses
+[INFO] [1725653837.506659161] [slam_accuracy_comparer]: Last camera pose: Position: (5.8269, 12.6889, -1.9070), Orientation: (0.0185, -0.0584, 0.9749, 0.2142)
+[INFO] [1725653837.511326767] [slam_accuracy_comparer]: ATE RMSE: 9.5908
+[INFO] [1725653837.512217882] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653838.519217408] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653859.438891966] [slam_accuracy_comparer]: Received camera trajectory with 138 poses
+[INFO] [1725653859.439961281] [slam_accuracy_comparer]: Last camera pose: Position: (5.8269, 12.6889, -1.9070), Orientation: (0.0185, -0.0584, 0.9749, 0.2142)
+[INFO] [1725653859.444440062] [slam_accuracy_comparer]: ATE RMSE: 9.5908
+[INFO] [1725653859.445576222] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653860.455821312] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653882.594670117] [slam_accuracy_comparer]: Received camera trajectory with 138 poses
+[INFO] [1725653882.596803516] [slam_accuracy_comparer]: Last camera pose: Position: (5.8269, 12.6889, -1.9070), Orientation: (0.0185, -0.0584, 0.9749, 0.2142)
+[INFO] [1725653882.602424248] [slam_accuracy_comparer]: ATE RMSE: 9.5908
+[INFO] [1725653882.604003270] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653883.614543691] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653902.934786342] [slam_accuracy_comparer]: Received camera trajectory with 138 poses
+[INFO] [1725653902.935203719] [slam_accuracy_comparer]: Last camera pose: Position: (5.8269, 12.6889, -1.9070), Orientation: (0.0185, -0.0584, 0.9749, 0.2142)
+[INFO] [1725653902.936775428] [slam_accuracy_comparer]: ATE RMSE: 9.5908
+[INFO] [1725653902.937140419] [slam_accuracy_comparer]: RPE RMSE: 0.0000
+[WARN] [1725653903.947872809] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' 

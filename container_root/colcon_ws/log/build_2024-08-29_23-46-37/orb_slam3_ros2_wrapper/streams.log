@@ -1,0 +1,27 @@
+[0.009s] Invoking command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/orb_slam3_ros2_wrapper -- -j8 -l8
+[0.133s] [100%] Built target rgbd
+[0.142s] Invoked command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper' returned '0': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/opt/ros/humble /usr/bin/cmake --build /root/colcon_ws/build/orb_slam3_ros2_wrapper -- -j8 -l8
+[0.167s] Invoking command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/orb_slam3_ros2_wrapper
+[0.173s] -- Install configuration: ""
+[0.173s] -- Execute custom install script
+[0.174s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/lib/orb_slam3_ros2_wrapper/rgbd
+[0.174s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/launch/rgbd.launch.py
+[0.175s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/launch/unirobot.launch.py
+[0.175s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/params/gazebo_rgbd.yaml
+[0.175s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/params/rgbd-ros-params.yaml
+[0.176s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/ament_index/resource_index/package_run_dependencies/orb_slam3_ros2_wrapper
+[0.176s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/ament_index/resource_index/parent_prefix_path/orb_slam3_ros2_wrapper
+[0.176s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/environment/ament_prefix_path.sh
+[0.177s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/environment/ament_prefix_path.dsv
+[0.177s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/environment/path.sh
+[0.177s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/environment/path.dsv
+[0.177s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/local_setup.bash
+[0.177s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/local_setup.sh
+[0.178s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/local_setup.zsh
+[0.178s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/local_setup.dsv
+[0.178s] -- Symlinking: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.dsv
+[0.185s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/ament_index/resource_index/packages/orb_slam3_ros2_wrapper
+[0.185s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/cmake/orb_slam3_ros2_wrapperConfig.cmake
+[0.185s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/cmake/orb_slam3_ros2_wrapperConfig-version.cmake
+[0.186s] -- Up-to-date symlink: /root/colcon_ws/install/orb_slam3_ros2_wrapper/share/orb_slam3_ros2_wrapper/package.xml
+[0.187s] Invoked command in '/root/colcon_ws/build/orb_slam3_ros2_wrapper' returned '0': CMAKE_PREFIX_PATH=/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/opt/ros/humble /usr/bin/cmake --install /root/colcon_ws/build/orb_slam3_ros2_wrapper

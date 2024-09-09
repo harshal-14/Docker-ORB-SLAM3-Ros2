@@ -1,0 +1,486 @@
+[INFO] [1725643782.556126123] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643782.557157618] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643782.676844355] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643782.677782701] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643782.845907835] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643782.847433225] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643783.018430358] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643783.019552255] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643783.186098010] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643783.187147257] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643783.349538684] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643783.350505585] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643783.505720577] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643783.506581713] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643783.691969712] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643783.692875011] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643783.857476586] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643783.858725353] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643784.024840286] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643784.026416724] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643784.188177887] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643784.190058517] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643784.370050422] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643784.371045167] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643784.538059979] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643784.539868779] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643784.725840100] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643784.727439356] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643784.912742561] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643784.914127120] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643785.091330008] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643785.092944944] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643785.265760734] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643785.267064453] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643785.462599761] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643785.464117679] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643785.613825835] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643785.615266448] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643785.782572728] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643785.783473758] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643785.963161321] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643785.964328739] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643786.129568092] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643786.130567266] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643786.295405123] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643786.297035515] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643786.483828424] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643786.484897936] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643786.654322307] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643786.655481802] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643786.836722066] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643786.838094400] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643787.006732029] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643787.007796897] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643787.191777321] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643787.192955932] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643787.363529336] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643787.364718380] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643787.533054725] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643787.534214654] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643787.727128797] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643787.728123382] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643787.923360291] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643787.924493322] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643788.098405711] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643788.099193734] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643788.272634249] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643788.273590153] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643788.421044933] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643788.421920169] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643788.593991433] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643788.595228449] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643788.759855126] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643788.760511165] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643788.955872937] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643788.956994339] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643789.106012178] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643789.107080412] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643789.263342765] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643789.264248292] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643789.452181952] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643789.453162870] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643789.641692403] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643789.642977484] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643789.800144772] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643789.801377708] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643789.993460950] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643789.995244921] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643790.183913859] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643790.185296052] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643790.356077814] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643790.356957199] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643790.546952827] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643790.548814306] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643790.734763459] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643790.736022708] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643790.901366592] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643790.903176446] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643791.068353790] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643791.069126082] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643791.264030236] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643791.265345990] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643791.478156790] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643791.480743364] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643791.653331037] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643791.654247045] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643791.883766532] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643791.885484476] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643792.080162811] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643792.080964648] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643792.165041534] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643792.165524180] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643792.234895084] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643792.235444819] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643792.306801481] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643792.307422950] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643792.380664311] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643792.381236823] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643792.447080913] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643792.448486118] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643792.699934695] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643792.701454498] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643792.905261399] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643792.906825416] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643793.098870319] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643793.100692056] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643793.312291413] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643793.313796887] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643793.495559523] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643793.496755002] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643793.696424943] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643793.697319641] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643793.876760882] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643793.877770380] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643794.079787191] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643794.081318541] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643794.263831938] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643794.265346663] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643794.443995353] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643794.445491260] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643794.658949359] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643794.661719936] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643794.843703850] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643794.845426593] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643795.038711262] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643795.040584795] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643795.242732550] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643795.243997284] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643795.458055857] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643795.460310343] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643795.626794915] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643795.628463130] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643795.858816905] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643795.860521615] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643796.062376560] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643796.064178196] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643796.239354301] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643796.240519742] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643796.427699441] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643796.429557584] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643796.645810968] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643796.647352919] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643796.858152603] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643796.859483243] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643797.047480911] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643797.049010923] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643797.235477624] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643797.236562456] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643797.431521643] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643797.432742254] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643797.628741434] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643797.629869488] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643797.796947914] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643797.797993473] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643798.054750721] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643798.055929595] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643798.220154872] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643798.222202258] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643798.403302071] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643798.405079106] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643798.628175344] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643798.629877636] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643798.817385784] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643798.818942831] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643799.006219480] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643799.008168231] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643799.183161873] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643799.184394635] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643799.360727998] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643799.362044836] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643799.553077536] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643799.555629791] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643799.775650551] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643799.777387061] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643799.987773362] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643799.989026465] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643800.187182444] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643800.188838138] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643800.381962755] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643800.384334092] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643800.624012712] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643800.625579299] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643800.837045906] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643800.837715913] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643801.062176761] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643801.063908377] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643801.315340992] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643801.316144138] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643801.529412875] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643801.530300901] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643801.726093774] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643801.727394355] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643801.944499992] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643801.946409698] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643802.154490523] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643802.155601375] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643802.356665492] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643802.357834427] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643802.580237902] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643802.582002741] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643802.794469300] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643802.795875394] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643803.015380583] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643803.016572705] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643803.224634415] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643803.226945273] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643803.427344850] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643803.428500616] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643803.626045414] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643803.628099011] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643803.831550459] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643803.832517921] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643804.057975888] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643804.059299988] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643804.281815381] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643804.283361662] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643804.504447305] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643804.505125933] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643804.715693814] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643804.716729637] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643804.916041428] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643804.917350015] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643805.123301933] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643805.125517950] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643805.357688948] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643805.359405880] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643805.607928185] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643805.608675713] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643805.874214289] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643805.875442380] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643806.124832775] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643806.125575755] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643806.360018273] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643806.361183579] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643806.595494178] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643806.596643975] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643806.840583978] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643806.842005959] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643807.078101962] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643807.080112820] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643807.337167137] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643807.338005761] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643807.606263654] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643807.608538784] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643807.846525166] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643807.847623427] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643808.144153316] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643808.145957018] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643808.411294921] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643808.412948438] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643808.702168687] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643808.703455398] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643808.990673020] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643808.991884878] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643809.263359748] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643809.265549202] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643809.542354741] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643809.543949659] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643809.815532973] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643809.816652754] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643810.091709807] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643810.093998019] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643810.391147357] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643810.392459219] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643810.667889413] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643810.669990986] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643810.959102995] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643810.960225025] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643811.217792870] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643811.219053862] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643811.503361140] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643811.504390489] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643811.798907296] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643811.800562627] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643812.106417108] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643812.107183871] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643812.417566930] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643812.419230334] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643812.754298672] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643812.755904817] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643813.060429137] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643813.062139699] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643813.359720312] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643813.361295374] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643813.673078682] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643813.674651676] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643814.002078351] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643814.003284382] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643814.301484657] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643814.302693961] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643814.648398027] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643814.650885287] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643814.954668026] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643814.955667386] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643815.268457113] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643815.269990107] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643815.571805333] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643815.572496739] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643815.880685552] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643815.881963578] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643816.177093671] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643816.178581319] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643816.473474351] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643816.474625319] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643816.783388832] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643816.784581868] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643817.061627286] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643817.062407015] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643817.369054867] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643817.371083589] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643817.669487547] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643817.670754164] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643817.983036465] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643817.984961746] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643818.305275960] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643818.307404642] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643818.620276942] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643818.621563192] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643818.934297273] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643818.935549294] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643819.267046444] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643819.269239044] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643819.587534746] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643819.588643848] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643819.919239514] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643819.921280013] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643820.260477164] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643820.261550065] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643820.587904189] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643820.589122137] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643820.945662647] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643820.946423723] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643821.256728860] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643821.257372651] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643821.596518146] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643821.597671090] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643821.934949909] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643821.936894644] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643822.262680419] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643822.263699956] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643822.611926278] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643822.613042917] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643822.955105408] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643822.957385654] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643823.298771430] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643823.299909684] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643823.630176751] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643823.631306078] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643823.984388651] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643823.985745009] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643824.343424910] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643824.345309247] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643824.720863583] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643824.722334785] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643825.086419380] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643825.087861481] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643825.449297094] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643825.450658100] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643825.820662871] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643825.821585197] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643826.171690589] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643826.173275367] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643826.518538387] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643826.519896812] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643826.899352215] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643826.900551460] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643827.250441896] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643827.251564149] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643827.606471415] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643827.607358936] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643827.994306838] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643827.995707315] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643828.390416059] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643828.391104075] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643828.829935683] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643828.831368025] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643829.198881945] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643829.201021650] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643829.568557404] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643829.569736373] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643829.934363681] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643829.935830969] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643830.315046490] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643830.316374359] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643830.675023183] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643830.676329124] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643831.059876397] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643831.061350084] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643831.424547726] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643831.426263488] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643831.826081098] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643831.828040189] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643832.205805364] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643832.206993402] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643832.641478433] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643832.644529463] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643833.024330648] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643833.025795716] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643833.363385229] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643833.364977084] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643833.729489929] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643833.730952061] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643834.097523295] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725643834.099075202] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2592, 0.9969, 0.0016), Orientation: (-0.0002, 0.0006, -0.0802, 0.9968)
+[INFO] [1725643834.581270566] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725643834.583238313] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2753, 0.9946, -0.0026), Orientation: (0.0007, 0.0002, -0.1212, 0.9926)
+[INFO] [1725643835.114031557] [simplified_trajectory_comparer]: Received camera trajectory with 8 poses
+[INFO] [1725643835.115597158] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2744, 0.9945, -0.0033), Orientation: (0.0009, 0.0000, -0.1211, 0.9926)
+[INFO] [1725643835.685810209] [simplified_trajectory_comparer]: Received camera trajectory with 8 poses
+[INFO] [1725643835.687978437] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2744, 0.9945, -0.0033), Orientation: (0.0009, 0.0000, -0.1211, 0.9926)
+[INFO] [1725643836.221839172] [simplified_trajectory_comparer]: Received camera trajectory with 8 poses
+[INFO] [1725643836.222873468] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2744, 0.9945, -0.0033), Orientation: (0.0009, 0.0000, -0.1211, 0.9926)
+[INFO] [1725643836.826338412] [simplified_trajectory_comparer]: Received camera trajectory with 9 poses
+[INFO] [1725643836.827224404] [simplified_trajectory_comparer]: Last camera pose: Position: (1.4865, 0.9111, -0.0019), Orientation: (0.0012, 0.0005, -0.1773, 0.9842)
+[INFO] [1725643837.540149638] [simplified_trajectory_comparer]: Received camera trajectory with 10 poses
+[INFO] [1725643837.541056647] [simplified_trajectory_comparer]: Last camera pose: Position: (1.4850, 0.9105, -0.0052), Orientation: (0.0019, -0.0000, -0.1772, 0.9842)
+[INFO] [1725643838.324946947] [simplified_trajectory_comparer]: Received camera trajectory with 11 poses
+[INFO] [1725643838.325764189] [simplified_trajectory_comparer]: Last camera pose: Position: (1.4867, 0.9104, -0.0058), Orientation: (0.0021, -0.0001, -0.1772, 0.9842)
+[INFO] [1725643839.121991481] [simplified_trajectory_comparer]: Received camera trajectory with 11 poses
+[INFO] [1725643839.123117692] [simplified_trajectory_comparer]: Last camera pose: Position: (1.4867, 0.9104, -0.0058), Orientation: (0.0021, -0.0001, -0.1772, 0.9842)
+[INFO] [1725643840.016150499] [simplified_trajectory_comparer]: Received camera trajectory with 12 poses
+[INFO] [1725643840.017212007] [simplified_trajectory_comparer]: Last camera pose: Position: (1.4864, 0.9091, -0.0059), Orientation: (0.0021, -0.0002, -0.1769, 0.9842)
+[INFO] [1725643840.879592070] [simplified_trajectory_comparer]: Received camera trajectory with 12 poses
+[INFO] [1725643840.880800610] [simplified_trajectory_comparer]: Last camera pose: Position: (1.4864, 0.9091, -0.0059), Orientation: (0.0021, -0.0002, -0.1769, 0.9842)
+[INFO] [1725643841.813288576] [simplified_trajectory_comparer]: Received camera trajectory with 12 poses
+[INFO] [1725643841.815695499] [simplified_trajectory_comparer]: Last camera pose: Position: (1.4864, 0.9091, -0.0059), Orientation: (0.0021, -0.0002, -0.1769, 0.9842)
+[INFO] [1725643842.828736415] [simplified_trajectory_comparer]: Received camera trajectory with 13 poses
+[INFO] [1725643842.829996136] [simplified_trajectory_comparer]: Last camera pose: Position: (2.0589, 0.5531, -0.0129), Orientation: (0.0025, -0.0002, -0.2750, 0.9615)
+[INFO] [1725643843.756753471] [simplified_trajectory_comparer]: Received camera trajectory with 13 poses
+[INFO] [1725643843.758260688] [simplified_trajectory_comparer]: Last camera pose: Position: (2.0589, 0.5531, -0.0129), Orientation: (0.0025, -0.0002, -0.2750, 0.9615)
+[INFO] [1725643844.694065633] [simplified_trajectory_comparer]: Received camera trajectory with 13 poses
+[INFO] [1725643844.694955908] [simplified_trajectory_comparer]: Last camera pose: Position: (2.0589, 0.5531, -0.0129), Orientation: (0.0025, -0.0002, -0.2750, 0.9615)
+[INFO] [1725643845.697075412] [simplified_trajectory_comparer]: Received camera trajectory with 14 poses
+[INFO] [1725643845.698086127] [simplified_trajectory_comparer]: Last camera pose: Position: (2.0556, 0.5459, -0.0105), Orientation: (0.0026, -0.0001, -0.2745, 0.9616)
+[INFO] [1725643846.733505823] [simplified_trajectory_comparer]: Received camera trajectory with 14 poses
+[INFO] [1725643846.735054262] [simplified_trajectory_comparer]: Last camera pose: Position: (2.0556, 0.5459, -0.0105), Orientation: (0.0026, -0.0001, -0.2745, 0.9616)
+[INFO] [1725643847.812121601] [simplified_trajectory_comparer]: Received camera trajectory with 14 poses
+[INFO] [1725643847.813588182] [simplified_trajectory_comparer]: Last camera pose: Position: (2.0556, 0.5459, -0.0105), Orientation: (0.0026, -0.0001, -0.2745, 0.9616)
+[INFO] [1725643848.939835750] [simplified_trajectory_comparer]: Received camera trajectory with 15 poses
+[INFO] [1725643848.941858028] [simplified_trajectory_comparer]: Last camera pose: Position: (2.7318, 0.1171, -0.0193), Orientation: (0.0021, -0.0007, -0.2737, 0.9618)
+[INFO] [1725643850.064160661] [simplified_trajectory_comparer]: Received camera trajectory with 16 poses
+[INFO] [1725643850.066002662] [simplified_trajectory_comparer]: Last camera pose: Position: (2.7318, 0.1171, -0.0193), Orientation: (0.0021, -0.0007, -0.2737, 0.9618)
+[INFO] [1725643851.445408718] [simplified_trajectory_comparer]: Received camera trajectory with 16 poses
+[INFO] [1725643851.447302338] [simplified_trajectory_comparer]: Last camera pose: Position: (2.7377, 0.1128, -0.0176), Orientation: (0.0021, -0.0007, -0.2738, 0.9618)
+[INFO] [1725643852.862301044] [simplified_trajectory_comparer]: Received camera trajectory with 17 poses
+[INFO] [1725643852.863494646] [simplified_trajectory_comparer]: Last camera pose: Position: (2.7367, 0.1183, -0.0139), Orientation: (0.0019, -0.0004, -0.2740, 0.9617)
+[INFO] [1725643854.181818015] [simplified_trajectory_comparer]: Received camera trajectory with 17 poses
+[INFO] [1725643854.183353254] [simplified_trajectory_comparer]: Last camera pose: Position: (2.7367, 0.1183, -0.0139), Orientation: (0.0019, -0.0004, -0.2740, 0.9617)
+[INFO] [1725643855.650763994] [simplified_trajectory_comparer]: Received camera trajectory with 18 poses
+[INFO] [1725643855.652150901] [simplified_trajectory_comparer]: Last camera pose: Position: (2.7337, 0.1237, -0.0122), Orientation: (0.0020, -0.0003, -0.2742, 0.9617)
+[INFO] [1725643857.307003411] [simplified_trajectory_comparer]: Received camera trajectory with 19 poses
+[INFO] [1725643857.308206757] [simplified_trajectory_comparer]: Last camera pose: Position: (2.7280, 0.1287, -0.0144), Orientation: (0.0021, -0.0005, -0.2743, 0.9616)
+[INFO] [1725643859.044840452] [simplified_trajectory_comparer]: Received camera trajectory with 20 poses
+[INFO] [1725643859.046120601] [simplified_trajectory_comparer]: Last camera pose: Position: (2.7261, 0.1316, -0.0140), Orientation: (0.0021, -0.0004, -0.2744, 0.9616)
+[INFO] [1725643860.821676768] [simplified_trajectory_comparer]: Received camera trajectory with 21 poses
+[INFO] [1725643860.822597222] [simplified_trajectory_comparer]: Last camera pose: Position: (2.7207, 0.1332, -0.0138), Orientation: (0.0021, -0.0004, -0.2743, 0.9616)
+[INFO] [1725643862.833727480] [simplified_trajectory_comparer]: Received camera trajectory with 23 poses
+[INFO] [1725643862.835150265] [simplified_trajectory_comparer]: Last camera pose: Position: (2.7128, 0.1392, -0.0160), Orientation: (0.0021, -0.0006, -0.2745, 0.9616)
+[INFO] [1725643865.124976995] [simplified_trajectory_comparer]: Received camera trajectory with 25 poses
+[INFO] [1725643865.126165960] [simplified_trajectory_comparer]: Last camera pose: Position: (2.7134, 0.1406, -0.0138), Orientation: (0.0020, -0.0004, -0.2746, 0.9615)
+[INFO] [1725643867.612351670] [simplified_trajectory_comparer]: Received camera trajectory with 26 poses
+[INFO] [1725643867.613581002] [simplified_trajectory_comparer]: Last camera pose: Position: (2.7104, 0.1397, -0.0179), Orientation: (0.0020, -0.0007, -0.2746, 0.9616)
+[INFO] [1725643870.322648396] [simplified_trajectory_comparer]: Received camera trajectory with 28 poses
+[INFO] [1725643870.324654594] [simplified_trajectory_comparer]: Last camera pose: Position: (2.7033, 0.1452, -0.0182), Orientation: (0.0021, -0.0008, -0.2747, 0.9615)
+[INFO] [1725643873.247847955] [simplified_trajectory_comparer]: Received camera trajectory with 30 poses
+[INFO] [1725643873.250009150] [simplified

@@ -1,0 +1,352 @@
+[INFO] [1725654039.075650995] [robot_0.ORB_SLAM3_RGBD_ROS2]: CONSTRUCTOR END!
+[INFO] [1725654039.532498965] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.56682 frames / sec
+[INFO] [1725654039.532889795] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654040.533137582] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 10.9937 frames / sec
+[INFO] [1725654040.536301977] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654041.532705320] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 12.0204 frames / sec
+[INFO] [1725654041.533828233] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654042.532563378] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 10.0023 frames / sec
+[INFO] [1725654042.533273051] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654043.532576762] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 12.0014 frames / sec
+[INFO] [1725654043.533194912] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654044.532665918] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 7.00006 frames / sec
+[INFO] [1725654044.533722232] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654045.532586550] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00162 frames / sec
+[INFO] [1725654045.533426877] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654046.533476215] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99621 frames / sec
+[INFO] [1725654046.534486603] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654047.532702444] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 7.0065 frames / sec
+[INFO] [1725654047.534040694] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654048.532651995] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.0033 frames / sec
+[INFO] [1725654048.534960200] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654049.532638312] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 7.00076 frames / sec
+[INFO] [1725654049.533576727] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654050.533046550] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.99881 frames / sec
+[INFO] [1725654050.534730982] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654051.532718593] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00323 frames / sec
+[INFO] [1725654051.534728284] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654052.532839219] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 7.00061 frames / sec
+[INFO] [1725654052.533904176] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654053.532968897] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00019 frames / sec
+[INFO] [1725654053.534158547] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654054.532597191] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 7.00403 frames / sec
+[INFO] [1725654054.533263224] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654055.532624666] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 7.00042 frames / sec
+[INFO] [1725654055.533413188] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654056.532660117] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00038 frames / sec
+[INFO] [1725654056.533597738] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654057.532777037] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99997 frames / sec
+[INFO] [1725654057.534680889] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654058.532779449] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.0012 frames / sec
+[INFO] [1725654058.533968415] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654059.532695880] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 7.00255 frames / sec
+[INFO] [1725654059.533669037] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654060.532728794] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00038 frames / sec
+[INFO] [1725654060.533890260] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654061.534196362] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.99209 frames / sec
+[INFO] [1725654061.537284285] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654062.533077787] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00661 frames / sec
+[INFO] [1725654062.534401671] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654063.532740981] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00385 frames / sec
+[INFO] [1725654063.533703932] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654064.533425598] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.99677 frames / sec
+[INFO] [1725654064.536098618] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654065.532841012] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.0053 frames / sec
+[INFO] [1725654065.533938647] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654066.532933174] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00032 frames / sec
+[INFO] [1725654066.534114299] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654067.532794141] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00202 frames / sec
+[INFO] [1725654067.533757038] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654068.532788768] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00104 frames / sec
+[INFO] [1725654068.533960266] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654069.533063115] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99928 frames / sec
+[INFO] [1725654069.534531466] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654070.532993261] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00153 frames / sec
+[INFO] [1725654070.534126625] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654071.532801285] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00234 frames / sec
+[INFO] [1725654071.533967340] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654072.532837311] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00087 frames / sec
+[INFO] [1725654072.533671052] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654073.533062255] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.99974 frames / sec
+[INFO] [1725654073.534450839] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654074.532914422] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 7.00337 frames / sec
+[INFO] [1725654074.534232175] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654075.532918923] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 7.00186 frames / sec
+[INFO] [1725654075.534198122] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654076.533093548] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.99972 frames / sec
+[INFO] [1725654076.534071354] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654077.533216465] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.0005 frames / sec
+[INFO] [1725654077.534180664] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654078.532915461] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00294 frames / sec
+[INFO] [1725654078.533851212] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654079.533082372] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00057 frames / sec
+[INFO] [1725654079.534638018] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654080.532969718] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00217 frames / sec
+[INFO] [1725654080.534780588] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654081.533287865] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.99939 frames / sec
+[INFO] [1725654081.534402081] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654082.532954172] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00349 frames / sec
+[INFO] [1725654082.533797268] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654083.532989643] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 7.0006 frames / sec
+[INFO] [1725654083.534336167] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654084.532915865] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00116 frames / sec
+[INFO] [1725654084.535234296] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654085.532980083] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00092 frames / sec
+[INFO] [1725654085.533942201] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654086.532940289] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 7.00218 frames / sec
+[INFO] [1725654086.534008909] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654087.532898587] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 8.00175 frames / sec
+[INFO] [1725654087.535097738] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654088.532875222] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00064 frames / sec
+[INFO] [1725654088.534185828] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654089.534948281] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.98819 frames / sec
+[INFO] [1725654089.537632305] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654090.532922673] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.01332 frames / sec
+[INFO] [1725654090.533916780] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654091.532901562] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00083 frames / sec
+[INFO] [1725654091.533679728] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654092.532942486] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 7.00031 frames / sec
+[INFO] [1725654092.534055581] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654093.532939110] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00111 frames / sec
+[INFO] [1725654093.533878043] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654094.533212321] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.99946 frames / sec
+[INFO] [1725654094.534055127] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654095.532962610] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00202 frames / sec
+[INFO] [1725654095.533820879] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654096.533020363] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00023 frames / sec
+[INFO] [1725654096.534216836] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654097.533403575] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.99884 frames / sec
+[INFO] [1725654097.534585559] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654098.533074566] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00284 frames / sec
+[INFO] [1725654098.535575886] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654099.533004162] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00792 frames / sec
+[INFO] [1725654099.534584296] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654100.533282685] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99932 frames / sec
+[INFO] [1725654100.534426684] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654101.532954127] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00257 frames / sec
+[INFO] [1725654101.533691827] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654102.535347534] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.98863 frames / sec
+[INFO] [1725654102.536995254] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654103.533028783] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.01532 frames / sec
+[INFO] [1725654103.534971110] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654104.533037809] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00077 frames / sec
+[INFO] [1725654104.534435155] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654105.533188735] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99976 frames / sec
+[INFO] [1725654105.533955760] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654106.533495199] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99886 frames / sec
+[INFO] [1725654106.534729171] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654107.533037407] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00342 frames / sec
+[INFO] [1725654107.533888840] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654108.533132273] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00004 frames / sec
+[INFO] [1725654108.534241700] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654109.533078292] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00089 frames / sec
+[INFO] [1725654109.534313235] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654110.533118869] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00037 frames / sec
+[INFO] [1725654110.534194245] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654111.533029646] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00135 frames / sec
+[INFO] [1725654111.533741560] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654112.533213788] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.99967 frames / sec
+[INFO] [1725654112.534470794] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654113.533532198] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99938 frames / sec
+[INFO] [1725654113.534947202] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654114.533098866] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.0035 frames / sec
+[INFO] [1725654114.534102987] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654115.533345604] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99968 frames / sec
+[INFO] [1725654115.534467350] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654116.533145366] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00241 frames / sec
+[INFO] [1725654116.533977344] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654117.533296342] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99991 frames / sec
+[INFO] [1725654117.534567281] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654118.533257489] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00142 frames / sec
+[INFO] [1725654118.534281519] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654119.533460668] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99996 frames / sec
+[INFO] [1725654119.534779172] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654120.534431924] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99645 frames / sec
+[INFO] [1725654120.535352013] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654121.533182731] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00818 frames / sec
+[INFO] [1725654121.534133134] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654122.533454885] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99933 frames / sec
+[INFO] [1725654122.534884019] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654123.533344473] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00167 frames / sec
+[INFO] [1725654123.534817303] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654124.533266511] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00288 frames / sec
+[INFO] [1725654124.534430998] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654125.533196451] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00118 frames / sec
+[INFO] [1725654125.535067008] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654126.533343264] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00056 frames / sec
+[INFO] [1725654126.536943304] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654127.533228755] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00234 frames / sec
+[INFO] [1725654127.534523258] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654128.533222100] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 7.00065 frames / sec
+[INFO] [1725654128.534765844] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654129.533364102] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 2.99998 frames / sec
+[INFO] [1725654129.535389458] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654130.533340755] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 0 frames / sec
+[INFO] [1725654130.535097453] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654131.533245697] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 0 frames / sec
+[INFO] [1725654131.534796342] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654132.533218132] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 0 frames / sec
+[INFO] [1725654132.534777535] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654133.533187212] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 0 frames / sec
+[INFO] [1725654133.534321163] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654134.533251629] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 0 frames / sec
+[INFO] [1725654134.534849227] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654135.533191185] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 0 frames / sec
+[INFO] [1725654135.534362243] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654136.533273390] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 0 frames / sec
+[INFO] [1725654136.534831039] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654137.533215023] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 0 frames / sec
+[INFO] [1725654137.534336874] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654138.533271507] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 0 frames / sec
+[INFO] [1725654138.534474420] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654139.533225708] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 0 frames / sec
+[INFO] [1725654139.534330150] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654140.533352274] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 0 frames / sec
+[INFO] [1725654140.533581251] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654141.533274190] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 10.0024 frames / sec
+[INFO] [1725654141.534395498] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654142.533288620] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 8.00439 frames / sec
+[INFO] [1725654142.534063085] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654143.533288843] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 9.00101 frames / sec
+[INFO] [1725654143.534023477] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654144.533312696] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 9.00054 frames / sec
+[INFO] [1725654144.534062233] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654145.533310576] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 9.00118 frames / sec
+[INFO] [1725654145.533984780] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654146.533296206] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 7.00105 frames / sec
+[INFO] [1725654146.534106760] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654147.533483383] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99981 frames / sec
+[INFO] [1725654147.535378606] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654148.533390440] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00519 frames / sec
+[INFO] [1725654148.534598675] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654149.533542038] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00005 frames / sec
+[INFO] [1725654149.536304427] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654150.533399737] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 6.00285 frames / sec
+[INFO] [1725654150.536014163] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654151.533379489] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00065 frames / sec
+[INFO] [1725654151.534250092] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654152.533429561] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00032 frames / sec
+[INFO] [1725654152.534776155] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654153.533524876] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00087 frames / sec
+[INFO] [1725654153.534813995] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654154.533450831] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00176 frames / sec
+[INFO] [1725654154.537759615] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654155.533372136] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00093 frames / sec
+[INFO] [1725654155.534419827] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654156.533360161] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00061 frames / sec
+[INFO] [1725654156.534075726] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654157.534260389] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99592 frames / sec
+[INFO] [1725654157.535422547] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654158.533614525] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00438 frames / sec
+[INFO] [1725654158.536040966] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654159.533467882] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00095 frames / sec
+[INFO] [1725654159.534568620] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654160.533721352] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 3.99944 frames / sec
+[INFO] [1725654160.534948618] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654161.537953892] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.97969 frames / sec
+[INFO] [1725654161.538975158] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654162.534881828] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.01292 frames / sec
+[INFO] [1725654162.536206553] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654163.533923627] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00604 frames / sec
+[INFO] [1725654163.535367674] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654164.533508657] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00261 frames / sec
+[INFO] [1725654164.534924053] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654165.533448345] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00102 frames / sec
+[INFO] [1725654165.534677875] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654166.533505777] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00014 frames / sec
+[INFO] [1725654166.534960895] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654167.533813817] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 3.9993 frames / sec
+[INFO] [1725654167.535652647] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654168.533699214] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 2.00054 frames / sec
+[INFO] [1725654168.538419090] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654169.533700880] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00071 frames / sec
+[INFO] [1725654169.539698297] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654170.533458504] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00139 frames / sec
+[INFO] [1725654170.537638746] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654171.533576780] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00599 frames / sec
+[INFO] [1725654171.538282382] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654172.533492216] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.0008 frames / sec
+[INFO] [1725654172.540955272] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654173.533539854] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00026 frames / sec
+[INFO] [1725654173.537335868] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654174.533708030] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 3.99995 frames / sec
+[INFO] [1725654174.537846633] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654175.533939079] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00015 frames / sec
+[INFO] [1725654175.543526357] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654176.533653939] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00301 frames / sec
+[INFO] [1725654176.537713669] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654177.533774325] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00009 frames / sec
+[INFO] [1725654177.550632481] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654178.533679559] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00518 frames / sec
+[INFO] [1725654178.544230198] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654179.534593953] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 3.99882 frames / sec
+[INFO] [1725654179.539988185] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654180.533595784] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00445 frames / sec
+[INFO] [1725654180.538415586] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654181.533583427] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00067 frames / sec
+[INFO] [1725654181.544416266] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654182.535488825] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99111 frames / sec
+[INFO] [1725654182.540207068] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654183.533694401] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00835 frames / sec
+[INFO] [1725654183.540105290] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654184.533786264] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00041 frames / sec
+[INFO] [1725654184.540358367] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654185.534151714] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99904 frames / sec
+[INFO] [1725654185.539157334] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654186.533896326] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00147 frames / sec
+[INFO] [1725654186.542944118] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654187.533836914] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00141 frames / sec
+[INFO] [1725654187.539784930] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654188.533597322] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00219 frames / sec
+[INFO] [1725654188.537877195] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654189.533757501] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99969 frames / sec
+[INFO] [1725654189.540923329] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654190.533658641] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00081 frames / sec
+[INFO] [1725654190.538588304] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654191.535388149] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 3.99364 frames / sec
+[INFO] [1725654191.543711056] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654192.533842557] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00658 frames / sec
+[INFO] [1725654192.540067085] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654193.534031400] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 3.99985 frames / sec
+[INFO] [1725654193.541017236] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654194.533885495] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.0018 frames / sec
+[INFO] [1725654194.539118991] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654195.533674809] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00124 frames / sec
+[INFO] [1725654195.539097377] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654196.533821726] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 3.99979 frames / sec
+[INFO] [1725654196.544331256] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654197.534115418] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99927 frames / sec
+[INFO] [1725654197.547779341] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654198.533739689] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.0078 frames / sec
+[INFO] [1725654198.539968873] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654199.534002603] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.99911 frames / sec
+[INFO] [1725654199.539677745] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654200.536726562] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 3.98962 frames / sec
+[INFO] [1725654200.544180074] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654201.534885349] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00816 frames / sec
+[INFO] [1725654201.545140760] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654202.533772678] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00604 frames / sec
+[INFO] [1725654202.543008325] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654203.534078425] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.01221 frames / sec
+[INFO] [1725654203.543542342] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654204.534027365] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00104 frames / sec
+[INFO] [1725654204.547213444] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654205.533662801] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00242 frames / sec
+[INFO] [1725654205.542334679] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654206.533919640] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.00116 frames / sec
+[INFO] [1725654206.541793330] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654207.537690025] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 3.98611 frames / sec
+[INFO] [1725654207.554665195] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654208.533881308] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.01614 frames / sec
+[INFO] [1725654208.544497395] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654209.533766983] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 4.00128 frames / sec
+[INFO] [1725654209.543816019] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654210.533958753] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 3.9997 frames / sec
+[INFO] [1725654210.544372448] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654211.535710333] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 3.99384 frames / sec
+[INFO] [1725654211.548823805] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654212.533810658] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 5.01016 frames / sec
+[INFO] [1725654212.550989626] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654213.534231857] [robot_0.ORB_SLAM3_RGBD_ROS2]: Current ORB-SLAM3 tracking frequency: 3.99874 frames / sec
+[INFO] [1725654213.550461164] [robot_0.ORB_SLAM3_RGBD_ROS2]: *************************
+[INFO] [1725654214.362843732] [rclcpp]: signal_handler(signum=2)

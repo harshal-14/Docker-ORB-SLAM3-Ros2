@@ -1,0 +1,113 @@
+[WARN] [1725656757.065530178] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725656757.096137227] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725656757.196640709] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725656757.296987374] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[INFO] [1725656762.035855928] [slam_accuracy_comparer]: Received camera trajectory with 404 poses
+[INFO] [1725656762.036846495] [slam_accuracy_comparer]: Last camera pose: Position: (0.6451, -12.4848, -3.1077), Orientation: (0.1563, -0.1819, -0.5834, 0.7759)
+[WARN] [1725656762.038039374] [slam_accuracy_comparer]: No poses available for accuracy calculation
+[WARN] [1725656762.041435912] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[INFO] [1725656774.629882820] [slam_accuracy_comparer]: Received camera trajectory with 405 poses
+[INFO] [1725656774.631947890] [slam_accuracy_comparer]: Last camera pose: Position: (0.6456, -12.4844, -3.1076), Orientation: (0.1563, -0.1819, -0.5835, 0.7759)
+[WARN] [1725656774.633804930] [slam_accuracy_comparer]: No poses available for accuracy calculation
+[INFO] [1725656774.636653285] [slam_accuracy_comparer]: Robot pose 1: Position: (2.0422, -16.8630, -2.5200), Orientation: (0.1460, -0.1889, -0.5452, 0.8036)
+[WARN] [1725656774.643503064] [slam_accuracy_comparer]: Total distance traveled is zero
+[INFO] [1725656774.644358762] [slam_accuracy_comparer]: ATE RMSE: 0.4387 m
+[INFO] [1725656774.644966251] [slam_accuracy_comparer]: RPE RMSE: 0.6887 m
+[INFO] [1725656774.645473610] [slam_accuracy_comparer]: Total distance traveled: 0.0000 m
+[INFO] [1725656774.645968459] [slam_accuracy_comparer]: Accuracy: 0.00%
+[INFO] [1725656774.646726450] [slam_accuracy_comparer]: Error percentage: 0.00%
+[INFO] [1725656795.470029918] [slam_accuracy_comparer]: Received camera trajectory with 409 poses
+[INFO] [1725656795.471201094] [slam_accuracy_comparer]: Last camera pose: Position: (0.6455, -12.4845, -3.1070), Orientation: (0.1563, -0.1819, -0.5835, 0.7759)
+[WARN] [1725656795.481244449] [slam_accuracy_comparer]: Total distance traveled is zero
+[INFO] [1725656795.482940162] [slam_accuracy_comparer]: ATE RMSE: 0.5596 m
+[INFO] [1725656795.484862360] [slam_accuracy_comparer]: RPE RMSE: 0.8430 m
+[INFO] [1725656795.486413346] [slam_accuracy_comparer]: Total distance traveled: 0.0000 m
+[INFO] [1725656795.487506708] [slam_accuracy_comparer]: Accuracy: 0.00%
+[INFO] [1725656795.488484293] [slam_accuracy_comparer]: Error percentage: 0.00%
+[WARN] [1725656795.490341303] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725656826.875440979] [slam_accuracy_comparer]: Received camera trajectory with 418 poses
+[INFO] [1725656826.876921531] [slam_accuracy_comparer]: Last camera pose: Position: (0.6455, -12.4845, -3.1084), Orientation: (0.1561, -0.1818, -0.5835, 0.7760)
+[WARN] [1725656826.888729453] [slam_accuracy_comparer]: Total distance traveled is zero
+[INFO] [1725656826.890106476] [slam_accuracy_comparer]: ATE RMSE: 0.5595 m
+[INFO] [1725656826.891624276] [slam_accuracy_comparer]: RPE RMSE: 0.8419 m
+[INFO] [1725656826.893137960] [slam_accuracy_comparer]: Total distance traveled: 0.0000 m
+[INFO] [1725656826.894351096] [slam_accuracy_comparer]: Accuracy: 0.00%
+[INFO] [1725656826.895183456] [slam_accuracy_comparer]: Error percentage: 0.00%
+[WARN] [1725656826.898594627] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725656868.266306090] [slam_accuracy_comparer]: Received camera trajectory with 446 poses
+[INFO] [1725656868.267533589] [slam_accuracy_comparer]: Last camera pose: Position: (1.6078, -13.5614, -3.6801), Orientation: (-0.0981, -0.0479, 0.9884, 0.1058)
+[WARN] [1725656868.276581290] [slam_accuracy_comparer]: Total distance traveled is zero
+[INFO] [1725656868.277727427] [slam_accuracy_comparer]: ATE RMSE: 2.6461 m
+[INFO] [1725656868.278795626] [slam_accuracy_comparer]: RPE RMSE: 0.9171 m
+[INFO] [1725656868.279716094] [slam_accuracy_comparer]: Total distance traveled: 0.0000 m
+[INFO] [1725656868.280421632] [slam_accuracy_comparer]: Accuracy: 0.00%
+[INFO] [1725656868.281098161] [slam_accuracy_comparer]: Error percentage: 0.00%
+[INFO] [1725656868.283864049] [slam_accuracy_comparer]: Distance moved: 6.2183 m, Cumulative distance: 6.2183 m
+[INFO] [1725656868.285403762] [slam_accuracy_comparer]: Robot pose 2: Position: (-0.7821, -11.5835, -4.1985), Orientation: (-0.1289, 0.1400, 0.9081, -0.3729)
+[INFO] [1725656868.300265354] [slam_accuracy_comparer]: ATE RMSE: 2.3247 m
+[INFO] [1725656868.302158039] [slam_accuracy_comparer]: RPE RMSE: 2.8695 m
+[INFO] [1725656868.303507917] [slam_accuracy_comparer]: Total distance traveled: 6.2183 m
+[INFO] [1725656868.304594661] [slam_accuracy_comparer]: Accuracy: 62.62%
+[INFO] [1725656868.305540047] [slam_accuracy_comparer]: Error percentage: 37.38%
+[INFO] [1725656921.980250457] [slam_accuracy_comparer]: Received camera trajectory with 465 poses
+[INFO] [1725656921.982267294] [slam_accuracy_comparer]: Last camera pose: Position: (1.7356, -13.5890, -3.6352), Orientation: (-0.0990, -0.0330, 0.9888, 0.1065)
+[INFO] [1725656922.000249918] [slam_accuracy_comparer]: ATE RMSE: 2.2536 m
+[INFO] [1725656922.002095475] [slam_accuracy_comparer]: RPE RMSE: 2.6386 m
+[INFO] [1725656922.003439364] [slam_accuracy_comparer]: Total distance traveled: 6.2183 m
+[INFO] [1725656922.004583122] [slam_accuracy_comparer]: Accuracy: 63.76%
+[INFO] [1725656922.005731913] [slam_accuracy_comparer]: Error percentage: 36.24%
+[INFO] [1725656922.008463628] [slam_accuracy_comparer]: Distance moved: 5.5770 m, Cumulative distance: 11.7953 m
+[INFO] [1725656922.010048388] [slam_accuracy_comparer]: Robot pose 3: Position: (-2.2487, -16.9490, -4.6031), Orientation: (0.1060, -0.0578, -0.7773, 0.6174)
+[INFO] [1725656922.032801414] [slam_accuracy_comparer]: ATE RMSE: 1.8241 m
+[INFO] [1725656922.034252209] [slam_accuracy_comparer]: RPE RMSE: 2.2105 m
+[INFO] [1725656922.035898310] [slam_accuracy_comparer]: Total distance traveled: 11.7953 m
+[INFO] [1725656922.037718764] [slam_accuracy_comparer]: Accuracy: 84.54%
+[INFO] [1725656922.038777780] [slam_accuracy_comparer]: Error percentage: 15.46%
+[INFO] [1725656990.834210658] [slam_accuracy_comparer]: Received camera trajectory with 503 poses
+[INFO] [1725656990.836030902] [slam_accuracy_comparer]: Last camera pose: Position: (-2.6114, -19.6318, -4.8165), Orientation: (-0.0911, -0.0745, 0.7638, 0.6346)
+[INFO] [1725656990.858160041] [slam_accuracy_comparer]: ATE RMSE: 1.7761 m
+[INFO] [1725656990.860432197] [slam_accuracy_comparer]: RPE RMSE: 2.1980 m
+[INFO] [1725656990.862016075] [slam_accuracy_comparer]: Total distance traveled: 11.7953 m
+[INFO] [1725656990.863033935] [slam_accuracy_comparer]: Accuracy: 84.94%
+[INFO] [1725656990.863942465] [slam_accuracy_comparer]: Error percentage: 15.06%
+[WARN] [1725656990.866029868] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725657070.358739084] [slam_accuracy_comparer]: Received camera trajectory with 503 poses
+[INFO] [1725657070.360134563] [slam_accuracy_comparer]: Last camera pose: Position: (-2.6114, -19.6318, -4.8165), Orientation: (-0.0911, -0.0745, 0.7638, 0.6346)
+[INFO] [1725657070.384519298] [slam_accuracy_comparer]: ATE RMSE: 1.7761 m
+[INFO] [1725657070.385767420] [slam_accuracy_comparer]: RPE RMSE: 2.1980 m
+[INFO] [1725657070.386787898] [slam_accuracy_comparer]: Total distance traveled: 11.7953 m
+[INFO] [1725657070.388029924] [slam_accuracy_comparer]: Accuracy: 84.94%
+[INFO] [1725657070.389250080] [slam_accuracy_comparer]: Error percentage: 15.06%
+[WARN] [1725657070.392495223] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725657163.160551536] [slam_accuracy_comparer]: Received camera trajectory with 503 poses
+[INFO] [1725657163.161513075] [slam_accuracy_comparer]: Last camera pose: Position: (-2.6114, -19.6318, -4.8165), Orientation: (-0.0911, -0.0745, 0.7638, 0.6346)
+[INFO] [1725657163.184349583] [slam_accuracy_comparer]: ATE RMSE: 1.7761 m
+[INFO] [1725657163.185414762] [slam_accuracy_comparer]: RPE RMSE: 2.1980 m
+[INFO] [1725657163.186429596] [slam_accuracy_comparer]: Total distance traveled: 11.7953 m
+[INFO] [1725657163.187477927] [slam_accuracy_comparer]: Accuracy: 84.94%
+[INFO] [1725657163.188317912] [slam_accuracy_comparer]: Error percentage: 15.06%
+[WARN] [1725657163.190968574] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725657267.857543306] [slam_accuracy_comparer]: Received camera trajectory with 503 poses
+[INFO] [1725657267.858648174] [slam_accuracy_comparer]: Last camera pose: Position: (-2.6114, -19.6318, -4.8165), Orientation: (-0.0911, -0.0745, 0.7638, 0.6346)
+[INFO] [1725657267.887005668] [slam_accuracy_comparer]: ATE RMSE: 1.7761 m
+[INFO] [1725657267.888763159] [slam_accuracy_comparer]: RPE RMSE: 2.1980 m
+[INFO] [1725657267.890379795] [slam_accuracy_comparer]: Total distance traveled: 11.7953 m
+[INFO] [1725657267.891856169] [slam_accuracy_comparer]: Accuracy: 84.94%
+[INFO] [1725657267.893639487] [slam_accuracy_comparer]: Error percentage: 15.06%
+[WARN] [1725657267.896712439] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725657384.721592236] [slam_accuracy_comparer]: Received camera trajectory with 503 poses
+[INFO] [1725657384.722674838] [slam_accuracy_comparer]: Last camera pose: Position: (-2.6114, -19.6318, -4.8165), Orientation: (-0.0911, -0.0745, 0.7638, 0.6346)
+[INFO] [1725657384.747631343] [slam_accuracy_comparer]: ATE RMSE: 1.7761 m
+[INFO] [1725657384.748770762] [slam_accuracy_comparer]: RPE RMSE: 2.1980 m
+[INFO] [1725657384.749696838] [slam_accuracy_comparer]: Total distance traveled: 11.7953 m
+[INFO] [1725657384.750626220] [slam_accuracy_comparer]: Accuracy: 84.94%
+[INFO] [1725657384.751634212] [slam_accuracy_comparer]: Error percentage: 15.06%
+[WARN] [1725657384.754190072] [slam_accuracy_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725657507.657775246] [slam_accuracy_comparer]: Received camera trajectory with 503 poses
+[INFO] [1725657507.660279416] [slam_accuracy_comparer]: Last camera pose: Position: (-2.6114, -19.6318, -4.8165), Orientation: (-0.0911, -0.0745, 0.7638, 0.6346)
+[INFO] [1725657507.682461995] [slam_accuracy_comparer]: ATE RMSE: 1.7761 m
+[INFO] [1725657507.683224791] [slam_accuracy_comparer]: RPE RMSE: 2.1980 m
+[INFO] [1725657507.683950316] [slam_accuracy_comparer]: Total distance traveled: 11.7953 m
+[INFO] [1725657507.684844604] [slam_accuracy_comparer]: Accuracy: 84.94%
+[INFO] [1725657507.686246263] [slam_accuracy_comparer]: Error percentage: 15.06%
+[INFO] [1725657507.690445502] [slam_accuracy_comparer]: Distance moved: 2.7194 m, Cumulative distanc

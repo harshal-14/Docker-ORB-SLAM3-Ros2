@@ -23,6 +23,7 @@
 
 #include <cv_bridge/cv_bridge.h>
 
+#include <nav_msgs/msg/path.hpp>
 
 #include "sophus/se3.hpp"
 #include "System.h"
@@ -83,6 +84,9 @@ namespace ORB_SLAM3_Wrapper
         bool trackRGBDi(const sensor_msgs::msg::Image::SharedPtr msgRGB, const sensor_msgs::msg::Image::SharedPtr msgD, Sophus::SE3f &Tcw);
 
         bool trackRGBD(const sensor_msgs::msg::Image::SharedPtr msgRGB, const sensor_msgs::msg::Image::SharedPtr msgD, Sophus::SE3f &Tcw);
+
+        // Added for tracking
+        void getCameraTrajectory(nav_msgs::msg::Path &trajectory);
 
     private:
         std::shared_ptr<ORB_SLAM3::System> mSLAM_;

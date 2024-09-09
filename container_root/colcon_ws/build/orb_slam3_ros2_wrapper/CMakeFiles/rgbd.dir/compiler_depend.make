@@ -994,6 +994,10 @@ CMakeFiles/rgbd.dir/src/orb_slam3_interface.cpp.o: /root/colcon_ws/src/orb_slam3
   /usr/local/include/opencv4/opencv2/core/core_c.h \
   /usr/local/include/opencv4/opencv2/core/types_c.h \
   /opt/ros/humble/include/cv_bridge/cv_bridge/cv_bridge_export.h \
+  /opt/ros/humble/include/nav_msgs/nav_msgs/msg/path.hpp \
+  /opt/ros/humble/include/nav_msgs/nav_msgs/msg/detail/path__struct.hpp \
+  /opt/ros/humble/include/nav_msgs/nav_msgs/msg/detail/path__builder.hpp \
+  /opt/ros/humble/include/nav_msgs/nav_msgs/msg/detail/path__traits.hpp \
   /usr/local/include/sophus/se3.hpp \
   /usr/local/include/sophus/so3.hpp \
   /usr/local/include/sophus/rotation_matrix.hpp \
@@ -3445,6 +3449,10 @@ CMakeFiles/rgbd.dir/src/rgbd/rgbd-slam-node.cpp.o: /root/colcon_ws/src/orb_slam3
   /usr/local/include/opencv4/opencv2/core/core_c.h \
   /usr/local/include/opencv4/opencv2/core/types_c.h \
   /opt/ros/humble/include/cv_bridge/cv_bridge/cv_bridge_export.h \
+  /opt/ros/humble/include/nav_msgs/nav_msgs/msg/path.hpp \
+  /opt/ros/humble/include/nav_msgs/nav_msgs/msg/detail/path__struct.hpp \
+  /opt/ros/humble/include/nav_msgs/nav_msgs/msg/detail/path__builder.hpp \
+  /opt/ros/humble/include/nav_msgs/nav_msgs/msg/detail/path__traits.hpp \
   /home/orb/ORB_SLAM3/include/System.h \
   /home/orb/ORB_SLAM3/include/Tracking.h \
   /home/orb/ORB_SLAM3/include/Viewer.h \
@@ -5286,6 +5294,10 @@ CMakeFiles/rgbd.dir/src/rgbd/rgbd.cpp.o: /root/colcon_ws/src/orb_slam3_ros2_wrap
   /usr/local/include/opencv4/opencv2/core/core_c.h \
   /usr/local/include/opencv4/opencv2/core/types_c.h \
   /opt/ros/humble/include/cv_bridge/cv_bridge/cv_bridge_export.h \
+  /opt/ros/humble/include/nav_msgs/nav_msgs/msg/path.hpp \
+  /opt/ros/humble/include/nav_msgs/nav_msgs/msg/detail/path__struct.hpp \
+  /opt/ros/humble/include/nav_msgs/nav_msgs/msg/detail/path__builder.hpp \
+  /opt/ros/humble/include/nav_msgs/nav_msgs/msg/detail/path__traits.hpp \
   /home/orb/ORB_SLAM3/include/System.h \
   /home/orb/ORB_SLAM3/include/Tracking.h \
   /home/orb/ORB_SLAM3/include/Viewer.h \
@@ -7464,8 +7476,6 @@ CMakeFiles/rgbd.dir/src/type_conversion.cpp.o: /root/colcon_ws/src/orb_slam3_ros
 
 /home/orb/ORB_SLAM3/include/Map.h:
 
-/usr/include/boost/archive/detail/register_archive.hpp:
-
 /usr/include/boost/archive/detail/abi_suffix.hpp:
 
 /usr/include/boost/archive/detail/auto_link_archive.hpp:
@@ -7948,6 +7958,18 @@ CMakeFiles/rgbd.dir/src/type_conversion.cpp.o: /root/colcon_ws/src/orb_slam3_ros
 
 /usr/include/boost/preprocessor/cat.hpp:
 
+/usr/include/boost/type_traits/has_plus.hpp:
+
+/usr/include/boost/type_traits/is_convertible.hpp:
+
+/usr/include/boost/mpl/aux_/nttp_decl.hpp:
+
+/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:
+
+/usr/include/boost/mpl/int.hpp:
+
+/usr/include/boost/mpl/aux_/config/ttp.hpp:
+
 /usr/include/boost/type_traits/has_minus_assign.hpp:
 
 /opt/ros/humble/include/builtin_interfaces/builtin_interfaces/msg/duration.hpp:
@@ -8406,8 +8428,6 @@ CMakeFiles/rgbd.dir/src/type_conversion.cpp.o: /root/colcon_ws/src/orb_slam3_ros
 
 /usr/include/boost/mpl/void_fwd.hpp:
 
-/usr/include/eigen3/Eigen/src/Core/GlobalFunctions.h:
-
 /usr/include/kdl/frames.hpp:
 
 /usr/include/boost/range/iterator_range.hpp:
@@ -8624,8 +8644,6 @@ CMakeFiles/rgbd.dir/src/type_conversion.cpp.o: /root/colcon_ws/src/orb_slam3_ros
 
 /usr/include/c++/11/bits/stl_pair.h:
 
-/usr/include/time.h:
-
 /usr/include/eigen3/Eigen/src/misc/Image.h:
 
 /usr/include/eigen3/Eigen/src/Core/StlIterators.h:
@@ -8699,6 +8717,10 @@ CMakeFiles/rgbd.dir/src/type_conversion.cpp.o: /root/colcon_ws/src/orb_slam3_ros
 /usr/include/boost/mpl/bind_fwd.hpp:
 
 /opt/ros/humble/include/rclcpp/rclcpp/wait_set.hpp:
+
+/usr/include/time.h:
+
+/opt/ros/humble/include/nav_msgs/nav_msgs/msg/detail/path__struct.hpp:
 
 /home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:
 
@@ -8901,6 +8923,10 @@ CMakeFiles/rgbd.dir/src/type_conversion.cpp.o: /root/colcon_ws/src/orb_slam3_ros
 /opt/ros/humble/include/message_filters/message_filters/signal1.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/boost/archive/detail/register_archive.hpp:
+
+/opt/ros/humble/include/nav_msgs/nav_msgs/msg/detail/path__traits.hpp:
 
 /opt/ros/humble/include/message_filters/message_filters/simple_filter.h:
 
@@ -9516,12 +9542,6 @@ CMakeFiles/rgbd.dir/src/type_conversion.cpp.o: /root/colcon_ws/src/orb_slam3_ros
 
 /home/orb/ORB_SLAM3/include/System.h:
 
-/usr/include/boost/type_traits/has_plus.hpp:
-
-/usr/include/boost/type_traits/is_convertible.hpp:
-
-/usr/include/boost/mpl/aux_/nttp_decl.hpp:
-
 /usr/lib/gcc/x86_64-linux-gnu/11/include/xmmintrin.h:
 
 /usr/include/eigen3/Eigen/src/Core/CwiseUnaryView.h:
@@ -9994,8 +10014,6 @@ CMakeFiles/rgbd.dir/src/type_conversion.cpp.o: /root/colcon_ws/src/orb_slam3_ros
 
 /opt/ros/humble/include/rosidl_runtime_cpp/rosidl_runtime_cpp/service_type_support_decl.hpp:
 
-/usr/include/boost/mpl/aux_/config/ttp.hpp:
-
 /opt/ros/humble/include/rosidl_runtime_cpp/rosidl_typesupport_cpp/message_type_support.hpp:
 
 /opt/ros/humble/include/sensor_msgs/sensor_msgs/msg/detail/point_field__struct.hpp:
@@ -10057,6 +10075,10 @@ CMakeFiles/rgbd.dir/src/type_conversion.cpp.o: /root/colcon_ws/src/orb_slam3_ros
 /opt/ros/humble/include/rclcpp/rclcpp/experimental/intra_process_manager.hpp:
 
 /opt/ros/humble/include/rcl_interfaces/rcl_interfaces/msg/detail/set_parameters_result__struct.hpp:
+
+/usr/include/eigen3/Eigen/src/Core/GlobalFunctions.h:
+
+/opt/ros/humble/include/nav_msgs/nav_msgs/msg/detail/path__builder.hpp:
 
 /usr/include/c++/11/shared_mutex:
 
@@ -10141,6 +10163,8 @@ CMakeFiles/rgbd.dir/src/type_conversion.cpp.o: /root/colcon_ws/src/orb_slam3_ros
 /opt/ros/humble/include/rclcpp/rclcpp/node_interfaces/get_node_topics_interface.hpp:
 
 /opt/ros/humble/include/statistics_msgs/statistics_msgs/msg/detail/metrics_message__traits.hpp:
+
+/opt/ros/humble/include/nav_msgs/nav_msgs/msg/path.hpp:
 
 /opt/ros/humble/include/libstatistics_collector/libstatistics_collector/moving_average_statistics/types.hpp:
 
@@ -10317,10 +10341,6 @@ CMakeFiles/rgbd.dir/src/type_conversion.cpp.o: /root/colcon_ws/src/orb_slam3_ros
 /usr/include/c++/11/pstl/execution_defs.h:
 
 /opt/ros/humble/include/rcl_interfaces/rcl_interfaces/srv/detail/get_parameter_types__builder.hpp:
-
-/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:
-
-/usr/include/boost/mpl/int.hpp:
 
 /usr/include/kdl/utilities/utility.h:
 

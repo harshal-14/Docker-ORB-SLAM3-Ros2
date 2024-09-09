@@ -1,0 +1,16 @@
+/root/colcon_ws/install/trajectory_comparison/lib/trajectory_comparison/ground_truth_publisher.py
+/root/colcon_ws/install/trajectory_comparison/share/ament_index/resource_index/package_run_dependencies/trajectory_comparison
+/root/colcon_ws/install/trajectory_comparison/share/ament_index/resource_index/parent_prefix_path/trajectory_comparison
+/root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/environment/ament_prefix_path.sh
+/root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/environment/ament_prefix_path.dsv
+/root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/environment/path.sh
+/root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/environment/path.dsv
+/root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/local_setup.bash
+/root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/local_setup.sh
+/root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/local_setup.zsh
+/root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/local_setup.dsv
+/root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/package.dsv
+/root/colcon_ws/install/trajectory_comparison/share/ament_index/resource_index/packages/trajectory_comparison
+/root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/cmake/trajectory_comparisonConfig.cmake
+/root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/cmake/trajectory_comparisonConfig-version.cmake
+/root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/package.xml

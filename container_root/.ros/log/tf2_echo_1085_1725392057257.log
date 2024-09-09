@@ -1,0 +1,11 @@
+[INFO] [1725392057.268409898] [tf2_echo]: Waiting for transform map ->  robot_0/base_footprint: Invalid frame ID "map" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1725392059.258109392] [tf2_echo]: Waiting for transform map ->  robot_0/base_footprint: Invalid frame ID "map" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1725392061.257754212] [tf2_echo]: Waiting for transform map ->  robot_0/base_footprint: Invalid frame ID "map" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1725392062.257756948] [tf2_echo]: Waiting for transform map ->  robot_0/base_footprint: Invalid frame ID "map" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1725392063.257781648] [tf2_echo]: Waiting for transform map ->  robot_0/base_footprint: Invalid frame ID "map" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1725392065.258085530] [tf2_echo]: Waiting for transform map ->  robot_0/base_footprint: Invalid frame ID "map" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1725392067.257749568] [tf2_echo]: Waiting for transform map ->  robot_0/base_footprint: Invalid frame ID "map" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1725392068.257922982] [tf2_echo]: Waiting for transform map ->  robot_0/base_footprint: Invalid frame ID "map" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1725392070.257799989] [tf2_echo]: Waiting for transform map ->  robot_0/base_footprint: Invalid frame ID "map" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1725392072.257779675] [tf2_echo]: Waiting for transform map ->  robot_0/base_footprint: Invalid frame ID "map" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1725392073.849521069] [rclcpp]: signal_handler(signum=2)

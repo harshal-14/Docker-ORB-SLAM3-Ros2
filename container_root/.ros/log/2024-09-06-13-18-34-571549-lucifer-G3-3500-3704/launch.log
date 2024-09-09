@@ -1,0 +1,6 @@
+1725643114.5766983 [INFO] [launch]: All log files can be found below /root/.ros/log/2024-09-06-13-18-34-571549-lucifer-G3-3500-3704
+1725643114.5774746 [INFO] [launch]: Default logging verbosity is set to INFO
+1725643114.7546897 [INFO] [rgbd-1]: process started with pid [3705]
+1725643191.7688911 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1725643192.0181515 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT) again, ignoring...
+1725643192.1009631 [ERROR] [rgbd-1]: process has died [pid 3705, exit code -2, cmd '/root/colcon_ws/install/orb_slam3_ros2_wrapper/lib/orb_slam3_ros2_wrapper/rgbd /home/orb/ORB_SLAM3/Vocabulary/ORBvoc.txt /root/colcon_ws/src/orb_slam3_ros2_wrapper/params/gazebo_rgbd.yaml --ros-args -r __ns:=/robot_0 --params-file /tmp/tmp_rhrmjj6'].

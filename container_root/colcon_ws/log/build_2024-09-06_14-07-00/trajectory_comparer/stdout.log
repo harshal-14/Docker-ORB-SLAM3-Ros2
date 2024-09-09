@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing trajectory_comparer.egg-info/PKG-INFO
+writing dependency_links to trajectory_comparer.egg-info/dependency_links.txt
+writing entry points to trajectory_comparer.egg-info/entry_points.txt
+writing requirements to trajectory_comparer.egg-info/requires.txt
+writing top-level names to trajectory_comparer.egg-info/top_level.txt
+reading manifest file 'trajectory_comparer.egg-info/SOURCES.txt'
+writing manifest file 'trajectory_comparer.egg-info/SOURCES.txt'
+running build_ext
+Creating /root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages/trajectory-comparer.egg-link (link to .)
+Installing simple_trajectory_comparer script to /root/colcon_ws/install/trajectory_comparer/lib/trajectory_comparer
+
+Installed /root/colcon_ws/build/trajectory_comparer
+running symlink_data

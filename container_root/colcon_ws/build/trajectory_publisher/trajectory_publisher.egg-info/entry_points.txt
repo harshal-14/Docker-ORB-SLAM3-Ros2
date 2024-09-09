@@ -1,0 +1,3 @@
+[console_scripts]
+trajectory_node = trajectory_publisher.trajectory_node:main
+

@@ -505,3 +505,156 @@ source install/setup.bash
 ros2 launch orb_slam3_ros2_wrapper unirobot.launch.py 
 clear
 exit
+ros2 launch orb_slam3_ros2_wrapper unirobot.launch.py
+clear
+ros2 launch orb_slam3_ros2_wrapper unirobot.launch.py
+ls
+cd colcon_ws/
+ls
+cd build/
+ls
+find CameraTrajectory
+find CameraTrajectory.txt
+clear
+cd ~/ros2_ws
+ros2 topic echo /orb_slam3/camera_pose > orbslam_poses.txt
+cd ~/ros2_ws && echo "Workspace structure:" && tree -L 2 src && echo "\nPackage list:" && colcon list && echo "\nDetailed package information:" && colcon list --packages-select scout_gazebo -v
+cd ..
+cd ~/ros2_ws && echo "Workspace structure:" && tree -L 2 src && echo "\nPackage list:" && colcon list && echo "\nDetailed package information:" && colcon list --packages-select scout_gazebo -v
+clear
+ls
+cd colcon_ws/
+ls
+echo "Workspace structure:" && tree -L 2 src && echo "\nPackage list:" && colcon list && echo "\nDetailed package information:" && colcon list --packages-select scout_gazebo -v
+sudo apt-get install tree
+echo "Workspace structure:" && tree -L 2 src && echo "\nPackage list:" && colcon list && echo "\nDetailed package information:" && colcon list --packages-select scout_gazebo -v
+clear
+ros2 launch orb_slam3_ros2_wrapper unirobot.launch.py
+sudo apt-get install ros-humble-nav-msgs
+sudo apt-get install ros-humble-plotjuggler-ros
+cd ~/colcon_ws/src
+ros2 pkg create --build-type ament_cmake trajectory_comparison
+cd trajectory_comparison
+mkdir scripts
+touch scripts/ground_truth_publisher.py
+chmod +x scripts/ground_truth_publisher.py
+cd ~/colcon_ws
+colcon build --symlink-install
+source install/setup.bash
+ros2 launch orb_slam3_ros2_wrapper unirobot.launch.py
+exit
+rviz2
+cd ~/colcon_ws
+colcon build --packages-select trajectory_comparer
+source install/setup.bash
+ros2 run trajectory_comparer simple_trajectory_comparer
+[200~ros2 run tf2_ros tf2_echo map odom
+ros2 run tf2_ros tf2_echo map robot_0/camera_trajectory~
+ros2 run tf2_ros tf2_echo map odom
+ros2 topic echo /robot_0/odom
+ros2 topic echo /robot_0//camera_trajectory
+ros2 topic echo /robot_0/camera_trajectory
+ros2 topic echo camera_trajectory
+cd ~/colcon_ws
+colcon build --packages-select trajectory_comparer
+source install/setup.bash
+ros2 run trajectory_comparer simple_trajectory_comparer
+ros2 pkg create --build-type ament_cmake trajectory_comparison
+clear
+ros2 run trajectory_comparer trajectory_comparer
+ls
+cd trajectory_comparison/
+ls
+cd ..
+cd colcon_ws/
+ls
+cd src/
+ls
+ros2 run trajectory_comparer trajectory_comparer
+ls
+cd trajectory_comparer/
+ls
+ros2 run trajectory_comparer trajectory_comparer
+ls
+cd trajectory_comparer/
+ls
+ros2 run trajectory_comparer trajectory_comparer
+ros2 run trajectory_comparer simple_ trajectory_comparer
+ros2 run trajectory_comparer simple_trajectory_comparer
+clear
+ros2 run trajectory_comparer simple_trajectory_comparer
+rviz2
+ros2 run trajectory_comparer simple_trajectory_comparer
+clear
+ros2 run trajectory_comparer simple_trajectory_comparer
+rm -rf /dev/shm/sem.* /dev/shm/rtps*
+clear
+rviz2
+cd /root/colcon_ws/
+colcon build --symlink-install
+source install/setup.bash
+ros2 launch orb_slam3_ros2_wrapper unirobot.launch.py
+clear
+ros2 launch orb_slam3_ros2_wrapper unirobot.launch.py
+xeyes
+cd /root/colcon_ws/
+colcon build --symlink-install
+source install/setup.bash
+ros2 launch orb_slam3_ros2_wrapper unirobot.launch.py
+exit
+clear
+ls
+cd colcon_ws/
+ls
+clear
+ros2 launch orb_slam3_ros2_wrapper unirobot.launch.py
+cd colcon_ws/
+ls
+cd src/
+ls
+cd trajectory_comparer/
+ls
+cd ..
+cd orb_slam3_ros2_wrapper/
+ls
+cd s
+cd src/
+ls
+clear
+ros2 topic echo /tf_static
+clear
+ros2 topic echo /tf_static
+clear
+ros2 topic echo /tf_static
+ls
+nano run_in_loop.py 
+python run_in_loop.py 
+python3 run_in_loop.py 
+clear
+cd colcon_ws/
+ls
+ros2 launch orb_slam3_ros2_wrapper unirobot.launch.py
+clear
+exit
+clear
+cd colcon_ws/
+ls
+ros2 run trajectory_comparer simple_trajectory_comparer 
+clear
+cd /root/colcon_ws/
+colcon build --symlink-install
+source install/setup.bash
+colcon build --symlink-install
+clear
+ros2 launch orb_slam3_ros2_wrapper unirobot.launch.py
+rviz2
+exit
+clear
+cd colcon_ws/
+
+clear
+source install/setup.bash
+clear
+ros2 launch orb_slam3_ros2_wrapper unirobot.launch.py
+clear
+ros2 launch orb_slam3_ros2_wrapper unirobot.launch.py

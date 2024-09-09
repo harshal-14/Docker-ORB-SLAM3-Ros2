@@ -1,0 +1,853 @@
+[0.000000] (-) TimerEvent: {}
+[0.000680] (slam_msgs) JobQueued: {'identifier': 'slam_msgs', 'dependencies': OrderedDict()}
+[0.000834] (trajectory_comparer) JobQueued: {'identifier': 'trajectory_comparer', 'dependencies': OrderedDict()}
+[0.000852] (orb_slam3_ros2_wrapper) JobQueued: {'identifier': 'orb_slam3_ros2_wrapper', 'dependencies': OrderedDict([('slam_msgs', '/root/colcon_ws/install/slam_msgs')])}
+[0.000870] (slam_msgs) JobStarted: {'identifier': 'slam_msgs'}
+[0.009466] (trajectory_comparer) JobStarted: {'identifier': 'trajectory_comparer'}
+[0.018083] (slam_msgs) JobProgress: {'identifier': 'slam_msgs', 'progress': 'cmake'}
+[0.019626] (slam_msgs) JobProgress: {'identifier': 'slam_msgs', 'progress': 'build'}
+[0.020415] (slam_msgs) Command: {'cmd': ['/usr/bin/cmake', '--build', '/root/colcon_ws/build/slam_msgs', '--', '-j8', '-l8'], 'cwd': '/root/colcon_ws/build/slam_msgs', 'env': OrderedDict([('HOSTNAME', 'lucifer-G3-3500'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/root/colcon_ws/install/slam_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/root'), ('OLDPWD', '/root'), ('ROS_PYTHON_VERSION', '3'), ('COLCON_PREFIX_PATH', '/root/colcon_ws/install'), ('ROS_DISTRO', 'humble'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('SCOUT_NAMESPACE', 'scout_2'), ('TERM', 'xterm'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('XDG_RUNTIME_DIR', '/tmp/runtime-root'), ('DISPLAY', ':1'), ('LANG', 'C.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '55'), ('AMENT_PREFIX_PATH', '/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/trajectory_comparer:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/slam_msgs:/opt/ros/humble'), ('PWD', '/root/colcon_ws/build/slam_msgs'), ('LC_ALL', 'C.UTF-8'), ('RCUTILS_COLORIZED_OUTPUT', '1'), ('PYTHONPATH', '/root/colcon_ws/install/trajectory_publisher/lib/python3.10/site-packages:/root/colcon_ws/build/trajectory_comparer:/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages:/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble')]), 'shell': False}
+[0.075748] (slam_msgs) StdoutLine: {'line': b'[  1%] Built target slam_msgs__cpp\n'}
+[0.078688] (slam_msgs) StdoutLine: {'line': b'[ 12%] Built target slam_msgs__rosidl_generator_c\n'}
+[0.090468] (slam_msgs) StdoutLine: {'line': b'[ 12%] Built target ament_cmake_python_symlink_slam_msgs\n'}
+[0.099715] (-) TimerEvent: {}
+[0.114196] (slam_msgs) StdoutLine: {'line': b'[ 32%] Built target slam_msgs__rosidl_typesupport_fastrtps_cpp\n'}
+[0.114489] (slam_msgs) StdoutLine: {'line': b'[ 34%] Built target slam_msgs__rosidl_typesupport_cpp\n'}
+[0.114701] (slam_msgs) StdoutLine: {'line': b'[ 45%] Built target slam_msgs__rosidl_typesupport_introspection_cpp\n'}
+[0.116496] (slam_msgs) StdoutLine: {'line': b'[ 56%] Built target slam_msgs__rosidl_typesupport_introspection_c\n'}
+[0.116795] (slam_msgs) StdoutLine: {'line': b'[ 67%] Built target slam_msgs__rosidl_typesupport_c\n'}
+[0.118315] (slam_msgs) StdoutLine: {'line': b'[ 78%] Built target slam_msgs__rosidl_typesupport_fastrtps_c\n'}
+[0.139723] (slam_msgs) StdoutLine: {'line': b'[ 78%] Built target slam_msgs\n'}
+[0.161658] (slam_msgs) StdoutLine: {'line': b'[ 80%] Built target slam_msgs__py\n'}
+[0.187343] (slam_msgs) StdoutLine: {'line': b'[ 89%] Built target slam_msgs__rosidl_generator_py\n'}
+[0.199811] (-) TimerEvent: {}
+[0.210080] (slam_msgs) StdoutLine: {'line': b'[ 92%] Built target slam_msgs__rosidl_typesupport_fastrtps_c__pyext\n'}
+[0.214629] (slam_msgs) StdoutLine: {'line': b'[ 96%] Built target slam_msgs__rosidl_typesupport_c__pyext\n'}
+[0.217213] (slam_msgs) StdoutLine: {'line': b'[100%] Built target slam_msgs__rosidl_typesupport_introspection_c__pyext\n'}
+[0.300046] (-) TimerEvent: {}
+[0.346478] (slam_msgs) StdoutLine: {'line': b'running egg_info\n'}
+[0.347362] (slam_msgs) StdoutLine: {'line': b'writing slam_msgs.egg-info/PKG-INFO\n'}
+[0.347663] (slam_msgs) StdoutLine: {'line': b'writing dependency_links to slam_msgs.egg-info/dependency_links.txt\n'}
+[0.347908] (slam_msgs) StdoutLine: {'line': b'writing top-level names to slam_msgs.egg-info/top_level.txt\n'}
+[0.350460] (slam_msgs) StdoutLine: {'line': b"reading manifest file 'slam_msgs.egg-info/SOURCES.txt'\n"}
+[0.351165] (slam_msgs) StdoutLine: {'line': b"writing manifest file 'slam_msgs.egg-info/SOURCES.txt'\n"}
+[0.379651] (slam_msgs) StdoutLine: {'line': b'[100%] Built target ament_cmake_python_build_slam_msgs_egg\n'}
+[0.396198] (slam_msgs) CommandEnded: {'returncode': 0}
+[0.400153] (-) TimerEvent: {}
+[0.500525] (-) TimerEvent: {}
+[0.511861] (slam_msgs) JobProgress: {'identifier': 'slam_msgs', 'progress': 'install'}
+[0.521475] (slam_msgs) Command: {'cmd': ['/usr/bin/cmake', '--install', '/root/colcon_ws/build/slam_msgs'], 'cwd': '/root/colcon_ws/build/slam_msgs', 'env': OrderedDict([('HOSTNAME', 'lucifer-G3-3500'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/root/colcon_ws/install/slam_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/root'), ('OLDPWD', '/root'), ('ROS_PYTHON_VERSION', '3'), ('COLCON_PREFIX_PATH', '/root/colcon_ws/install'), ('ROS_DISTRO', 'humble'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('SCOUT_NAMESPACE', 'scout_2'), ('TERM', 'xterm'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('XDG_RUNTIME_DIR', '/tmp/runtime-root'), ('DISPLAY', ':1'), ('LANG', 'C.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '55'), ('AMENT_PREFIX_PATH', '/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/trajectory_comparer:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/slam_msgs:/opt/ros/humble'), ('PWD', '/root/colcon_ws/build/slam_msgs'), ('LC_ALL', 'C.UTF-8'), ('RCUTILS_COLORIZED_OUTPUT', '1'), ('PYTHONPATH', '/root/colcon_ws/install/trajectory_publisher/lib/python3.10/site-packages:/root/colcon_ws/build/trajectory_comparer:/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages:/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble')]), 'shell': False}
+[0.530117] (slam_msgs) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[0.530845] (slam_msgs) StdoutLine: {'line': b'-- Execute custom install script\n'}
+[0.531123] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/ament_index/resource_index/rosidl_interfaces/slam_msgs\n'}
+[0.532335] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__functions.h\n'}
+[0.532610] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__struct.h\n'}
+[0.532834] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__type_support.h\n'}
+[0.533046] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__functions.h\n'}
+[0.533241] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__struct.h\n'}
+[0.533556] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__type_support.h\n'}
+[0.533793] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__functions.h\n'}
+[0.534028] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__struct.h\n'}
+[0.534244] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__type_support.h\n'}
+[0.534489] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/key_frame.h\n'}
+[0.534672] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/map_data.h\n'}
+[0.534849] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/map_graph.h\n'}
+[0.535033] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/rosidl_generator_c__visibility_control.h\n'}
+[0.535218] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__functions.h\n'}
+[0.535485] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__struct.h\n'}
+[0.535722] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__type_support.h\n'}
+[0.535944] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/get_map.h\n'}
+[0.536299] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/library_path.sh\n'}
+[0.536567] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/library_path.dsv\n'}
+[0.537670] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__rosidl_typesupport_fastrtps_c.h\n'}
+[0.537916] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__rosidl_typesupport_fastrtps_c.h\n'}
+[0.538080] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__rosidl_typesupport_fastrtps_c.h\n'}
+[0.538232] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h\n'}
+[0.538388] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__rosidl_typesupport_fastrtps_c.h\n'}
+[0.538911] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__builder.hpp\n'}
+[0.539196] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__struct.hpp\n'}
+[0.539431] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__traits.hpp\n'}
+[0.539586] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__builder.hpp\n'}
+[0.539782] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__struct.hpp\n'}
+[0.539889] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__traits.hpp\n'}
+[0.540081] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__builder.hpp\n'}
+[0.540275] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__struct.hpp\n'}
+[0.540554] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__traits.hpp\n'}
+[0.540762] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/key_frame.hpp\n'}
+[0.540965] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/map_data.hpp\n'}
+[0.541077] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/map_graph.hpp\n'}
+[0.541285] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__builder.hpp\n'}
+[0.541513] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__struct.hpp\n'}
+[0.541724] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__traits.hpp\n'}
+[0.541930] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/get_map.hpp\n'}
+[0.543235] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[0.543355] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[0.543582] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[0.543821] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h\n'}
+[0.543933] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[0.544901] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__rosidl_typesupport_introspection_c.h\n'}
+[0.545105] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__rosidl_typesupport_introspection_c.h\n'}
+[0.545304] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__rosidl_typesupport_introspection_c.h\n'}
+[0.545511] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h\n'}
+[0.545622] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__rosidl_typesupport_introspection_c.h\n'}
+[0.546496] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/key_frame__rosidl_typesupport_introspection_cpp.hpp\n'}
+[0.546724] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_data__rosidl_typesupport_introspection_cpp.hpp\n'}
+[0.546929] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/msg/detail/map_graph__rosidl_typesupport_introspection_cpp.hpp\n'}
+[0.547134] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/include/slam_msgs/slam_msgs/srv/detail/get_map__rosidl_typesupport_introspection_cpp.hpp\n'}
+[0.547291] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/pythonpath.sh\n'}
+[0.547535] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/pythonpath.dsv\n'}
+[0.547824] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs-1.0.0-py3.10.egg-info/PKG-INFO\n'}
+[0.548028] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs-1.0.0-py3.10.egg-info/SOURCES.txt\n'}
+[0.548226] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs-1.0.0-py3.10.egg-info/dependency_links.txt\n'}
+[0.548428] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs-1.0.0-py3.10.egg-info/top_level.txt\n'}
+[0.549061] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/__init__.py\n'}
+[0.549158] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/_slam_msgs_s.ep.rosidl_typesupport_c.c\n'}
+[0.549351] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/_slam_msgs_s.ep.rosidl_typesupport_fastrtps_c.c\n'}
+[0.549550] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/_slam_msgs_s.ep.rosidl_typesupport_introspection_c.c\n'}
+[0.549747] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/libslam_msgs__rosidl_generator_py.so\n'}
+[0.549850] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/__init__.py\n'}
+[0.549954] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_key_frame.py\n'}
+[0.550054] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_key_frame_s.c\n'}
+[0.550153] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_map_data.py\n'}
+[0.550251] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_map_data_s.c\n'}
+[0.550349] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_map_graph.py\n'}
+[0.550542] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg/_map_graph_s.c\n'}
+[0.550740] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so\n'}
+[0.550931] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so\n'}
+[0.551121] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so\n'}
+[0.551313] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/srv/__init__.py\n'}
+[0.551505] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/srv/_get_map.py\n'}
+[0.551698] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/srv/_get_map_s.c\n'}
+[0.552049] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so\n'}
+[0.552371] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so\n'}
+[0.552772] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/slam_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so\n'}
+[0.552881] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/MapGraph.idl\n'}
+[0.553192] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/MapData.idl\n'}
+[0.553448] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/KeyFrame.idl\n'}
+[0.553771] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/srv/GetMap.idl\n'}
+[0.553917] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/MapGraph.msg\n'}
+[0.554052] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/MapData.msg\n'}
+[0.554183] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/msg/KeyFrame.msg\n'}
+[0.554314] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/srv/GetMap.srv\n'}
+[0.554546] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/srv/GetMap_Request.msg\n'}
+[0.554775] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/srv/GetMap_Response.msg\n'}
+[0.555061] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/ament_index/resource_index/package_run_dependencies/slam_msgs\n'}
+[0.555299] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/ament_index/resource_index/parent_prefix_path/slam_msgs\n'}
+[0.555586] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/ament_prefix_path.sh\n'}
+[0.555861] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/ament_prefix_path.dsv\n'}
+[0.556104] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/path.sh\n'}
+[0.556338] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/environment/path.dsv\n'}
+[0.556583] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/local_setup.bash\n'}
+[0.556727] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/local_setup.sh\n'}
+[0.556899] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/local_setup.zsh\n'}
+[0.557152] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/local_setup.dsv\n'}
+[0.557289] (slam_msgs) StdoutLine: {'line': b'-- Symlinking: /root/colcon_ws/install/slam_msgs/share/slam_msgs/package.dsv\n'}
+[0.565528] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/ament_index/resource_index/packages/slam_msgs\n'}
+[0.565772] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/rosidl_cmake-extras.cmake\n'}
+[0.566031] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/ament_cmake_export_dependencies-extras.cmake\n'}
+[0.566271] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/ament_cmake_export_include_directories-extras.cmake\n'}
+[0.566587] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/ament_cmake_export_libraries-extras.cmake\n'}
+[0.566723] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/ament_cmake_export_targets-extras.cmake\n'}
+[0.566924] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake\n'}
+[0.567080] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake\n'}
+[0.567227] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgsConfig.cmake\n'}
+[0.567326] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgsConfig-version.cmake\n'}
+[0.567487] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date symlink: /root/colcon_ws/install/slam_msgs/share/slam_msgs/package.xml\n'}
+[0.568193] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_generator_c.so\n'}
+[0.568648] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_fastrtps_c.so\n'}
+[0.569202] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_fastrtps_cpp.so\n'}
+[0.569741] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_introspection_c.so\n'}
+[0.570169] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_c.so\n'}
+[0.570522] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_introspection_cpp.so\n'}
+[0.571021] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_typesupport_cpp.so\n'}
+[0.600611] (-) TimerEvent: {}
+[0.603673] (slam_msgs) StdoutLine: {'line': b"Listing '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs'...\n"}
+[0.603817] (slam_msgs) StdoutLine: {'line': b"Listing '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/msg'...\n"}
+[0.603888] (slam_msgs) StdoutLine: {'line': b"Listing '/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages/slam_msgs/srv'...\n"}
+[0.607933] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/lib/libslam_msgs__rosidl_generator_py.so\n'}
+[0.608381] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_generator_cExport.cmake\n'}
+[0.608589] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_generator_cExport-noconfig.cmake\n'}
+[0.608821] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_typesupport_fastrtps_cExport.cmake\n'}
+[0.609049] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake\n'}
+[0.609284] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_generator_cppExport.cmake\n'}
+[0.609614] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_typesupport_fastrtps_cppExport.cmake\n'}
+[0.609756] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake\n'}
+[0.609994] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_introspection_cExport.cmake\n'}
+[0.610132] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake\n'}
+[0.610367] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_cExport.cmake\n'}
+[0.610523] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_cExport-noconfig.cmake\n'}
+[0.610771] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_introspection_cppExport.cmake\n'}
+[0.610904] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake\n'}
+[0.611378] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_cppExport.cmake\n'}
+[0.611544] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/slam_msgs__rosidl_typesupport_cppExport-noconfig.cmake\n'}
+[0.611769] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_generator_pyExport.cmake\n'}
+[0.611881] (slam_msgs) StdoutLine: {'line': b'-- Up-to-date: /root/colcon_ws/install/slam_msgs/share/slam_msgs/cmake/export_slam_msgs__rosidl_generator_pyExport-noconfig.cmake\n'}
+[0.614048] (slam_msgs) CommandEnded: {'returncode': 0}
+[0.700732] (-) TimerEvent: {}
+[0.732494] (slam_msgs) JobEnded: {'identifier': 'slam_msgs', 'rc': 0}
+[0.734646] (orb_slam3_ros2_wrapper) JobStarted: {'identifier': 'orb_slam3_ros2_wrapper'}
+[0.740639] (trajectory_comparer) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/root/colcon_ws/build/trajectory_comparer/build', '--no-deps', 'symlink_data'], 'cwd': '/root/colcon_ws/build/trajectory_comparer', 'env': {'HOSTNAME': 'lucifer-G3-3500', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/root/colcon_ws/install/slam_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/root', 'OLDPWD': '/root', 'ROS_PYTHON_VERSION': '3', 'COLCON_PREFIX_PATH': '/root/colcon_ws/install', 'ROS_DISTRO': 'humble', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'SCOUT_NAMESPACE': 'scout_2', 'TERM': 'xterm', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'XDG_RUNTIME_DIR': '/tmp/runtime-root', 'DISPLAY': ':1', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'ROS_DOMAIN_ID': '55', 'AMENT_PREFIX_PATH': '/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/trajectory_comparer:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/slam_msgs:/opt/ros/humble', 'PWD': '/root/colcon_ws/build/trajectory_comparer', 'LC_ALL': 'C.UTF-8', 'RCUTILS_COLORIZED_OUTPUT': '1', 'PYTHONPATH': '/root/colcon_ws/build/trajectory_comparer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages:/root/colcon_ws/install/trajectory_publisher/lib/python3.10/site-packages:/root/colcon_ws/build/trajectory_comparer:/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages:/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'CMAKE_PREFIX_PATH': '/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/slam_msgs'}, 'shell': False}
+[0.746258] (orb_slam3_ros2_wrapper) JobProgress: {'identifier': 'orb_slam3_ros2_wrapper', 'progress': 'cmake'}
+[0.747883] (orb_slam3_ros2_wrapper) JobProgress: {'identifier': 'orb_slam3_ros2_wrapper', 'progress': 'build'}
+[0.748800] (orb_slam3_ros2_wrapper) Command: {'cmd': ['/usr/bin/cmake', '--build', '/root/colcon_ws/build/orb_slam3_ros2_wrapper', '--', '-j8', '-l8'], 'cwd': '/root/colcon_ws/build/orb_slam3_ros2_wrapper', 'env': OrderedDict([('HOSTNAME', 'lucifer-G3-3500'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/root/colcon_ws/install/slam_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/root'), ('OLDPWD', '/root'), ('ROS_PYTHON_VERSION', '3'), ('COLCON_PREFIX_PATH', '/root/colcon_ws/install'), ('ROS_DISTRO', 'humble'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('SCOUT_NAMESPACE', 'scout_2'), ('TERM', 'xterm'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('XDG_RUNTIME_DIR', '/tmp/runtime-root'), ('DISPLAY', ':1'), ('LANG', 'C.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '55'), ('AMENT_PREFIX_PATH', '/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/trajectory_comparer:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/slam_msgs:/opt/ros/humble'), ('PWD', '/root/colcon_ws/build/orb_slam3_ros2_wrapper'), ('LC_ALL', 'C.UTF-8'), ('RCUTILS_COLORIZED_OUTPUT', '1'), ('PYTHONPATH', '/root/colcon_ws/install/trajectory_publisher/lib/python3.10/site-packages:/root/colcon_ws/build/trajectory_comparer:/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages:/root/colcon_ws/install/slam_msgs/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/root/colcon_ws/install/slam_msgs:/root/colcon_ws/install/trajectory_comparison:/root/colcon_ws/install/orb_slam3_ros2_wrapper:/root/colcon_ws/install/trajectory_publisher:/root/colcon_ws/install/trajectory_comparer:/opt/ros/humble')]), 'shell': False}
+[0.800812] (-) TimerEvent: {}
+[0.818122] (orb_slam3_ros2_wrapper) StdoutLine: {'line': b'\x1b[35m\x1b[1mConsolidate compiler generated dependencies of target rgbd\x1b[0m\n'}
+[0.865837] (orb_slam3_ros2_wrapper) StdoutLine: {'line': b'[ 20%] \x1b[32mBuilding CXX object CMakeFiles/rgbd.dir/src/rgbd/rgbd-slam-node.cpp.o\x1b[0m\n'}
+[0.900907] (-) TimerEvent: {}
+[1.001207] (-) TimerEvent: {}
+[1.007746] (trajectory_comparer) StdoutLine: {'line': b'running develop\n'}
+[1.008440] (trajectory_comparer) StderrLine: {'line': b'/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.\n'}
+[1.008581] (trajectory_comparer) StderrLine: {'line': b'  warnings.warn(\n'}
+[1.101303] (-) TimerEvent: {}
+[1.159298] (trajectory_comparer) StdoutLine: {'line': b'running egg_info\n'}
+[1.159530] (trajectory_comparer) StdoutLine: {'line': b'writing trajectory_comparer.egg-info/PKG-INFO\n'}
+[1.159704] (trajectory_comparer) StdoutLine: {'line': b'writing dependency_links to trajectory_comparer.egg-info/dependency_links.txt\n'}
+[1.159875] (trajectory_comparer) StdoutLine: {'line': b'writing entry points to trajectory_comparer.egg-info/entry_points.txt\n'}
+[1.159999] (trajectory_comparer) StdoutLine: {'line': b'writing requirements to trajectory_comparer.egg-info/requires.txt\n'}
+[1.160100] (trajectory_comparer) StdoutLine: {'line': b'writing top-level names to trajectory_comparer.egg-info/top_level.txt\n'}
+[1.162005] (trajectory_comparer) StdoutLine: {'line': b"reading manifest file 'trajectory_comparer.egg-info/SOURCES.txt'\n"}
+[1.162833] (trajectory_comparer) StdoutLine: {'line': b"writing manifest file 'trajectory_comparer.egg-info/SOURCES.txt'\n"}
+[1.164060] (trajectory_comparer) StdoutLine: {'line': b'running build_ext\n'}
+[1.164265] (trajectory_comparer) StdoutLine: {'line': b'Creating /root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages/trajectory-comparer.egg-link (link to .)\n'}
+[1.165077] (trajectory_comparer) StdoutLine: {'line': b'Installing simple_trajectory_comparer script to /root/colcon_ws/install/trajectory_comparer/lib/trajectory_comparer\n'}
+[1.165301] (trajectory_comparer) StdoutLine: {'line': b'\n'}
+[1.165396] (trajectory_comparer) StdoutLine: {'line': b'Installed /root/colcon_ws/build/trajectory_comparer\n'}
+[1.165525] (trajectory_comparer) StdoutLine: {'line': b'running symlink_data\n'}
+[1.196576] (trajectory_comparer) CommandEnded: {'returncode': 0}
+[1.201404] (-) TimerEvent: {}
+[1.205814] (trajectory_comparer) JobEnded: {'identifier': 'trajectory_comparer', 'rc': 0}
+[1.301546] (-) TimerEvent: {}
+[1.401945] (-) TimerEvent: {}
+[1.502299] (-) TimerEvent: {}
+[1.602607] (-) TimerEvent: {}
+[1.702889] (-) TimerEvent: {}
+[1.803201] (-) TimerEvent: {}
+[1.903512] (-) TimerEvent: {}
+[2.003781] (-) TimerEvent: {}
+[2.104016] (-) TimerEvent: {}
+[2.204302] (-) TimerEvent: {}
+[2.304569] (-) TimerEvent: {}
+[2.404818] (-) TimerEvent: {}
+[2.505107] (-) TimerEvent: {}
+[2.605413] (-) TimerEvent: {}
+[2.705695] (-) TimerEvent: {}
+[2.805982] (-) TimerEvent: {}
+[2.906263] (-) TimerEvent: {}
+[3.006542] (-) TimerEvent: {}
+[3.106812] (-) TimerEvent: {}
+[3.207089] (-) TimerEvent: {}
+[3.310739] (-) TimerEvent: {}
+[3.411035] (-) TimerEvent: {}
+[3.511320] (-) TimerEvent: {}
+[3.611639] (-) TimerEvent: {}
+[3.711935] (-) TimerEvent: {}
+[3.812259] (-) TimerEvent: {}
+[3.912553] (-) TimerEvent: {}
+[4.012833] (-) TimerEvent: {}
+[4.113147] (-) TimerEvent: {}
+[4.213463] (-) TimerEvent: {}
+[4.313753] (-) TimerEvent: {}
+[4.414091] (-) TimerEvent: {}
+[4.514464] (-) TimerEvent: {}
+[4.614739] (-) TimerEvent: {}
+[4.715005] (-) TimerEvent: {}
+[4.815247] (-) TimerEvent: {}
+[4.915717] (-) TimerEvent: {}
+[5.016356] (-) TimerEvent: {}
+[5.116819] (-) TimerEvent: {}
+[5.217272] (-) TimerEvent: {}
+[5.317723] (-) TimerEvent: {}
+[5.418202] (-) TimerEvent: {}
+[5.518625] (-) TimerEvent: {}
+[5.619012] (-) TimerEvent: {}
+[5.719368] (-) TimerEvent: {}
+[5.819865] (-) TimerEvent: {}
+[5.920161] (-) TimerEvent: {}
+[6.020464] (-) TimerEvent: {}
+[6.120813] (-) TimerEvent: {}
+[6.221082] (-) TimerEvent: {}
+[6.321426] (-) TimerEvent: {}
+[6.421686] (-) TimerEvent: {}
+[6.522041] (-) TimerEvent: {}
+[6.622445] (-) TimerEvent: {}
+[6.722843] (-) TimerEvent: {}
+[6.823265] (-) TimerEvent: {}
+[6.923925] (-) TimerEvent: {}
+[6.960570] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:30\x1b[m\x1b[K,\n'}
+[6.960747] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[6.960818] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[6.960878] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[6.960937] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[6.961082] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[6.961144] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/ImuTypes.h:\x1b[m\x1b[K In member function \xe2\x80\x98\x1b[01m\x1b[Kvoid ORB_SLAM3::IMU::Preintegrated::printMeasurements() const\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[6.961200] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/ImuTypes.h:204:23:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kcomparison of integer expressions of different signedness: \xe2\x80\x98\x1b[01m\x1b[Kint\x1b[m\x1b[K\xe2\x80\x99 and \xe2\x80\x98\x1b[01m\x1b[Kstd::vector<ORB_SLAM3::IMU::Preintegrated::integrable>::size_type\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Klong unsigned int\x1b[m\x1b[K\xe2\x80\x99} [\x1b[01;35m\x1b[K-Wsign-compare\x1b[m\x1b[K]\n'}
+[6.961259] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  204 |         for(int i=0; \x1b[01;35m\x1b[Ki<mvMeasurements.size()\x1b[m\x1b[K; i++){\n'}
+[6.961314] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[K~^~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.024088] (-) TimerEvent: {}
+[7.104509] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37\x1b[m\x1b[K,\n'}
+[7.104790] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[7.105291] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[7.105600] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[7.105663] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[7.105734] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[7.105791] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.105846] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.105900] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:\x1b[m\x1b[K At global scope:\n'}
+[7.105955] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:74:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[7.106019] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   62 |     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::Flags & \x1b[01;35m\x1b[KAlignedBit\x1b[m\x1b[K ? Aligned : Unaligned >  HessianBlockType;\n'}
+[7.106103] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                          \x1b[01;35m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.106186] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[7.106271] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[7.106358] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.106451] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.106525] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[7.106580] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[7.106634] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.116208] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38\x1b[m\x1b[K,\n'}
+[7.116559] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[7.116698] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[7.116808] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[7.116916] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[7.117016] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[7.117138] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.117236] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.117368] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:82:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[7.117524] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   59 |      typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::Flags & \x1b[01;35m\x1b[KAlignedBit\x1b[m\x1b[K ? Aligned : Unaligned > HessianBlockType;\n'}
+[7.117625] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                                 \x1b[01;35m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.117727] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\n'}
+[7.117824] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[7.117918] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[7.118017] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.118116] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.118216] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[7.118321] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[7.118428] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.118575] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38\x1b[m\x1b[K,\n'}
+[7.118676] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[7.118770] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[7.118859] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[7.118950] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[7.119040] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[7.119129] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.119216] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.119310] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:82:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[7.119413] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   60 |      typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::Flags & \x1b[01;35m\x1b[KAlignedBit\x1b[m\x1b[K ? Aligned : Unaligned > HessianBlockTransposedType;\n'}
+[7.119550] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                                 \x1b[01;35m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.119659] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\n'}
+[7.119750] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[7.119842] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[7.119931] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.120020] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.120110] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[7.120217] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[7.120316] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.124238] (-) TimerEvent: {}
+[7.183465] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:41\x1b[m\x1b[K,\n'}
+[7.183706] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[7.183819] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[7.183921] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[7.184013] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[7.184104] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[7.184192] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.184279] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.184372] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/se3quat.h:43:38:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kextra \xe2\x80\x98\x1b[01m\x1b[K;\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[7.184542] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   43 |       EIGEN_MAKE_ALIGNED_OPERATOR_NEW\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[7.184650] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                      \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[7.184743] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                      \x1b[31m\x1b[K-\x1b[m\x1b[K\n'}
+[7.224465] (-) TimerEvent: {}
+[7.324983] (-) TimerEvent: {}
+[7.425379] (-) TimerEvent: {}
+[7.505367] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37\x1b[m\x1b[K,\n'}
+[7.505625] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[7.505755] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[7.505857] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[7.505967] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[7.506060] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[7.506152] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.506243] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.506335] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of \xe2\x80\x98\x1b[01m\x1b[Kclass g2o::BaseVertex<3, Eigen::Matrix<double, 3, 1> >\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[7.506439] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_sba.h:40:35:\x1b[m\x1b[K   required from here\n'}
+[7.506539] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[7.506629] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   62 |     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::\x1b[01;35m\x1b[KFlags & AlignedBit\x1b[m\x1b[K ? Aligned : Unaligned >  HessianBlockType;\n'}
+[7.506718] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                  \x1b[01;35m\x1b[K~~~~~~^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.506806] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[7.506895] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[7.507004] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.507100] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.507195] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[7.507292] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[7.507387] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.525540] (-) TimerEvent: {}
+[7.541334] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37\x1b[m\x1b[K,\n'}
+[7.541620] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[7.541743] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[7.541853] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[7.541989] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[7.542097] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[7.542209] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.542316] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.542484] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of \xe2\x80\x98\x1b[01m\x1b[Kclass g2o::BaseVertex<6, g2o::SE3Quat>\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[7.542616] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:59:33:\x1b[m\x1b[K   required from here\n'}
+[7.542724] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[7.542830] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   62 |     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::\x1b[01;35m\x1b[KFlags & AlignedBit\x1b[m\x1b[K ? Aligned : Unaligned >  HessianBlockType;\n'}
+[7.542930] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                  \x1b[01;35m\x1b[K~~~~~~^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.543031] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[7.543133] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[7.543243] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.543348] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.543455] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[7.543551] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[7.543640] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.582346] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38\x1b[m\x1b[K,\n'}
+[7.582629] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[7.582743] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[7.582841] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[7.582944] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[7.583046] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[7.583302] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.583374] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.583459] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of \xe2\x80\x98\x1b[01m\x1b[Kclass g2o::BaseBinaryEdge<6, g2o::SE3Quat, g2o::VertexSE3Expmap, g2o::VertexSE3Expmap>\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[7.583525] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:83:24:\x1b[m\x1b[K   required from here\n'}
+[7.583586] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[7.583645] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::\x1b[01;35m\x1b[KFlags & AlignedBit\x1b[m\x1b[K ? Aligned : Unaligned > HessianBlockType;\n'}
+[7.583703] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                          \x1b[01;35m\x1b[K~~~~~~^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.583759] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[7.583832] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[7.583964] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.584081] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.584186] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[7.584262] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[7.584333] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.584426] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38\x1b[m\x1b[K,\n'}
+[7.584536] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[7.584625] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[7.584709] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[7.584794] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[7.584882] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[7.584969] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.585080] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.585176] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[7.585282] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::\x1b[01;35m\x1b[KFlags & AlignedBit\x1b[m\x1b[K ? Aligned : Unaligned > HessianBlockTransposedType;\n'}
+[7.585387] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                          \x1b[01;35m\x1b[K~~~~~~^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.585529] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[7.585631] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[7.585739] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.585833] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.585921] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[7.586019] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[7.586146] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.625632] (-) TimerEvent: {}
+[7.710870] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38\x1b[m\x1b[K,\n'}
+[7.711146] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[7.711306] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[7.711459] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[7.711582] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[7.711700] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[7.711811] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.711920] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.712024] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of \xe2\x80\x98\x1b[01m\x1b[Kclass g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[7.712158] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:114:35:\x1b[m\x1b[K   required from here\n'}
+[7.712285] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[7.712406] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::\x1b[01;35m\x1b[KFlags & AlignedBit\x1b[m\x1b[K ? Aligned : Unaligned > HessianBlockType;\n'}
+[7.712536] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                          \x1b[01;35m\x1b[K~~~~~~^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.712646] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[7.712747] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[7.712854] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.712968] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.713076] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[7.713186] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[7.713296] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.725760] (-) TimerEvent: {}
+[7.739010] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38\x1b[m\x1b[K,\n'}
+[7.739281] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[7.739428] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[7.739554] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[7.739668] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[7.739782] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[7.739902] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.740012] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.740124] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[7.740243] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::\x1b[01;35m\x1b[KFlags & AlignedBit\x1b[m\x1b[K ? Aligned : Unaligned > HessianBlockTransposedType;\n'}
+[7.740387] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                          \x1b[01;35m\x1b[K~~~~~~^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.740569] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[7.740686] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[7.740797] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.740908] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.741016] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[7.741158] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[7.741262] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.825847] (-) TimerEvent: {}
+[7.839836] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38\x1b[m\x1b[K,\n'}
+[7.840168] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[7.840274] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[7.840372] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[7.840515] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[7.840626] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[7.840717] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.840807] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.840895] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of \xe2\x80\x98\x1b[01m\x1b[Kclass g2o::BaseBinaryEdge<3, Eigen::Matrix<double, 3, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[7.841002] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:146:41:\x1b[m\x1b[K   required from here\n'}
+[7.841093] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[7.841187] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::\x1b[01;35m\x1b[KFlags & AlignedBit\x1b[m\x1b[K ? Aligned : Unaligned > HessianBlockType;\n'}
+[7.841277] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                          \x1b[01;35m\x1b[K~~~~~~^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.841366] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[7.841478] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[7.841571] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.841661] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.841749] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[7.841839] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[7.841926] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.842014] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38\x1b[m\x1b[K,\n'}
+[7.842102] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[7.842190] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[7.842278] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[7.842365] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[7.842464] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[7.842554] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.842643] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.842732] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[7.842832] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::\x1b[01;35m\x1b[KFlags & AlignedBit\x1b[m\x1b[K ? Aligned : Unaligned > HessianBlockTransposedType;\n'}
+[7.842928] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                          \x1b[01;35m\x1b[K~~~~~~^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.843017] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[7.843104] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[7.843192] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[7.843281] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[7.843369] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[7.843477] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[7.843567] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[7.925975] (-) TimerEvent: {}
+[8.026453] (-) TimerEvent: {}
+[8.126914] (-) TimerEvent: {}
+[8.158150] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37\x1b[m\x1b[K,\n'}
+[8.158394] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[8.158524] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[8.158647] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[8.158776] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[8.158881] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[8.159009] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[8.159123] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[8.159313] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of \xe2\x80\x98\x1b[01m\x1b[Kclass g2o::BaseVertex<7, g2o::Sim3>\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[8.159455] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:48:35:\x1b[m\x1b[K   required from here\n'}
+[8.159594] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[8.159706] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   62 |     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::\x1b[01;35m\x1b[KFlags & AlignedBit\x1b[m\x1b[K ? Aligned : Unaligned >  HessianBlockType;\n'}
+[8.159810] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                  \x1b[01;35m\x1b[K~~~~~~^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[8.159911] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[8.160013] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[8.160115] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[8.160217] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[8.160318] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[8.160431] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[8.160567] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[8.203853] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38\x1b[m\x1b[K,\n'}
+[8.204220] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[8.204341] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[8.204452] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[8.204561] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[8.204665] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[8.204769] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[8.204874] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[8.204976] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of \xe2\x80\x98\x1b[01m\x1b[Kclass g2o::BaseBinaryEdge<7, g2o::Sim3, g2o::VertexSim3Expmap, g2o::VertexSim3Expmap>\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[8.205095] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:99:27:\x1b[m\x1b[K   required from here\n'}
+[8.205205] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[8.205310] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::\x1b[01;35m\x1b[KFlags & AlignedBit\x1b[m\x1b[K ? Aligned : Unaligned > HessianBlockType;\n'}
+[8.205418] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                          \x1b[01;35m\x1b[K~~~~~~^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[8.205529] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[8.205627] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[8.205726] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[8.205867] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[8.206001] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[8.206112] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[8.206216] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[8.206319] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38\x1b[m\x1b[K,\n'}
+[8.206441] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[8.206552] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[8.206657] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[8.206759] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[8.206859] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[8.206964] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[8.207066] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[8.207181] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[8.207283] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::\x1b[01;35m\x1b[KFlags & AlignedBit\x1b[m\x1b[K ? Aligned : Unaligned > HessianBlockTransposedType;\n'}
+[8.207372] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                          \x1b[01;35m\x1b[K~~~~~~^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[8.207477] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[8.207579] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[8.207670] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[8.207754] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[8.207839] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[8.207932] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[8.208027] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[8.227062] (-) TimerEvent: {}
+[8.261237] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38\x1b[m\x1b[K,\n'}
+[8.261480] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[8.261619] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[8.261732] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[8.261898] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[8.262026] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[8.262143] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[8.262256] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[8.262383] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of \xe2\x80\x98\x1b[01m\x1b[Kclass g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSim3Expmap>\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[8.262529] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:130:36:\x1b[m\x1b[K   required from here\n'}
+[8.262644] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[8.262756] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::\x1b[01;35m\x1b[KFlags & AlignedBit\x1b[m\x1b[K ? Aligned : Unaligned > HessianBlockType;\n'}
+[8.262853] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                          \x1b[01;35m\x1b[K~~~~~~^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[8.262950] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[8.263065] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[8.263191] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[8.263294] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[8.263405] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[8.263542] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[8.263650] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[8.284027] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38\x1b[m\x1b[K,\n'}
+[8.284281] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Converter.h:26\x1b[m\x1b[K,\n'}
+[8.284406] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Frame.h:33\x1b[m\x1b[K,\n'}
+[8.284518] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/KeyFrame.h:28\x1b[m\x1b[K,\n'}
+[8.284622] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/MapPoint.h:23\x1b[m\x1b[K,\n'}
+[8.284728] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:26\x1b[m\x1b[K,\n'}
+[8.284849] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[8.284954] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[8.285060] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KEigen::AlignedBit\x1b[m\x1b[K\xe2\x80\x99 is deprecated [\x1b[01;35m\x1b[K-Wdeprecated-declarations\x1b[m\x1b[K]\n'}
+[8.285165] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::\x1b[01;35m\x1b[KFlags & AlignedBit\x1b[m\x1b[K ? Aligned : Unaligned > HessianBlockTransposedType;\n'}
+[8.285268] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                          \x1b[01;35m\x1b[K~~~~~~^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[8.285369] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:161\x1b[m\x1b[K,\n'}
+[8.285515] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/type_conversion.hpp:10\x1b[m\x1b[K,\n'}
+[8.285616] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:35\x1b[m\x1b[K,\n'}
+[8.285713] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[8.285860] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclared here\n'}
+[8.285960] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  167 | EIGEN_DEPRECATED const unsigned int \x1b[01;36m\x1b[KAlignedBit\x1b[m\x1b[K = 0x80;\n'}
+[8.286062] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K^~~~~~~~~~\x1b[m\x1b[K\n'}
+[8.327201] (-) TimerEvent: {}
+[8.427602] (-) TimerEvent: {}
+[8.528060] (-) TimerEvent: {}
+[8.628507] (-) TimerEvent: {}
+[8.728916] (-) TimerEvent: {}
+[8.829333] (-) TimerEvent: {}
+[8.929666] (-) TimerEvent: {}
+[9.029984] (-) TimerEvent: {}
+[9.130295] (-) TimerEvent: {}
+[9.230634] (-) TimerEvent: {}
+[9.330923] (-) TimerEvent: {}
+[9.431237] (-) TimerEvent: {}
+[9.531611] (-) TimerEvent: {}
+[9.631917] (-) TimerEvent: {}
+[9.732242] (-) TimerEvent: {}
+[9.799769] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Atlas.h:26\x1b[m\x1b[K,\n'}
+[9.800186] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/FrameDrawer.h:25\x1b[m\x1b[K,\n'}
+[9.800291] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Viewer.h:23\x1b[m\x1b[K,\n'}
+[9.800380] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Tracking.h:26\x1b[m\x1b[K,\n'}
+[9.800481] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/System.h:31\x1b[m\x1b[K,\n'}
+[9.800572] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/orb_slam3_interface.hpp:29\x1b[m\x1b[K,\n'}
+[9.800660] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:36\x1b[m\x1b[K,\n'}
+[9.800766] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[9.800905] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:\x1b[m\x1b[K In member function \xe2\x80\x98\x1b[01m\x1b[Kvirtual bool ORB_SLAM3::Pinhole::matchAndtriangulate(const cv::KeyPoint&, const cv::KeyPoint&, ORB_SLAM3::GeometricCamera*, Sophus::SE3f&, Sophus::SE3f&, float, float, Eigen::Vector3f&)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[9.801013] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:83:54:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kkp1\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[9.801241] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   83 |         bool matchAndtriangulate(\x1b[01;35m\x1b[Kconst cv::KeyPoint& kp1\x1b[m\x1b[K, const cv::KeyPoint& kp2, GeometricCamera* pOther,\n'}
+[9.801348] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                  \x1b[01;35m\x1b[K~~~~~~~~~~~~~~~~~~~~^~~\x1b[m\x1b[K\n'}
+[9.801466] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:83:79:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kkp2\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[9.801646] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   83 |         bool matchAndtriangulate(const cv::KeyPoint& kp1, \x1b[01;35m\x1b[Kconst cv::KeyPoint& kp2\x1b[m\x1b[K, GeometricCamera* pOther,\n'}
+[9.801743] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                           \x1b[01;35m\x1b[K~~~~~~~~~~~~~~~~~~~~^~~\x1b[m\x1b[K\n'}
+[9.801836] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:83:101:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[KpOther\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[9.801933] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   83 | chAndtriangulate(const cv::KeyPoint& kp1, const cv::KeyPoint& kp2, \x1b[01;35m\x1b[KGeometricCamera* pOther\x1b[m\x1b[K,\n'}
+[9.802085] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                                    \x1b[01;35m\x1b[K~~~~~~~~~~~~~~~~~^~~~~~\x1b[m\x1b[K\n'}
+[9.802182] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\n'}
+[9.802274] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:84:48:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[KTcw1\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[9.802366] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   84 |                                  \x1b[01;35m\x1b[KSophus::SE3f& Tcw1\x1b[m\x1b[K, Sophus::SE3f& Tcw2,\n'}
+[9.802476] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                  \x1b[01;35m\x1b[K~~~~~~~~~~~~~~^~~~\x1b[m\x1b[K\n'}
+[9.802570] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:84:68:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[KTcw2\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[9.802662] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   84 |                                  Sophus::SE3f& Tcw1, \x1b[01;35m\x1b[KSophus::SE3f& Tcw2\x1b[m\x1b[K,\n'}
+[9.802755] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                      \x1b[01;35m\x1b[K~~~~~~~~~~~~~~^~~~\x1b[m\x1b[K\n'}
+[9.802847] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:85:46:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[KsigmaLevel1\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[9.802955] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   85 |                                  \x1b[01;35m\x1b[Kconst float sigmaLevel1\x1b[m\x1b[K, const float sigmaLevel2,\n'}
+[9.803049] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                  \x1b[01;35m\x1b[K~~~~~~~~~~~~^~~~~~~~~~~\x1b[m\x1b[K\n'}
+[9.803157] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:85:71:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[KsigmaLevel2\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[9.803248] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   85 |                                  const float sigmaLevel1, \x1b[01;35m\x1b[Kconst float sigmaLevel2\x1b[m\x1b[K,\n'}
+[9.803337] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                                           \x1b[01;35m\x1b[K~~~~~~~~~~~~^~~~~~~~~~~\x1b[m\x1b[K\n'}
+[9.803435] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/Pinhole.h:86:51:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kx3Dtriangulated\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[9.803535] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   86 |                                  \x1b[01;35m\x1b[KEigen::Vector3f& x3Dtriangulated\x1b[m\x1b[K) { return false;}\n'}
+[9.803625] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                  \x1b[01;35m\x1b[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[9.803718] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Atlas.h:27\x1b[m\x1b[K,\n'}
+[9.803807] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/FrameDrawer.h:25\x1b[m\x1b[K,\n'}
+[9.803900] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Viewer.h:23\x1b[m\x1b[K,\n'}
+[9.803991] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Tracking.h:26\x1b[m\x1b[K,\n'}
+[9.804082] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/System.h:31\x1b[m\x1b[K,\n'}
+[9.804171] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/orb_slam3_interface.hpp:29\x1b[m\x1b[K,\n'}
+[9.804276] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:36\x1b[m\x1b[K,\n'}
+[9.804373] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[9.804494] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:\x1b[m\x1b[K In constructor \xe2\x80\x98\x1b[01m\x1b[KORB_SLAM3::KannalaBrandt8::KannalaBrandt8(std::vector<float>)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[9.804582] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:102:21:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KORB_SLAM3::KannalaBrandt8::precision\x1b[m\x1b[K\xe2\x80\x99 will be initialized after [\x1b[01;35m\x1b[K-Wreorder\x1b[m\x1b[K]\n'}
+[9.804665] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  102 |         const float \x1b[01;35m\x1b[Kprecision\x1b[m\x1b[K;\n'}
+[9.804743] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                     \x1b[01;35m\x1b[K^~~~~~~~~\x1b[m\x1b[K\n'}
+[9.804826] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:88:26:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K  \xe2\x80\x98\x1b[01m\x1b[Kstd::vector<int> ORB_SLAM3::KannalaBrandt8::mvLappingArea\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wreorder\x1b[m\x1b[K]\n'}
+[9.804963] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   88 |         std::vector<int> \x1b[01;35m\x1b[KmvLappingArea\x1b[m\x1b[K;\n'}
+[9.805081] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K^~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[9.805169] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Atlas.h:27\x1b[m\x1b[K,\n'}
+[9.805258] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/FrameDrawer.h:25\x1b[m\x1b[K,\n'}
+[9.805348] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Viewer.h:23\x1b[m\x1b[K,\n'}
+[9.805449] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Tracking.h:26\x1b[m\x1b[K,\n'}
+[9.805545] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/System.h:31\x1b[m\x1b[K,\n'}
+[9.805620] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/orb_slam3_interface.hpp:29\x1b[m\x1b[K,\n'}
+[9.805697] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:36\x1b[m\x1b[K,\n'}
+[9.805773] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[9.805849] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:47:9:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K  when initialized here [\x1b[01;35m\x1b[K-Wreorder\x1b[m\x1b[K]\n'}
+[9.805925] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   47 |         \x1b[01;35m\x1b[KKannalaBrandt8\x1b[m\x1b[K(const std::vector<float> _vParameters) : GeometricCamera(_vParameters), precision(1e-6), mvLappingArea(2,0) ,tvr(nullptr) {\n'}
+[9.806003] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |         \x1b[01;35m\x1b[K^~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[9.806111] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Atlas.h:27\x1b[m\x1b[K,\n'}
+[9.806201] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/FrameDrawer.h:25\x1b[m\x1b[K,\n'}
+[9.806290] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Viewer.h:23\x1b[m\x1b[K,\n'}
+[9.806379] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/Tracking.h:26\x1b[m\x1b[K,\n'}
+[9.806491] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/System.h:31\x1b[m\x1b[K,\n'}
+[9.806586] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/include/orb_slam3_ros2_wrapper/orb_slam3_interface.hpp:29\x1b[m\x1b[K,\n'}
+[9.806684] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:36\x1b[m\x1b[K,\n'}
+[9.806779] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[9.806857] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:\x1b[m\x1b[K In constructor \xe2\x80\x98\x1b[01m\x1b[KORB_SLAM3::KannalaBrandt8::KannalaBrandt8(std::vector<float>, float)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[9.806946] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:102:21:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KORB_SLAM3::KannalaBrandt8::precision\x1b[m\x1b[K\xe2\x80\x99 will be initialized after [\x1b[01;35m\x1b[K-Wreorder\x1b[m\x1b[K]\n'}
+[9.807027] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  102 |         const float \x1b[01;35m\x1b[Kprecision\x1b[m\x1b[K;\n'}
+[9.807104] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                     \x1b[01;35m\x1b[K^~~~~~~~~\x1b[m\x1b[K\n'}
+[9.807183] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:88:26:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K  \xe2\x80\x98\x1b[01m\x1b[Kstd::vector<int> ORB_SLAM3::KannalaBrandt8::mvLappingArea\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wreorder\x1b[m\x1b[K]\n'}
+[9.807262] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   88 |         std::vector<int> \x1b[01;35m\x1b[KmvLappingArea\x1b[m\x1b[K;\n'}
+[9.807338] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K^~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[9.807445] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:53:9:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K  when initialized here [\x1b[01;35m\x1b[K-Wreorder\x1b[m\x1b[K]\n'}
+[9.807547] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   53 |         \x1b[01;35m\x1b[KKannalaBrandt8\x1b[m\x1b[K(const std::vector<float> _vParameters, const float _precision) : GeometricCamera(_vParameters),\n'}
+[9.807694] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |         \x1b[01;35m\x1b[K^~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[9.807827] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:\x1b[m\x1b[K In constructor \xe2\x80\x98\x1b[01m\x1b[KORB_SLAM3::KannalaBrandt8::KannalaBrandt8(ORB_SLAM3::KannalaBrandt8*)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[9.807934] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:102:21:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KORB_SLAM3::KannalaBrandt8::precision\x1b[m\x1b[K\xe2\x80\x99 will be initialized after [\x1b[01;35m\x1b[K-Wreorder\x1b[m\x1b[K]\n'}
+[9.808014] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  102 |         const float \x1b[01;35m\x1b[Kprecision\x1b[m\x1b[K;\n'}
+[9.808091] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                     \x1b[01;35m\x1b[K^~~~~~~~~\x1b[m\x1b[K\n'}
+[9.808166] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:88:26:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K  \xe2\x80\x98\x1b[01m\x1b[Kstd::vector<int> ORB_SLAM3::KannalaBrandt8::mvLappingArea\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wreorder\x1b[m\x1b[K]\n'}
+[9.808244] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   88 |         std::vector<int> \x1b[01;35m\x1b[KmvLappingArea\x1b[m\x1b[K;\n'}
+[9.808320] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K^~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[9.808397] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/home/orb/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:59:9:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K  when initialized here [\x1b[01;35m\x1b[K-Wreorder\x1b[m\x1b[K]\n'}
+[9.808567] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   59 |         \x1b[01;35m\x1b[KKannalaBrandt8\x1b[m\x1b[K(KannalaBrandt8* pKannala) : GeometricCamera(pKannala->mvParameters), precision(pKannala->precision), mvLappingArea(2,0) ,tvr(nullptr) {\n'}
+[9.808645] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |         \x1b[01;35m\x1b[K^~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[9.832348] (-) TimerEvent: {}
+[9.932714] (-) TimerEvent: {}
+[10.033010] (-) TimerEvent: {}
+[10.133328] (-) TimerEvent: {}
+[10.233750] (-) TimerEvent: {}
+[10.334059] (-) TimerEvent: {}
+[10.345537] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:\x1b[m\x1b[K In member function \xe2\x80\x98\x1b[01m\x1b[Kvoid ORB_SLAM3_Wrapper::RgbdSlamNode::RGBDCallback(sensor_msgs::msg::Image_<std::allocator<void> >::SharedPtr, sensor_msgs::msg::Image_<std::allocator<void> >::SharedPtr)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[10.345787] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:144:40:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KpublishCameraTrajectory\x1b[m\x1b[K\xe2\x80\x99 is not a member of \xe2\x80\x98\x1b[01m\x1b[KORB_SLAM3_Wrapper::RgbdSlamNode\x1b[m\x1b[K\xe2\x80\x99\n'}
+[10.345920] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  144 |             std::thread(&RgbdSlamNode::\x1b[01;31m\x1b[KpublishCameraTrajectory\x1b[m\x1b[K, this).detach();\n'}
+[10.346017] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                        \x1b[01;31m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[10.358863] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:\x1b[m\x1b[K In member function \xe2\x80\x98\x1b[01m\x1b[Kvoid ORB_SLAM3_Wrapper::RgbdSlamNode::getMapServer(std::shared_ptr<rmw_request_id_s>, std::shared_ptr<slam_msgs::srv::GetMap_Request_<std::allocator<void> > >, std::shared_ptr<slam_msgs::srv::GetMap_Response_<std::allocator<void> > >)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[10.359157] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:202:71:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Krequest_header\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[10.359263] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  202 |     void RgbdSlamNode::getMapServer(\x1b[01;35m\x1b[Kstd::shared_ptr<rmw_request_id_t> request_header\x1b[m\x1b[K,\n'}
+[10.359364] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |                                     \x1b[01;35m\x1b[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[10.359472] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:\x1b[m\x1b[K At global scope:\n'}
+[10.359570] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:212:10:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Kno declaration matches \xe2\x80\x98\x1b[01m\x1b[Kvoid ORB_SLAM3_Wrapper::RgbdSlamNode::publishCameraTrajectory()\x1b[m\x1b[K\xe2\x80\x99\n'}
+[10.359667] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'  212 |     void \x1b[01;31m\x1b[KRgbdSlamNode\x1b[m\x1b[K::publishCameraTrajectory()\n'}
+[10.359762] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |          \x1b[01;31m\x1b[K^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[10.359859] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:212:10:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kno functions named \xe2\x80\x98\x1b[01m\x1b[Kvoid ORB_SLAM3_Wrapper::RgbdSlamNode::publishCameraTrajectory()\x1b[m\x1b[K\xe2\x80\x99\n'}
+[10.359956] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.cpp:6\x1b[m\x1b[K:\n'}
+[10.360049] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'\x1b[01m\x1b[K/root/colcon_ws/src/orb_slam3_ros2_wrapper/src/rgbd/rgbd-slam-node.hpp:42:11:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kclass ORB_SLAM3_Wrapper::RgbdSlamNode\x1b[m\x1b[K\xe2\x80\x99 defined here\n'}
+[10.360164] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'   42 |     class \x1b[01;36m\x1b[KRgbdSlamNode\x1b[m\x1b[K : public rclcpp::Node\n'}
+[10.360265] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'      |           \x1b[01;36m\x1b[K^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[10.434174] (-) TimerEvent: {}
+[10.534490] (-) TimerEvent: {}
+[10.634831] (-) TimerEvent: {}
+[10.735153] (-) TimerEvent: {}
+[10.835560] (-) TimerEvent: {}
+[10.935916] (-) TimerEvent: {}
+[11.036244] (-) TimerEvent: {}
+[11.136612] (-) TimerEvent: {}
+[11.236933] (-) TimerEvent: {}
+[11.337319] (-) TimerEvent: {}
+[11.437705] (-) TimerEvent: {}
+[11.538008] (-) TimerEvent: {}
+[11.638333] (-) TimerEvent: {}
+[11.738650] (-) TimerEvent: {}
+[11.838921] (-) TimerEvent: {}
+[11.939208] (-) TimerEvent: {}
+[12.039542] (-) TimerEvent: {}
+[12.139836] (-) TimerEvent: {}
+[12.240105] (-) TimerEvent: {}
+[12.340448] (-) TimerEvent: {}
+[12.440738] (-) TimerEvent: {}
+[12.541008] (-) TimerEvent: {}
+[12.641278] (-) TimerEvent: {}
+[12.743741] (-) TimerEvent: {}
+[12.844058] (-) TimerEvent: {}
+[12.944354] (-) TimerEvent: {}
+[13.044658] (-) TimerEvent: {}
+[13.144931] (-) TimerEvent: {}
+[13.245239] (-) TimerEvent: {}
+[13.345549] (-) TimerEvent: {}
+[13.445799] (-) TimerEvent: {}
+[13.546110] (-) TimerEvent: {}
+[13.646463] (-) TimerEvent: {}
+[13.746747] (-) TimerEvent: {}
+[13.847020] (-) TimerEvent: {}
+[13.947323] (-) TimerEvent: {}
+[14.047641] (-) TimerEvent: {}
+[14.147903] (-) TimerEvent: {}
+[14.248182] (-) TimerEvent: {}
+[14.348516] (-) TimerEvent: {}
+[14.448788] (-) TimerEvent: {}
+[14.549062] (-) TimerEvent: {}
+[14.649376] (-) TimerEvent: {}
+[14.749688] (-) TimerEvent: {}
+[14.849948] (-) TimerEvent: {}
+[14.950252] (-) TimerEvent: {}
+[15.050487] (-) TimerEvent: {}
+[15.150805] (-) TimerEvent: {}
+[15.251125] (-) TimerEvent: {}
+[15.351480] (-) TimerEvent: {}
+[15.451781] (-) TimerEvent: {}
+[15.552068] (-) TimerEvent: {}
+[15.652396] (-) TimerEvent: {}
+[15.752721] (-) TimerEvent: {}
+[15.852974] (-) TimerEvent: {}
+[15.953278] (-) TimerEvent: {}
+[16.053571] (-) TimerEvent: {}
+[16.153859] (-) TimerEvent: {}
+[16.254169] (-) TimerEvent: {}
+[16.354484] (-) TimerEvent: {}
+[16.454765] (-) TimerEvent: {}
+[16.555056] (-) TimerEvent: {}
+[16.655381] (-) TimerEvent: {}
+[16.755750] (-) TimerEvent: {}
+[16.856082] (-) TimerEvent: {}
+[16.956392] (-) TimerEvent: {}
+[17.056692] (-) TimerEvent: {}
+[17.157008] (-) TimerEvent: {}
+[17.257336] (-) TimerEvent: {}
+[17.357716] (-) TimerEvent: {}
+[17.458001] (-) TimerEvent: {}
+[17.558320] (-) TimerEvent: {}
+[17.658639] (-) TimerEvent: {}
+[17.758908] (-) TimerEvent: {}
+[17.859229] (-) TimerEvent: {}
+[17.959577] (-) TimerEvent: {}
+[18.059914] (-) TimerEvent: {}
+[18.160242] (-) TimerEvent: {}
+[18.260547] (-) TimerEvent: {}
+[18.360846] (-) TimerEvent: {}
+[18.461137] (-) TimerEvent: {}
+[18.561460] (-) TimerEvent: {}
+[18.661724] (-) TimerEvent: {}
+[18.762026] (-) TimerEvent: {}
+[18.862339] (-) TimerEvent: {}
+[18.962649] (-) TimerEvent: {}
+[19.062930] (-) TimerEvent: {}
+[19.163232] (-) TimerEvent: {}
+[19.263531] (-) TimerEvent: {}
+[19.363807] (-) TimerEvent: {}
+[19.464113] (-) TimerEvent: {}
+[19.564471] (-) TimerEvent: {}
+[19.664746] (-) TimerEvent: {}
+[19.765032] (-) TimerEvent: {}
+[19.865309] (-) TimerEvent: {}
+[19.965597] (-) TimerEvent: {}
+[20.065878] (-) TimerEvent: {}
+[20.166147] (-) TimerEvent: {}
+[20.266470] (-) TimerEvent: {}
+[20.366763] (-) TimerEvent: {}
+[20.467038] (-) TimerEvent: {}
+[20.567340] (-) TimerEvent: {}
+[20.667638] (-) TimerEvent: {}
+[20.752795] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'gmake[2]: *** [CMakeFiles/rgbd.dir/build.make:104: CMakeFiles/rgbd.dir/src/rgbd/rgbd-slam-node.cpp.o] Error 1\n'}
+[20.753110] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/rgbd.dir/all] Error 2\n'}
+[20.753242] (orb_slam3_ros2_wrapper) StderrLine: {'line': b'gmake: *** [Makefile:146: all] Error 2\n'}
+[20.755045] (orb_slam3_ros2_wrapper) CommandEnded: {'returncode': 2}
+[20.767709] (-) TimerEvent: {}
+[20.784867] (orb_slam3_ros2_wrapper) JobEnded: {'identifier': 'orb_slam3_ros2_wrapper', 'rc': 2}
+[20.795366] (-) EventReactorShutdown: {}

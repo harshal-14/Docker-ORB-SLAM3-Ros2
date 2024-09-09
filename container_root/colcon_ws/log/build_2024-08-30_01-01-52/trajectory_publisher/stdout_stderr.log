@@ -1,0 +1,17 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+writing trajectory_publisher.egg-info/PKG-INFO
+writing dependency_links to trajectory_publisher.egg-info/dependency_links.txt
+writing entry points to trajectory_publisher.egg-info/entry_points.txt
+writing requirements to trajectory_publisher.egg-info/requires.txt
+writing top-level names to trajectory_publisher.egg-info/top_level.txt
+reading manifest file 'trajectory_publisher.egg-info/SOURCES.txt'
+writing manifest file 'trajectory_publisher.egg-info/SOURCES.txt'
+running build_ext
+Creating /root/colcon_ws/install/trajectory_publisher/lib/python3.10/site-packages/trajectory-publisher.egg-link (link to .)
+Installing trajectory_node script to /root/colcon_ws/install/trajectory_publisher/lib/trajectory_publisher
+
+Installed /root/colcon_ws/build/trajectory_publisher
+running symlink_data

@@ -1,0 +1,82 @@
+[INFO] [1725395490.650376056] [improved_trajectory_comparer]: Odometry pose 1: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395490.652693924] [improved_trajectory_comparer]: Odometry pose 2: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395490.783752303] [improved_trajectory_comparer]: Odometry pose 3: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395490.985800306] [improved_trajectory_comparer]: Odometry pose 4: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395491.101802750] [improved_trajectory_comparer]: Odometry pose 5: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395491.270024680] [improved_trajectory_comparer]: Odometry pose 6: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395491.389425382] [improved_trajectory_comparer]: Odometry pose 7: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395491.633621324] [improved_trajectory_comparer]: Odometry pose 8: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395491.743261879] [improved_trajectory_comparer]: Odometry pose 9: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395491.967766409] [improved_trajectory_comparer]: Odometry pose 10: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395492.139673925] [improved_trajectory_comparer]: Odometry pose 11: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395492.201685530] [improved_trajectory_comparer]: Received SLAM trajectory with 10 poses
+[INFO] [1725395492.202433708] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0001, -0.0002, -0.0002), Orientation: (-0.0000, -0.0004, -0.0000, 1.0000)
+[INFO] [1725395492.307017916] [improved_trajectory_comparer]: Odometry pose 12: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395492.471582521] [improved_trajectory_comparer]: Odometry pose 13: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395492.654514388] [improved_trajectory_comparer]: Odometry pose 14: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395492.796716668] [improved_trajectory_comparer]: Odometry pose 15: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395492.914759795] [improved_trajectory_comparer]: Received SLAM trajectory with 20 poses
+[INFO] [1725395492.915532459] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0003, -0.0002, -0.0006), Orientation: (-0.0001, -0.0009, 0.0000, 1.0000)
+[INFO] [1725395492.920964890] [improved_trajectory_comparer]: Odometry pose 16: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395493.084312098] [improved_trajectory_comparer]: Odometry pose 17: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395493.261267241] [improved_trajectory_comparer]: Odometry pose 18: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395493.368660509] [improved_trajectory_comparer]: Odometry pose 19: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395493.680984985] [improved_trajectory_comparer]: Received SLAM trajectory with 30 poses
+[INFO] [1725395493.681587128] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0005, -0.0002, -0.0007), Orientation: (-0.0001, -0.0015, 0.0001, 1.0000)
+[INFO] [1725395493.688464925] [improved_trajectory_comparer]: Odometry pose 20: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395493.702481088] [improved_trajectory_comparer]: Odometry pose 21: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395493.899517498] [improved_trajectory_comparer]: Odometry pose 22: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395494.104291772] [improved_trajectory_comparer]: Odometry pose 23: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395494.308136279] [improved_trajectory_comparer]: Odometry pose 24: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395494.554973522] [improved_trajectory_comparer]: Received SLAM trajectory with 40 poses
+[INFO] [1725395494.555409479] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0007, -0.0002, -0.0016), Orientation: (-0.0000, -0.0020, -0.0000, 1.0000)
+[INFO] [1725395494.570503781] [improved_trajectory_comparer]: Odometry pose 25: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395494.642706698] [improved_trajectory_comparer]: Odometry pose 26: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395494.765969134] [improved_trajectory_comparer]: Odometry pose 27: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395494.888014094] [improved_trajectory_comparer]: Odometry pose 28: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395495.380026538] [improved_trajectory_comparer]: Received SLAM trajectory with 50 poses
+[INFO] [1725395495.382013041] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0007, -0.0001, -0.0015), Orientation: (-0.0001, -0.0026, -0.0000, 1.0000)
+[INFO] [1725395495.392662637] [improved_trajectory_comparer]: Odometry pose 29: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395495.399637685] [improved_trajectory_comparer]: Odometry pose 30: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395495.467031482] [improved_trajectory_comparer]: Odometry pose 31: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395495.629433193] [improved_trajectory_comparer]: Odometry pose 32: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395496.252210022] [improved_trajectory_comparer]: Received SLAM trajectory with 60 poses
+[INFO] [1725395496.252636817] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0009, -0.0002, -0.0022), Orientation: (-0.0000, -0.0030, 0.0000, 1.0000)
+[INFO] [1725395496.267229827] [improved_trajectory_comparer]: Odometry pose 33: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395496.275682851] [improved_trajectory_comparer]: Odometry pose 34: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395496.288475088] [improved_trajectory_comparer]: Odometry pose 35: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395496.300803065] [improved_trajectory_comparer]: Odometry pose 36: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395496.330213123] [improved_trajectory_comparer]: Odometry pose 37: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395496.462134894] [improved_trajectory_comparer]: Odometry pose 38: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395497.248750210] [improved_trajectory_comparer]: Received SLAM trajectory with 70 poses
+[INFO] [1725395497.249899751] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0010, -0.0002, -0.0024), Orientation: (-0.0001, -0.0036, 0.0002, 1.0000)
+[INFO] [1725395497.273516588] [improved_trajectory_comparer]: Odometry pose 39: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395497.287232898] [improved_trajectory_comparer]: Odometry pose 40: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395498.376141754] [improved_trajectory_comparer]: Received SLAM trajectory with 80 poses
+[INFO] [1725395498.379772383] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0014, -0.0002, -0.0028), Orientation: (0.0000, -0.0041, -0.0000, 1.0000)
+[INFO] [1725395498.393058917] [improved_trajectory_comparer]: Odometry pose 41: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395499.854323852] [improved_trajectory_comparer]: Received SLAM trajectory with 90 poses
+[INFO] [1725395499.855344274] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0014, -0.0003, -0.0030), Orientation: (-0.0001, -0.0046, 0.0001, 1.0000)
+[INFO] [1725395499.870154384] [improved_trajectory_comparer]: Odometry pose 42: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395501.825567194] [improved_trajectory_comparer]: Received SLAM trajectory with 100 poses
+[INFO] [1725395501.826345062] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0015, -0.0002, -0.0032), Orientation: (-0.0001, -0.0053, 0.0000, 1.0000)
+[INFO] [1725395501.854745640] [improved_trajectory_comparer]: Odometry pose 43: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395504.383442987] [improved_trajectory_comparer]: Received SLAM trajectory with 110 poses
+[INFO] [1725395504.384747765] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0018, -0.0002, -0.0040), Orientation: (-0.0000, -0.0058, 0.0000, 1.0000)
+[INFO] [1725395504.414840410] [improved_trajectory_comparer]: Odometry pose 44: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395507.637912521] [improved_trajectory_comparer]: Received SLAM trajectory with 120 poses
+[INFO] [1725395507.641025753] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0019, -0.0002, -0.0043), Orientation: (-0.0000, -0.0064, 0.0000, 1.0000)
+[INFO] [1725395507.671226298] [improved_trajectory_comparer]: Odometry pose 45: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395511.689795116] [improved_trajectory_comparer]: Received SLAM trajectory with 130 poses
+[INFO] [1725395511.690513981] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0021, -0.0002, -0.0045), Orientation: (-0.0000, -0.0070, -0.0000, 1.0000)
+[INFO] [1725395511.728871205] [improved_trajectory_comparer]: Odometry pose 46: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395517.797713238] [improved_trajectory_comparer]: Received SLAM trajectory with 160 poses
+[INFO] [1725395517.798141733] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0022, -0.0000, -0.0051), Orientation: (-0.0000, -0.0088, 0.0001, 1.0000)
+[INFO] [1725395517.842187737] [improved_trajectory_comparer]: Odometry pose 47: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395528.666599864] [improved_trajectory_comparer]: Received SLAM trajectory with 240 poses
+[INFO] [1725395528.667332968] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0035, -0.0000, -0.0082), Orientation: (-0.0000, -0.0139, 0.0002, 0.9999)
+[INFO] [1725395528.723831040] [improved_trajectory_comparer]: Odometry pose 48: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395549.751582010] [improved_trajectory_comparer]: Received SLAM trajectory with 380 poses
+[INFO] [1725395549.752435215] [improved_trajectory_comparer]: Last SLAM pose: Position: (-0.0051, 0.0000, -0.0133), Orientation: (-0.0000, -0.0222, 0.0005, 0.9998)
+[INFO] [1725395549.818050872] [improved_trajectory_comparer]: Odometry pose 49: Position: (0.0000, 0.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725395598.434563728] [improved_trajectory_comparer]: Received SLAM trajectory with 6

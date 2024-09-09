@@ -1,0 +1,19 @@
+[0.733s] Invoking command in '/root/colcon_ws/build/trajectory_comparer': PYTHONPATH=/root/colcon_ws/build/trajectory_comparer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/colcon_ws/build/trajectory_comparer/build --no-deps symlink_data
+[0.998s] running develop
+[0.998s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.999s]   warnings.warn(
+[1.149s] running egg_info
+[1.149s] writing trajectory_comparer.egg-info/PKG-INFO
+[1.150s] writing dependency_links to trajectory_comparer.egg-info/dependency_links.txt
+[1.150s] writing entry points to trajectory_comparer.egg-info/entry_points.txt
+[1.150s] writing requirements to trajectory_comparer.egg-info/requires.txt
+[1.150s] writing top-level names to trajectory_comparer.egg-info/top_level.txt
+[1.152s] reading manifest file 'trajectory_comparer.egg-info/SOURCES.txt'
+[1.153s] writing manifest file 'trajectory_comparer.egg-info/SOURCES.txt'
+[1.154s] running build_ext
+[1.154s] Creating /root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages/trajectory-comparer.egg-link (link to .)
+[1.155s] Installing simple_trajectory_comparer script to /root/colcon_ws/install/trajectory_comparer/lib/trajectory_comparer
+[1.155s] 
+[1.155s] Installed /root/colcon_ws/build/trajectory_comparer
+[1.155s] running symlink_data
+[1.187s] Invoked command in '/root/colcon_ws/build/trajectory_comparer' returned '0': PYTHONPATH=/root/colcon_ws/build/trajectory_comparer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/colcon_ws/install/trajectory_comparer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/colcon_ws/build/trajectory_comparer/build --no-deps symlink_data

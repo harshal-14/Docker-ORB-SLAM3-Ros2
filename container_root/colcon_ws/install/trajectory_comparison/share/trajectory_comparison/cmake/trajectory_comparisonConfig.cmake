@@ -1,0 +1,1 @@
+/root/colcon_ws/build/trajectory_comparison/ament_cmake_core/trajectory_comparisonConfig.cmake

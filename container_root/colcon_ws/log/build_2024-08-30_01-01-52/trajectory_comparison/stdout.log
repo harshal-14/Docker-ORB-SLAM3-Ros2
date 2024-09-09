@@ -1,0 +1,18 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /root/colcon_ws/install/trajectory_comparison/lib/trajectory_comparison/ground_truth_publisher.py
+-- Up-to-date symlink: /root/colcon_ws/install/trajectory_comparison/share/ament_index/resource_index/package_run_dependencies/trajectory_comparison
+-- Up-to-date symlink: /root/colcon_ws/install/trajectory_comparison/share/ament_index/resource_index/parent_prefix_path/trajectory_comparison
+-- Up-to-date symlink: /root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/environment/path.sh
+-- Up-to-date symlink: /root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/environment/path.dsv
+-- Up-to-date symlink: /root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/local_setup.bash
+-- Up-to-date symlink: /root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/local_setup.sh
+-- Up-to-date symlink: /root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/local_setup.zsh
+-- Up-to-date symlink: /root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/local_setup.dsv
+-- Symlinking: /root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/package.dsv
+-- Up-to-date symlink: /root/colcon_ws/install/trajectory_comparison/share/ament_index/resource_index/packages/trajectory_comparison
+-- Up-to-date symlink: /root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/cmake/trajectory_comparisonConfig.cmake
+-- Up-to-date symlink: /root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/cmake/trajectory_comparisonConfig-version.cmake
+-- Up-to-date symlink: /root/colcon_ws/install/trajectory_comparison/share/trajectory_comparison/package.xml

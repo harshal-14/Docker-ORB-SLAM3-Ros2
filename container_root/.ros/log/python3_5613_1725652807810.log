@@ -1,0 +1,773 @@
+[WARN] [1725652808.988643822] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652809.993255423] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652811.004242076] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652812.024511411] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652813.033441108] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652814.041741421] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652815.052819447] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652816.062922598] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652817.072540688] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652818.082509083] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652819.099451560] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652820.116177194] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652821.131779318] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652822.145454965] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652823.160475234] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652824.174252828] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652825.189072201] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652826.205098164] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652827.218770196] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652828.235574823] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652829.252821056] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652830.266831596] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652831.285664344] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652832.298037199] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652833.313783882] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652834.328861314] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652835.343749500] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652836.362462588] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652837.378278841] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652838.392397351] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652839.408423601] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652840.421753391] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652841.440791051] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652842.444524356] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652843.461236226] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652844.483363449] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652845.502350074] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652846.515688468] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652847.535403296] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652848.548940674] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652849.561950679] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652850.573646183] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652851.585452212] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652852.599030841] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652853.609364421] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652854.621960023] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652855.633993333] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652856.650646447] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652857.668522788] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652858.681980419] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652859.696073537] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652860.708136349] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652861.722529230] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652862.738985272] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[WARN] [1725652863.754687343] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: "map" passed to lookupTransform argument target_frame does not exist. 
+[INFO] [1725652863.759752714] [simplified_trajectory_comparer]: Received camera trajectory with 5 poses
+[INFO] [1725652863.760241005] [simplified_trajectory_comparer]: Last camera pose: Position: (1.0002, 0.9966, -1.1567), Orientation: (-0.0007, 0.0023, 0.0004, 1.0000)
+[INFO] [1725652863.762272404] [simplified_trajectory_comparer]: Robot pose 1: Position: (1.0000, 1.0000, 0.0000), Orientation: (0.0000, 0.0000, 0.0000, 1.0000)
+[INFO] [1725652863.765468578] [simplified_trajectory_comparer]: Received camera trajectory with 6 poses
+[INFO] [1725652863.765941406] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9956, 1.0068, -1.2416), Orientation: (-0.0052, -0.0014, 0.0002, 1.0000)
+[INFO] [1725652863.771843222] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652863.772385508] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652863.780285989] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652863.780811787] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652863.793352917] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652863.794252106] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652863.807772711] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652863.808327113] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652863.822496827] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652863.823243509] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652863.838981652] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652863.839563786] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652863.858118888] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652863.858844483] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652863.860351349] [simplified_trajectory_comparer]: Robot pose 2: Position: (1.0092, 0.9981, -0.1340), Orientation: (0.0004, 0.0019, 0.0000, 1.0000)
+[INFO] [1725652863.873258775] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652863.873869231] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652863.891771707] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652863.892500741] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652863.947489641] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652863.948066030] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652863.956901315] [simplified_trajectory_comparer]: Robot pose 3: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652864.025148498] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652864.025909068] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652864.057929094] [simplified_trajectory_comparer]: Robot pose 4: Position: (0.9923, 0.9137, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652864.103441799] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652864.104015470] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652864.157034359] [simplified_trajectory_comparer]: Robot pose 5: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652864.188082650] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652864.188592365] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652864.267127349] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652864.267540935] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652864.268827843] [simplified_trajectory_comparer]: Robot pose 6: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652864.348809622] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652864.349385143] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652864.357546354] [simplified_trajectory_comparer]: Robot pose 7: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652864.432514998] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652864.433011615] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652864.457711839] [simplified_trajectory_comparer]: Robot pose 8: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652864.530394875] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652864.530884412] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652864.557906409] [simplified_trajectory_comparer]: Robot pose 9: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652864.603933845] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652864.604510809] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652864.657926705] [simplified_trajectory_comparer]: Robot pose 10: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652864.704943574] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652864.705620312] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652864.769916834] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652864.770357079] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652864.771991686] [simplified_trajectory_comparer]: Robot pose 11: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652864.878761562] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652864.879445001] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652864.881812332] [simplified_trajectory_comparer]: Robot pose 12: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652864.962657495] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652864.963177647] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652864.965488939] [simplified_trajectory_comparer]: Robot pose 13: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652865.062042973] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652865.062726616] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652865.064988540] [simplified_trajectory_comparer]: Robot pose 14: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652865.146187212] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652865.147058741] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652865.159564104] [simplified_trajectory_comparer]: Robot pose 15: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652865.232685875] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652865.233139492] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652865.259239425] [simplified_trajectory_comparer]: Robot pose 16: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652865.330729487] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652865.331308551] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652865.360168962] [simplified_trajectory_comparer]: Robot pose 17: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652865.410899140] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652865.411558016] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652865.492712902] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652865.493283115] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652865.496364929] [simplified_trajectory_comparer]: Robot pose 18: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652865.568248494] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652865.568689585] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652865.570517342] [simplified_trajectory_comparer]: Robot pose 19: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652865.653510897] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652865.653974529] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652865.657518171] [simplified_trajectory_comparer]: Robot pose 20: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652865.763858165] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652865.764646227] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652865.767064640] [simplified_trajectory_comparer]: Robot pose 21: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652865.835982850] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652865.836625569] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652865.857598836] [simplified_trajectory_comparer]: Robot pose 22: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652865.933928822] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652865.934387743] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652865.957448556] [simplified_trajectory_comparer]: Robot pose 23: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652866.016254871] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652866.017086359] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652866.083238036] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652866.083688342] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652866.085234243] [simplified_trajectory_comparer]: Robot pose 24: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652866.160515435] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652866.161398546] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652866.163978384] [simplified_trajectory_comparer]: Robot pose 25: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652866.265401820] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652866.265920466] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652866.267749405] [simplified_trajectory_comparer]: Robot pose 26: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652866.360665744] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652866.361474805] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652866.365585726] [simplified_trajectory_comparer]: Robot pose 27: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652866.492387940] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652866.493096978] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652866.496776345] [simplified_trajectory_comparer]: Robot pose 28: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652866.561299667] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652866.561922079] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652866.564838014] [simplified_trajectory_comparer]: Robot pose 29: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652866.743978300] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652866.744846894] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652866.748387385] [simplified_trajectory_comparer]: Robot pose 30: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652866.760510544] [simplified_trajectory_comparer]: Robot pose 31: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652866.882442657] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652866.883203408] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652866.886678428] [simplified_trajectory_comparer]: Robot pose 32: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652867.014355046] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652867.015204061] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652867.021321226] [simplified_trajectory_comparer]: Robot pose 33: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652867.061089696] [simplified_trajectory_comparer]: Robot pose 34: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652867.223308960] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652867.224396140] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652867.231011403] [simplified_trajectory_comparer]: Robot pose 35: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652867.259705461] [simplified_trajectory_comparer]: Robot pose 36: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652867.401553939] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652867.403165863] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652867.408888025] [simplified_trajectory_comparer]: Robot pose 37: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652867.556093274] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652867.556993201] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652867.560987366] [simplified_trajectory_comparer]: Robot pose 38: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652867.719122401] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652867.721086173] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652867.726182342] [simplified_trajectory_comparer]: Robot pose 39: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652867.762353556] [simplified_trajectory_comparer]: Robot pose 40: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652867.909449023] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652867.910185368] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652867.914721102] [simplified_trajectory_comparer]: Robot pose 41: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652868.075261894] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652868.076729537] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652868.085351530] [simplified_trajectory_comparer]: Robot pose 42: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652868.263458001] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652868.264202200] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652868.268569774] [simplified_trajectory_comparer]: Robot pose 43: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652868.439251801] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652868.440439303] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652868.446157941] [simplified_trajectory_comparer]: Robot pose 44: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652868.461032706] [simplified_trajectory_comparer]: Robot pose 45: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652868.627729145] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652868.628949273] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652868.636972804] [simplified_trajectory_comparer]: Robot pose 46: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652868.663052116] [simplified_trajectory_comparer]: Robot pose 47: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652868.795980327] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652868.796993363] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652868.804265953] [simplified_trajectory_comparer]: Robot pose 48: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652868.981435724] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652868.982239007] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652868.986449551] [simplified_trajectory_comparer]: Robot pose 49: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652869.151945398] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652869.153093818] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652869.159341976] [simplified_trajectory_comparer]: Robot pose 50: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652869.166712980] [simplified_trajectory_comparer]: Robot pose 51: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652869.360649864] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652869.362304365] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652869.368311329] [simplified_trajectory_comparer]: Robot pose 52: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652869.539523221] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652869.540349289] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652869.547136502] [simplified_trajectory_comparer]: Robot pose 53: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652869.701681102] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652869.702687047] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652869.708941892] [simplified_trajectory_comparer]: Robot pose 54: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652869.874331535] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652869.875381630] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652869.882250120] [simplified_trajectory_comparer]: Robot pose 55: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652870.069306901] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652870.070227964] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652870.075872934] [simplified_trajectory_comparer]: Robot pose 56: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652870.243293402] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652870.244151135] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652870.251306648] [simplified_trajectory_comparer]: Robot pose 57: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652870.262224404] [simplified_trajectory_comparer]: Robot pose 58: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652870.443895491] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652870.445193152] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652870.453402253] [simplified_trajectory_comparer]: Robot pose 59: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652870.462066498] [simplified_trajectory_comparer]: Robot pose 60: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652870.617544725] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652870.618160531] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652870.622482653] [simplified_trajectory_comparer]: Robot pose 61: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652870.777237609] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652870.778345665] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652870.785993632] [simplified_trajectory_comparer]: Robot pose 62: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652870.961148008] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652870.962378675] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652870.968976485] [simplified_trajectory_comparer]: Robot pose 63: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652871.123652179] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652871.124510287] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652871.129197381] [simplified_trajectory_comparer]: Robot pose 64: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652871.274986612] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652871.275582452] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652871.279163756] [simplified_trajectory_comparer]: Robot pose 65: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652871.370311843] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652871.370876354] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652871.373719601] [simplified_trajectory_comparer]: Robot pose 66: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652871.501111062] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652871.502204477] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652871.509857256] [simplified_trajectory_comparer]: Robot pose 67: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652871.666992657] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652871.667698320] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652871.672428274] [simplified_trajectory_comparer]: Robot pose 68: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652871.826183259] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652871.827681179] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652871.834594670] [simplified_trajectory_comparer]: Robot pose 69: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652871.982371788] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652871.983204908] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652871.988804435] [simplified_trajectory_comparer]: Robot pose 70: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652872.139723954] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652872.140863401] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652872.148479477] [simplified_trajectory_comparer]: Robot pose 71: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652872.306040277] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652872.306662859] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652872.313824017] [simplified_trajectory_comparer]: Robot pose 72: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652872.471390379] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652872.472212111] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652872.477450491] [simplified_trajectory_comparer]: Robot pose 73: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652872.610198053] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652872.611035295] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652872.615337699] [simplified_trajectory_comparer]: Robot pose 74: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652872.757060048] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652872.758333476] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652872.765692286] [simplified_trajectory_comparer]: Robot pose 75: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652872.909081582] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652872.910221424] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652872.915455072] [simplified_trajectory_comparer]: Robot pose 76: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652873.078107435] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652873.078992431] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652873.084040050] [simplified_trajectory_comparer]: Robot pose 77: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652873.236449171] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652873.237177452] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652873.243175701] [simplified_trajectory_comparer]: Robot pose 78: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652873.413479145] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652873.414306478] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652873.420886285] [simplified_trajectory_comparer]: Robot pose 79: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652873.591524014] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652873.592472389] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652873.599005955] [simplified_trajectory_comparer]: Robot pose 80: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652873.773060980] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652873.773896307] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652873.781470534] [simplified_trajectory_comparer]: Robot pose 81: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652873.944977291] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652873.946049501] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652873.953216358] [simplified_trajectory_comparer]: Robot pose 82: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652874.130178364] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652874.131074975] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652874.138888664] [simplified_trajectory_comparer]: Robot pose 83: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652874.322221749] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652874.323191995] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652874.330894485] [simplified_trajectory_comparer]: Robot pose 84: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652874.479162707] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652874.480462134] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652874.487883781] [simplified_trajectory_comparer]: Robot pose 85: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652874.671442353] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652874.672266339] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652874.678389437] [simplified_trajectory_comparer]: Robot pose 86: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652874.871430018] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652874.872058893] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652874.879092172] [simplified_trajectory_comparer]: Robot pose 87: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652875.075979078] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652875.077910473] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652875.087687492] [simplified_trajectory_comparer]: Robot pose 88: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652875.280104678] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652875.281198429] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652875.287874763] [simplified_trajectory_comparer]: Robot pose 89: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652875.463743329] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652875.464761595] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652875.473370211] [simplified_trajectory_comparer]: Robot pose 90: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652875.691797859] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652875.692713559] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652875.702907054] [simplified_trajectory_comparer]: Robot pose 91: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652875.909098045] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652875.910411780] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652875.919083759] [simplified_trajectory_comparer]: Robot pose 92: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652876.146118134] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652876.147188169] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652876.157596130] [simplified_trajectory_comparer]: Robot pose 93: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652876.372384112] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652876.373175779] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652876.379788045] [simplified_trajectory_comparer]: Robot pose 94: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652876.604055435] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652876.604697312] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652876.610537555] [simplified_trajectory_comparer]: Robot pose 95: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652876.821030391] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652876.821659329] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652876.830156248] [simplified_trajectory_comparer]: Robot pose 96: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652877.046993729] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652877.047817160] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652877.056812022] [simplified_trajectory_comparer]: Robot pose 97: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652877.272611437] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652877.273467807] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652877.281726418] [simplified_trajectory_comparer]: Robot pose 98: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652877.457585984] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652877.458246984] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652877.466739956] [simplified_trajectory_comparer]: Robot pose 99: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652877.686045116] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652877.687982620] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652877.694596501] [simplified_trajectory_comparer]: Robot pose 100: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652877.913859762] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652877.914522075] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652877.919929525] [simplified_trajectory_comparer]: Robot pose 101: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652878.131601999] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652878.132722144] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652878.142664532] [simplified_trajectory_comparer]: Robot pose 102: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652878.369160018] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652878.370059911] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652878.376543738] [simplified_trajectory_comparer]: Robot pose 103: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652878.607799642] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652878.608876418] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652878.617721133] [simplified_trajectory_comparer]: Robot pose 104: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652878.805125895] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652878.805899719] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652878.812731962] [simplified_trajectory_comparer]: Robot pose 105: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652879.020939985] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652879.021979067] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652879.032041261] [simplified_trajectory_comparer]: Robot pose 106: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652879.280041926] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652879.281355970] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652879.291102831] [simplified_trajectory_comparer]: Robot pose 107: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652879.532171063] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652879.533185314] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652879.540992442] [simplified_trajectory_comparer]: Robot pose 108: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652879.780874162] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652879.781769340] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652879.787715371] [simplified_trajectory_comparer]: Robot pose 109: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652880.016291219] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652880.016880442] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652880.022697586] [simplified_trajectory_comparer]: Robot pose 110: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652880.221356422] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652880.222173288] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652880.227689146] [simplified_trajectory_comparer]: Robot pose 111: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652880.432416774] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652880.433761646] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652880.441737168] [simplified_trajectory_comparer]: Robot pose 112: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652880.677720777] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652880.678546202] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652880.687314140] [simplified_trajectory_comparer]: Robot pose 113: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652880.934569215] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652880.935771595] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652880.943736667] [simplified_trajectory_comparer]: Robot pose 114: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652881.205401199] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652881.206091862] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652881.213370984] [simplified_trajectory_comparer]: Robot pose 115: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652881.478743546] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652881.481295416] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652881.490842535] [simplified_trajectory_comparer]: Robot pose 116: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652881.765144099] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652881.766411664] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652881.775011978] [simplified_trajectory_comparer]: Robot pose 117: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652882.031116343] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652882.031947785] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652882.041754998] [simplified_trajectory_comparer]: Robot pose 118: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652882.315690464] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652882.316394753] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652882.323865224] [simplified_trajectory_comparer]: Robot pose 119: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652882.531572929] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652882.532492087] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652882.539087687] [simplified_trajectory_comparer]: Robot pose 120: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652882.744129211] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652882.746057556] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652882.754570603] [simplified_trajectory_comparer]: Robot pose 121: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652882.982967117] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652882.984177947] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652882.992666693] [simplified_trajectory_comparer]: Robot pose 122: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652883.268639472] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652883.269474833] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652883.276482847] [simplified_trajectory_comparer]: Robot pose 123: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652883.590921713] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652883.591653938] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652883.601959821] [simplified_trajectory_comparer]: Robot pose 124: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652883.887638645] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652883.888331255] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652883.898420781] [simplified_trajectory_comparer]: Robot pose 125: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652884.135352413] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652884.136502853] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652884.144120633] [simplified_trajectory_comparer]: Robot pose 126: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652884.359421225] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652884.360656263] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652884.371230675] [simplified_trajectory_comparer]: Robot pose 127: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652884.651838857] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652884.652573468] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652885.673974338] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652885.981877872] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652885.982813836] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652886.987812958] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652887.212658148] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652887.213683558] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652888.222504805] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652888.549851474] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652888.551259776] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652888.563471716] [simplified_trajectory_comparer]: Robot pose 128: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652888.897034099] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652888.898063372] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652888.908023980] [simplified_trajectory_comparer]: Robot pose 129: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652889.229724080] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652889.231996898] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652889.242311233] [simplified_trajectory_comparer]: Robot pose 130: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652889.568824536] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652889.571160962] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652889.584524042] [simplified_trajectory_comparer]: Robot pose 131: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652889.859414276] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652889.860510072] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652889.872271359] [simplified_trajectory_comparer]: Robot pose 132: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652890.220270686] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652890.221982237] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652890.235163874] [simplified_trajectory_comparer]: Robot pose 133: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652890.590086441] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652890.591197048] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652890.600650509] [simplified_trajectory_comparer]: Robot pose 134: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652890.931114677] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652890.932496942] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652890.940408372] [simplified_trajectory_comparer]: Robot pose 135: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652891.259116692] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652891.260590224] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652891.274338509] [simplified_trajectory_comparer]: Robot pose 136: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652891.600406137] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652891.601524614] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652891.614996518] [simplified_trajectory_comparer]: Robot pose 137: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652891.962205510] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652891.963234570] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652891.976253819] [simplified_trajectory_comparer]: Robot pose 138: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652892.329878392] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652892.330988312] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652892.345679910] [simplified_trajectory_comparer]: Robot pose 139: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652892.691808625] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652892.693439607] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652892.705731719] [simplified_trajectory_comparer]: Robot pose 140: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652893.067261513] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652893.068355325] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652893.079690613] [simplified_trajectory_comparer]: Robot pose 141: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652893.414204427] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652893.416094097] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652893.429519100] [simplified_trajectory_comparer]: Robot pose 142: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652893.751900853] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652893.752571394] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652893.760398184] [simplified_trajectory_comparer]: Robot pose 143: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652894.054095344] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652894.055759063] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652895.061758383] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652895.363617963] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652895.364137649] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652896.371045302] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652896.732817311] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652896.734118434] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652897.742843386] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652898.088681287] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652898.089766015] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652899.101777992] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652899.412519710] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652899.413500584] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652899.426888670] [simplified_trajectory_comparer]: Robot pose 144: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652899.781938932] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652899.784287167] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652899.797465084] [simplified_trajectory_comparer]: Robot pose 145: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652900.149217619] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652900.150295215] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652900.160889811] [simplified_trajectory_comparer]: Robot pose 146: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652900.509144825] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652900.510982997] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652900.523025937] [simplified_trajectory_comparer]: Robot pose 147: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652900.880838329] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652900.881678665] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652900.890774963] [simplified_trajectory_comparer]: Robot pose 148: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652901.208748674] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652901.210000772] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652901.220962631] [simplified_trajectory_comparer]: Robot pose 149: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652901.570050294] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652901.571268856] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652901.583783057] [simplified_trajectory_comparer]: Robot pose 150: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652901.971327611] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652901.972306365] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652901.984125105] [simplified_trajectory_comparer]: Robot pose 151: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652902.342368902] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652902.343116789] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652902.354327522] [simplified_trajectory_comparer]: Robot pose 152: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652902.725978311] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652902.727696366] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652902.738179477] [simplified_trajectory_comparer]: Robot pose 153: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652903.128631488] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652903.129940547] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652903.142142747] [simplified_trajectory_comparer]: Robot pose 154: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652903.554840752] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652903.555879177] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652903.567089730] [simplified_trajectory_comparer]: Robot pose 155: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652903.969063675] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652903.970282450] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652903.982051123] [simplified_trajectory_comparer]: Robot pose 156: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652904.358121692] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652904.359707633] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652905.374912958] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652905.786561105] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652905.787923026] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652906.797467249] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652907.236108815] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652907.237011787] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652908.249442255] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652908.581590344] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652908.582499826] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652909.592193039] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652910.017673476] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652910.018778655] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652911.022730831] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652911.433863679] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652911.435336924] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652911.448319933] [simplified_trajectory_comparer]: Robot pose 157: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652911.850911039] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652911.852193329] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652911.868158536] [simplified_trajectory_comparer]: Robot pose 158: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652912.277956354] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652912.279469211] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652912.291209545] [simplified_trajectory_comparer]: Robot pose 159: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652912.715658409] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652912.716980629] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652912.729276030] [simplified_trajectory_comparer]: Robot pose 160: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652913.129169772] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652913.130872947] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652913.145659242] [simplified_trajectory_comparer]: Robot pose 161: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652913.564642532] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652913.566086961] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652913.578943087] [simplified_trajectory_comparer]: Robot pose 162: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652913.982795807] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652913.983423942] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652914.997169433] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652915.413115382] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652915.414170632] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652916.423098521] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652916.864382249] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652916.865498983] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652917.874855372] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652918.312442747] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652918.313543021] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652918.325989627] [simplified_trajectory_comparer]: Robot pose 163: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652918.756284345] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652918.757146443] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652918.769331914] [simplified_trajectory_comparer]: Robot pose 164: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652919.223736102] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652919.224792481] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652919.239168461] [simplified_trajectory_comparer]: Robot pose 165: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652919.660220771] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652919.660906764] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652919.671398064] [simplified_trajectory_comparer]: Robot pose 166: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652920.101797841] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652920.102760505] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652920.116727320] [simplified_trajectory_comparer]: Robot pose 167: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652920.625130865] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652920.625910342] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652920.639349348] [simplified_trajectory_comparer]: Robot pose 168: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652921.119332585] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652921.120632348] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652921.134533359] [simplified_trajectory_comparer]: Robot pose 169: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652921.602795906] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652921.604086858] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652922.614768866] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652923.071863029] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652923.073209370] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652924.078533875] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652924.574474789] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652924.575398059] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652925.582072669] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652926.049407107] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652926.051024019] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652927.067460087] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652927.559345992] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652927.560473982] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652928.567193067] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652929.052589993] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652929.053922961] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652929.068337241] [simplified_trajectory_comparer]: Robot pose 170: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652929.548487873] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652929.550337288] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652929.566408781] [simplified_trajectory_comparer]: Robot pose 171: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652930.052121091] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652930.053479938] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652930.066723309] [simplified_trajectory_comparer]: Robot pose 172: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652930.536515854] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652930.537538265] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652930.549935383] [simplified_trajectory_comparer]: Robot pose 173: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652931.015115010] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652931.016040465] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652931.027639944] [simplified_trajectory_comparer]: Robot pose 174: Position: (0.9923, 0.9136, -2.9236), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652931.511280720] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652931.512386038] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652932.527628919] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652933.023073492] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652933.024279869] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652934.035099755] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652934.496208787] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652934.497062634] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652934.510266811] [simplified_trajectory_comparer]: Robot pose 175: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652934.985033813] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652934.986109509] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652934.998283579] [simplified_trajectory_comparer]: Robot pose 176: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652935.500002209] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652935.501196753] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[INFO] [1725652935.514465852] [simplified_trajectory_comparer]: Robot pose 177: Position: (0.9922, 0.9135, -2.9235), Orientation: (-0.0130, -0.0603, 0.0047, 0.9981)
+[INFO] [1725652936.006449569] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652936.007387156] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652937.013291175] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652937.495691719] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652937.496456302] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652938.504759615] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652939.002388308] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652939.003331588] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652940.011480995] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652940.485527671] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652940.486873219] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652941.494234103] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652941.892931470] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652941.894016443] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652942.900417685] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652943.409973418] [simplified_trajectory_comparer]: Received camera trajectory with 7 poses
+[INFO] [1725652943.410960536] [simplified_trajectory_comparer]: Last camera pose: Position: (0.9891, 1.0067, -1.3189), Orientation: (-0.0057, -0.0052, 0.0002, 1.0000)
+[WARN] [1725652944.416323342] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652945.187513863] [simplified_trajectory_comparer]: Received camera trajectory with 11 poses
+[INFO] [1725652945.188389427] [simplified_trajectory_comparer]: Last camera pose: Position: (1.3761, 0.8750, -2.8415), Orientation: (0.0113, -0.0566, -0.3184, 0.9462)
+[WARN] [1725652946.192912550] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652947.094673574] [simplified_trajectory_comparer]: Received camera trajectory with 12 poses
+[INFO] [1725652947.096102336] [simplified_trajectory_comparer]: Last camera pose: Position: (1.3357, 0.8717, -2.7575), Orientation: (0.0092, -0.0535, -0.3179, 0.9466)
+[WARN] [1725652948.107494050] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652949.040628428] [simplified_trajectory_comparer]: Received camera trajectory with 13 poses
+[INFO] [1725652949.041487636] [simplified_trajectory_comparer]: Last camera pose: Position: (1.3388, 0.8744, -2.7560), Orientation: (0.0096, -0.0533, -0.3182, 0.9465)
+[WARN] [1725652950.054277878] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652951.207370074] [simplified_trajectory_comparer]: Received camera trajectory with 15 poses
+[INFO] [1725652951.208223875] [simplified_trajectory_comparer]: Last camera pose: Position: (1.3296, 0.8746, -2.7556), Orientation: (0.0095, -0.0533, -0.3180, 0.9465)
+[INFO] [1725652951.221399700] [simplified_trajectory_comparer]: Robot pose 178: Position: (1.2993, 0.9389, -2.6956), Orientation: (0.0039, -0.0492, -0.1518, 0.9872)
+[INFO] [1725652952.646685502] [simplified_trajectory_comparer]: Received camera trajectory with 18 poses
+[INFO] [1725652952.647576993] [simplified_trajectory_comparer]: Last camera pose: Position: (1.3067, 0.8832, -2.6035), Orientation: (0.0093, -0.0388, -0.3184, 0.9471)
+[INFO] [1725652952.661732414] [simplified_trajectory_comparer]: Robot pose 179: Position: (1.2993, 0.9389, -2.6956), Orientation: (0.0039, -0.0492, -0.1518, 0.9872)
+[INFO] [1725652954.228206523] [simplified_trajectory_comparer]: Received camera trajectory with 20 poses
+[INFO] [1725652954.229765450] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2675, 0.9027, -2.4201), Orientation: (0.0048, -0.0249, -0.3192, 0.9473)
+[WARN] [1725652955.240756779] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652956.998067708] [simplified_trajectory_comparer]: Received camera trajectory with 22 poses
+[INFO] [1725652956.999004733] [simplified_trajectory_comparer]: Last camera pose: Position: (1.2684, 0.9145, -2.2125), Orientation: (0.0035, -0.0133, -0.3200, 0.9473)
+[WARN] [1725652958.006112335] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652959.909715353] [simplified_trajectory_comparer]: Received camera trajectory with 24 poses
+[INFO] [1725652959.910900743] [simplified_trajectory_comparer]: Last camera pose: Position: (3.3164, -0.8671, -2.1376), Orientation: (0.0037, -0.0127, -0.2851, 0.9584)
+[INFO] [1725652959.925685820] [simplified_trajectory_comparer]: Robot pose 180: Position: (1.8943, 0.0304, -2.6767), Orientation: (0.0132, -0.0524, -0.3688, 0.9279)
+[INFO] [1725652962.142859718] [simplified_trajectory_comparer]: Received camera trajectory with 27 poses
+[INFO] [1725652962.144478091] [simplified_trajectory_comparer]: Last camera pose: Position: (3.3280, -0.8562, -2.0786), Orientation: (0.0037, -0.0094, -0.2855, 0.9583)
+[WARN] [1725652963.155812128] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652965.858878462] [simplified_trajectory_comparer]: Received camera trajectory with 32 poses
+[INFO] [1725652965.859955685] [simplified_trajectory_comparer]: Last camera pose: Position: (3.3307, -0.8404, -2.0386), Orientation: (0.0045, -0.0065, -0.2865, 0.9581)
+[INFO] [1725652965.875246609] [simplified_trajectory_comparer]: Robot pose 181: Position: (2.9789, -0.6467, -2.1694), Orientation: (0.0031, -0.0142, -0.2848, 0.9585)
+[INFO] [1725652969.182446181] [simplified_trajectory_comparer]: Received camera trajectory with 38 poses
+[INFO] [1725652969.185353639] [simplified_trajectory_comparer]: Last camera pose: Position: (3.3525, -0.8343, -2.0280), Orientation: (0.0018, -0.0051, -0.2875, 0.9578)
+[INFO] [1725652969.202417259] [simplified_trajectory_comparer]: Robot pose 182: Position: (3.6569, -1.0800, -2.1309), Orientation: (0.0039, -0.0129, -0.2854, 0.9583)
+[INFO] [1725652972.845264081] [simplified_trajectory_comparer]: Received camera trajectory with 41 poses
+[INFO] [1725652972.846491896] [simplified_trajectory_comparer]: Last camera pose: Position: (3.3499, -0.8199, -2.0169), Orientation: (0.0024, -0.0049, -0.2880, 0.9576)
+[INFO] [1725652972.859906878] [simplified_trajectory_comparer]: Robot pose 183: Position: (4.3427, -1.4948, -2.0606), Orientation: (0.0036, -0.0094, -0.2568, 0.9664)
+[INFO] [1725652977.086395471] [simplified_trajectory_comparer]: Received camera trajectory with 48 poses
+[INFO] [1725652977.088702488] [simplified_trajectory_comparer]: Last camera pose: Position: (3.3526, -0.8207, -2.0162), Orientation: (0.0022, -0.0048, -0.2881, 0.9576)
+[WARN] [1725652978.101394851] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652982.977020696] [simplified_trajectory_comparer]: Received camera trajectory with 55 poses
+[INFO] [1725652982.978313454] [simplified_trajectory_comparer]: Last camera pose: Position: (3.3526, -0.8207, -2.0162), Orientation: (0.0022, -0.0048, -0.2881, 0.9576)
+[WARN] [1725652983.990918575] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652989.441204420] [simplified_trajectory_comparer]: Received camera trajectory with 57 poses
+[INFO] [1725652989.441914528] [simplified_trajectory_comparer]: Last camera pose: Position: (3.3526, -0.8207, -2.0162), Orientation: (0.0022, -0.0048, -0.2881, 0.9576)
+[WARN] [1725652990.455673133] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725652996.952938012] [simplified_trajectory_comparer]: Received camera trajectory with 64 poses
+[INFO] [1725652996.954756244] [simplified_trajectory_comparer]: Last camera pose: Position: (3.3526, -0.8207, -2.0162), Orientation: (0.0022, -0.0048, -0.2881, 0.9576)
+[INFO] [1725652996.971025832] [simplified_trajectory_comparer]: Robot pose 184: Position: (6.4366, -0.5166, -1.9938), Orientation: (-0.0064, -0.0040, 0.4229, 0.9061)
+[INFO] [1725653004.785995803] [simplified_trajectory_comparer]: Received camera trajectory with 79 poses
+[INFO] [1725653004.787298931] [simplified_trajectory_comparer]: Last camera pose: Position: (3.3526, -0.8207, -2.0162), Orientation: (0.0022, -0.0048, -0.2881, 0.9576)
+[INFO] [1725653004.802085376] [simplified_trajectory_comparer]: Robot pose 185: Position: (7.6726, 0.9839, -1.9932), Orientation: (-0.0067, -0.0044, 0.4228, 0.9062)
+[INFO] [1725653014.627060488] [simplified_trajectory_comparer]: Received camera trajectory with 90 poses
+[INFO] [1725653014.628279263] [simplified_trajectory_comparer]: Last camera pose: Position: (3.3526, -0.8207, -2.0162), Orientation: (0.0022, -0.0048, -0.2881, 0.9576)
+[INFO] [1725653014.641074958] [simplified_trajectory_comparer]: Robot pose 186: Position: (9.2388, 2.7843, -1.9989), Orientation: (-0.0074, -0.0069, 0.4271, 0.9041)
+[INFO] [1725653025.487108050] [simplified_trajectory_comparer]: Received camera trajectory with 100 poses
+[INFO] [1725653025.488058687] [simplified_trajectory_comparer]: Last camera pose: Position: (3.3526, -0.8207, -2.0162), Orientation: (0.0022, -0.0048, -0.2881, 0.9576)
+[WARN] [1725653026.500621437] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653040.190690052] [simplified_trajectory_comparer]: Received camera trajectory with 119 poses
+[INFO] [1725653040.193132000] [simplified_trajectory_comparer]: Last camera pose: Position: (3.3561, -0.8208, -2.0163), Orientation: (0.0022, -0.0048, -0.2876, 0.9577)
+[INFO] [1725653040.209329933] [simplified_trajectory_comparer]: Robot pose 187: Position: (13.4632, -1.5361, -1.6690), Orientation: (0.0066, -0.0141, 0.0064, 0.9999)
+[INFO] [1725653056.570824261] [simplified_trajectory_comparer]: Received camera trajectory with 134 poses
+[INFO] [1725653056.572308264] [simplified_trajectory_comparer]: Last camera pose: Position: (3.3561, -0.8208, -2.0163), Orientation: (0.0022, -0.0048, -0.2876, 0.9577)
+[WARN] [1725653057.589818192] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653081.685966506] [simplified_trajectory_comparer]: Received camera trajectory with 181 poses
+[INFO] [1725653081.687009575] [simplified_trajectory_comparer]: Last camera pose: Position: (3.3561, -0.8208, -2.0163), Orientation: (0.0022, -0.0048, -0.2876, 0.9577)
+[WARN] [1725653082.698998185] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653113.045298204] [simplified_trajectory_comparer]: Received camera trajectory with 219 poses
+[INFO] [1725653113.047596084] [simplified_trajectory_comparer]: Last camera pose: Position: (16.1757, -0.6981, -1.6172), Orientation: (0.0062, 0.0167, -0.0158, 0.9997)
+[INFO] [1725653113.066380722] [simplified_trajectory_comparer]: Robot pose 188: Position: (17.4134, -0.7383, -1.6547), Orientation: (0.0073, 0.0174, -0.0163, 0.9997)
+[INFO] [1725653154.880218014] [simplified_trajectory_comparer]: Received camera trajectory with 276 poses
+[INFO] [1725653154.882346509] [simplified_trajectory_comparer]: Last camera pose: Position: (16.1818, -0.6992, -1.6182), Orientation: (0.0062, 0.0166, -0.0157, 0.9997)
+[INFO] [1725653154.903429718] [simplified_trajectory_comparer]: Robot pose 189: Position: (20.7307, 0.8646, -1.7236), Orientation: (0.0175, 0.0115, 0.7293, 0.6839)
+[INFO] [1725653212.373824237] [simplified_trajectory_comparer]: Received camera trajectory with 350 poses
+[INFO] [1725653212.375734070] [simplified_trajectory_comparer]: Last camera pose: Position: (21.1556, 3.9575, -1.7099), Orientation: (0.0174, 0.0144, 0.6602, 0.7507)
+[INFO] [1725653212.390723533] [simplified_trajectory_comparer]: Robot pose 190: Position: (21.8764, 10.3220, -1.6885), Orientation: (0.0174, 0.0117, 0.7271, 0.6862)
+[INFO] [1725653222.944979321] [simplified_trajectory_comparer]: Received camera trajectory with 61 poses
+[INFO] [1725653222.946958575] [simplified_trajectory_comparer]: Last camera pose: Position: (24.6317, -5.0019, -2.0589), Orientation: (-0.0008, 0.0244, -0.4194, 0.9075)
+[INFO] [1725653222.958957554] [simplified_trajectory_comparer]: Robot pose 191: Position: (24.8683, -4.8681, -2.0640), Orientation: (0.0032, 0.0050, -0.0695, 0.9976)
+[INFO] [1725653235.108648461] [simplified_trajectory_comparer]: Received camera trajectory with 68 poses
+[INFO] [1725653235.110487139] [simplified_trajectory_comparer]: Last camera pose: Position: (24.6291, -4.9997, -2.0600), Orientation: (-0.0007, 0.0244, -0.4196, 0.9074)
+[WARN] [1725653236.126804112] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653252.872767910] [simplified_trajectory_comparer]: Received camera trajectory with 95 poses
+[INFO] [1725653252.873595340] [simplified_trajectory_comparer]: Last camera pose: Position: (24.6459, -5.0016, -2.0566), Orientation: (-0.0000, 0.0246, -0.4203, 0.9071)
+[WARN] [1725653253.884755695] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653272.452442303] [simplified_trajectory_comparer]: Received camera trajectory with 103 poses
+[INFO] [1725653272.454145242] [simplified_trajectory_comparer]: Last camera pose: Position: (26.2286, -6.8213, -2.3073), Orientation: (0.0307, 0.0051, 0.9884, -0.1483)
+[WARN] [1725653273.471030481] [simplified_trajectory_comparer]: Could not transform map to robot_0/base_footprint: Could not find a connection between 'map' and 'robot_0/base_footprint' because they are not part of the same tree.Tf has two or more unconnected trees.
+[INFO] [1725653293.160147040] [simplified_trajectory_comparer]: Received camera trajectory with 103 poses
+[INFO] [1725653293.161003915] [simplified_trajectory_comparer]: Last camera pose: Position: (26.2286, -6.8213, -2.3073), Orientation: (0.0307, 0.0051, 0.9884, -0.1483)
+[INFO] [1725653293.171500960] [simplified_trajectory_comparer]: Robot pose 192: Position: (25.7064, -6.7297, -2.2138), Orientation: (-0.0009, 0.0146, 0.1184, 0.9929)
+[INFO] [1725653312.286677632] [simplified_trajectory_comparer]: Received camera trajectory with 103 poses
+[INFO] [1725653312.287253655] [simplified_trajectory_comparer]: Last camera pose: Position: (26.2286, -6.8213, -2.3073), Orientation: (0.0307, 0.0051, 0.9884, -0.1483)
+[INFO] [1725653312.299301566] [simplified_trajectory_comparer]: Robot pose 193: Position: (25.7064, -6.7297, -2.2138), Orientation: (-0.0009, 0.0146, 0.1184, 0.9929)
+[INFO] [1725653332.647101125] [simplified_trajectory_comparer]: Received camera trajectory with 103 poses
+[INFO] [1725653332.648371581] [simplified_trajectory_comparer]: Last camera pose: Position: (26.2286, -6.8213, -2.3073), O

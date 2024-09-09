@@ -184,6 +184,32 @@ namespace ORB_SLAM3_Wrapper
         mapReferencesMutex_.unlock();
     }
 
+    void ORBSLAM3Interface::getCameraTrajectory(nav_msgs::msg::Path &trajectory)
+    {
+        std::lock_guard<std::mutex> lock(mapDataMutex_);
+        
+        auto vKeyFrames = orbAtlas_->GetAllKeyFrames();
+        
+        for (auto pKF : vKeyFrames)
+        {
+            if (!pKF->isBad())
+            {
+                geometry_msgs::msg::PoseStamped pose;
+                
+                Sophus::SE3f kfPose = pKF->GetPose();
+                
+                mapReferencesMutex_.lock();
+                pose.pose = typeConversions_->transformPoseWithReference<geometry_msgs::msg::Pose>(mapReferencePoses_[pKF->GetMap()], kfPose);
+                mapReferencesMutex_.unlock();
+                
+                pose.header.frame_id = globalFrame_;
+                pose.header.stamp = typeConversions_->secToStamp(pKF->mTimeStamp);
+                
+                trajectory.poses.push_back(pose);
+            }
+        }
+    }
+
     void ORBSLAM3Interface::getDirectMapToRobotTF(std_msgs::msg::Header headerToUse, geometry_msgs::msg::TransformStamped &tf)
     {
         tf.header.frame_id = globalFrame_;

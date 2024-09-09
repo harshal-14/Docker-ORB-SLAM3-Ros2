@@ -1,0 +1,2 @@
+source;share/trajectory_comparison/environment/ament_prefix_path.sh
+source;share/trajectory_comparison/environment/path.sh

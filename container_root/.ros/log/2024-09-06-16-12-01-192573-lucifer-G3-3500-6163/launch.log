@@ -1,0 +1,5 @@
+1725653521.1934547 [INFO] [launch]: All log files can be found below /root/.ros/log/2024-09-06-16-12-01-192573-lucifer-G3-3500-6163
+1725653521.1935980 [INFO] [launch]: Default logging verbosity is set to INFO
+1725653521.2467256 [INFO] [rgbd-1]: process started with pid [6164]
+1725653899.4878950 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1725653899.9322200 [INFO] [rgbd-1]: process has finished cleanly [pid 6164]

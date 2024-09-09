@@ -1,0 +1,2 @@
+[INFO] [1724994170.762955500] [tf2_echo]: Waiting for transform map ->  robot_0/base_footprint: Invalid frame ID "map" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1724994262.717599318] [rclcpp]: signal_handler(signum=2)
